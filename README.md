@@ -10,4 +10,4 @@
 
 - IBM_MDM_PROD-SmokeTest [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/PROD/IBM_MDM_PROD-SmokeTest-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=354)
 
-- IBM_MDM_DEV-SmokeTest  [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/Test_Pipelines/DEV/IBM_MDM_DEV-SmokeTest-CI-DEV)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=355)
+- IBM_MDM_DEV-SmokeTest   [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/Test_Pipelines/DEV/IBM_MDM_DEV-SmokeTest-CI-DEV)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=355)
