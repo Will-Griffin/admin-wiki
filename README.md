@@ -1,6 +1,9 @@
 # Build Pipeline status
 
-## - CS [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/DEV/CS_Tests_R7_CaseyJones-DEV)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=140)
+## CS
+
+ - CS_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/PROD%20Tests/CS_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=199)
+
 
 ## NAS
 
