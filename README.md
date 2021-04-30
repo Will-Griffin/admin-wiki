@@ -4,6 +4,10 @@
 
  - CS_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/PROD%20Tests/CS_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=199)
 
+ - CS_Tests-Smoke-CI-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/QA/CS_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=158)
+
+ - CS_Tests-Smoke-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/TST/CS_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=157)
+
 
 ## NAS
 
