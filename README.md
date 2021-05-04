@@ -20,3 +20,10 @@
 - IBM_MDM_DEV-SmokeTest   [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/Test_Pipelines/DEV/IBM_MDM_DEV-SmokeTest-CI-DEV)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=355)
 
 - IBM_MDM_Test-SmokeTest  [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/Test_Pipelines/TST/IBM_MDM_Test-SmokeTest-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=360)
+
+
+##SRL
+
+- SRL_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/PROD%20Test%20Pipelines/SRL_ProdSmokeTest)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=247)
+- SRL_Tests-Smoke-CI-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/QA/SRL_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=154)
+- SRL_Tests-Smoke-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/TST/SRL_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=203)
