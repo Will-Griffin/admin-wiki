@@ -1,10 +1,17 @@
 # Build Pipeline status
 
-## CS
+## DMH CS
 
- - CS_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/PROD%20Tests/CS_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=199)
- - CS_Tests-Smoke-CI-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/QA/CS_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=158)
- - CS_Tests-Smoke-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/TST/CS_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=157)
+ - PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/PROD%20Tests/CS_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=199)
+ - QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/QA/CS_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=158)
+ - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/TST/CS_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=157)
+
+
+ ## NTST CS
+
+ - LIVE [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/PROD%20Tests/NTST_WebServiceSmokeTest-Prod)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=293)
+ - UAT [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/QA/NTST_WebServiceSmokeTest_NonProd-QA)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=292)
+ - DEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/CS/_apis/build/status/Test%20Pipelines/TST/NTST_WebServiceSmokeTest_NonProd-TST)](https://lacdmh-integrationservices.visualstudio.com/CS/_build/latest?definitionId=290)
 
 
 ## NAS
