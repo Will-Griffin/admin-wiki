@@ -18,6 +18,7 @@
  - NAS_SmokeTest-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/PROD%20Test%20Pipelines/NAS_SmokeTest-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=359)
  - NAS_SmokeTest-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/Test%20Pipelines/TST/NTST_ClinicianServiceSmokeTest_NonProd-TST)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=417)
 
+
 ## MDM
 
 - IBM_MDM_PROD-SmokeTest  [![Build status](https://lacdmh-integrationservices.visualstudio.com/MDM/_apis/build/status/PROD%20Test%20Pipelines/IBM_MDM_PROD-SmokeTest-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/MDM/_build/latest?definitionId=354)
@@ -30,3 +31,8 @@
 - SRL_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/PROD%20Test%20Pipelines/SRL_ProdSmokeTest)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=247)
 - SRL_Tests-Smoke-CI-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/QA/SRL_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=154)
 - SRL_Tests-Smoke-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/TST/SRL_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=203)
+
+
+##EPSDT
+
+- EPSDT PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/PROD%20Test%20Pipelines/EPSDT_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=236)
