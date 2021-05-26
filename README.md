@@ -36,3 +36,6 @@
 ##EPSDT
 
 - EPSDT PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/PROD%20Test%20Pipelines/EPSDT_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=236)
+- EPSDT DEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/DEV/EPSDT_Tests-Smoke-CI-DEV)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=164)
+- EPSDT QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/QA/EPSDT_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=182)
+- EPSDT TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/TST/EPSDT_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=183)
