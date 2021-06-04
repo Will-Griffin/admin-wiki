@@ -15,8 +15,8 @@
 
 
 ## NAS
- - NAS_SmokeTest-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/PROD%20Test%20Pipelines/NAS_SmokeTest-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=359)
- - NAS_SmokeTest-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/Test%20Pipelines/TST/NTST_ClinicianServiceSmokeTest_NonProd-TST)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=417)
+ - PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/PROD%20Test%20Pipelines/NAS_SmokeTest-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=359)
+ - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_apis/build/status/Test%20Pipelines/TST/NTST_ClinicianServiceSmokeTest_NonProd-TST)](https://lacdmh-integrationservices.visualstudio.com/NAS%203.0/_build/latest?definitionId=417)
 
 
 ## DMH MDM
@@ -36,14 +36,13 @@
 
 ##SRL
 
-- SRL_Tests-Smoke-CI-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/PROD%20Test%20Pipelines/SRL_ProdSmokeTest)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=247)
-- SRL_Tests-Smoke-CI-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/QA/SRL_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=154)
-- SRL_Tests-Smoke-CI-TST [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/TST/SRL_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=203)
+- PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/PROD%20Test%20Pipelines/SRL_ProdSmokeTest)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=247)
+- QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/QA/SRL_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=154)
+- TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/SRL/_apis/build/status/Test%20Pipelines/TST/SRL_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/SRL/_build/latest?definitionId=203)
 
 
 ##EPSDT
 
-- EPSDT PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/PROD%20Test%20Pipelines/EPSDT_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=236)
-- EPSDT DEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/DEV/EPSDT_Tests-Smoke-CI-DEV)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=164)
-- EPSDT QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/QA/EPSDT_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=182)
-- EPSDT TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/TST/EPSDT_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=183)
+- PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/PROD%20Test%20Pipelines/EPSDT_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=236)
+- QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/QA/EPSDT_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=182)
+- TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/TST/EPSDT_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=183)
