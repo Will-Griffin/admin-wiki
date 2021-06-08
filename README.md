@@ -45,3 +45,10 @@
 - PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/PROD%20Test%20Pipelines/EPSDT_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=236)
 - QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/QA/EPSDT_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=182)
 - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_apis/build/status/Test_Pipelines/TST/EPSDT_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/EPSDT/_build/latest?definitionId=183)
+
+
+##LOC
+
+- PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/LOC/_apis/build/status/PROD%20Test%20Pipelines/LOC_ProdSmokeTest)](https://lacdmh-integrationservices.visualstudio.com/LOC/_build/latest?definitionId=273)
+- QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/LOC/_apis/build/status/Test%20Pipelines/QA/LOC_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/LOC/_build/latest?definitionId=46)
+- TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/LOC/_apis/build/status/Test%20Pipelines/TST/LOC_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/LOC/_build/latest?definitionId=30)
