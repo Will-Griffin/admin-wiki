@@ -59,3 +59,11 @@
 - PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/DS/_apis/build/status/PROD%20Test%20Pipelines/DS_Tests-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/DS/_build/latest?definitionId=187)
 - QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/DS/_apis/build/status/Test%20Pipelines/QA/DS_Tests-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/DS/_build/latest?definitionId=186)
 - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/DS/_apis/build/status/Test%20Pipelines/TST/DS_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/DS/_build/latest?definitionId=185)
+
+
+##PBM
+
+- PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/PROD/PBM_Script-PROD)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=208)
+- QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/QA/PBM_Script-QA)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=207)
+- TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/TST/PBM_Script-TST)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=206)
+- DEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/DEV/PBM_Script-DEV)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=205)
