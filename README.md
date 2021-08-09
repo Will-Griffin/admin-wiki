@@ -67,3 +67,13 @@
 - QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/QA/PBM_Script-QA)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=207)
 - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/TST/PBM_Script-TST)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=206)
 - DEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/DEV/PBM_Script-DEV)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=205)
+
+
+##CSI
+
+-PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/PROD%20Test%20Pipelines/CSI_Prod-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=353)
+
+-QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/Test%20Pipelines/QA/CSI_Test-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=288)
+
+-TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/Test%20Pipelines/TST/CSI_Test-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=287)
+
