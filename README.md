@@ -72,8 +72,6 @@
 ##CSI
 
 -PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/PROD%20Test%20Pipelines/CSI_Prod-Smoke-CI-PROD)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=353)
-
 -QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/Test%20Pipelines/QA/CSI_Test-Smoke-CI-QA)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=288)
-
 -TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/CSI/_apis/build/status/Test%20Pipelines/TST/CSI_Test-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/CSI/_build/latest?definitionId=287)
 
