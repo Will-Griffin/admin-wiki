@@ -60,7 +60,7 @@
 - TEST [![Build status](https://lacdmh-integrationservices.visualstudio.com/DS/_apis/build/status/Test%20Pipelines/TST/DS_Tests-Smoke-CI-TST)](https://lacdmh-integrationservices.visualstudio.com/DS/_build/latest?definitionId=185)
 
 
-##PBM script
+##PBM script (DO NOT Test Manually)
 
 - PROD [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/PROD/PBM_Script-PROD)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=208)
 - QA [![Build status](https://lacdmh-integrationservices.visualstudio.com/PBM/_apis/build/status/QA/PBM_Script-QA)](https://lacdmh-integrationservices.visualstudio.com/PBM/_build/latest?definitionId=207)
