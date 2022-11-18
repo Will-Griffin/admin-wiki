@@ -1,23 +1,42 @@
-Expedited Web Service
+# Expedited Certification DRAFT
 
+## Overview
 This document defines the web service expedited web service testing.
 
-Provider is required to submit successful calls from each operation.  Each operation has a weighted score.  Complete as much as the existing script as possible.
+##Requirements
 
-For providers already in production with vendor already in production: (vendor change example Clinivate --> Exym)
+Provider is required to submit successful calls from each operation for each environment and provide csv of call information to HEAT in lieu of the full script/outcome.  Complete as much as the existing script as possible.  Minimum accepted operations are available in defined below:
 
-minimum is create an admission, diagnosis, episode.
+###Scenario 1 New provider with Vendor that has contracts with other providers in production
+Step 1, 2, 4, and 14 
+###Scenario 2 Both provider and vendor are in production (vendor change)
+Step 1, 2
+###Scenario 3 ??
 
-Submit a csv to heat with this information:
+
+##When complete 
+submit a csv to heat with this information:
 
 providerno, datetime of call, operation, message recieved (error, success, etc.)
 
 
+Team will review transactions in BAM from each environment and compare against csv.
+
 BAM query to check for successful calls from each operation per environment.
-
-
+TODO: define query here
 
 BAM query to check for failed calls.
-None should exist in prod.
-Consistent failures indicate a problem, and will disable the connection.
+TODO: Define query here
+
+
+
+Provider will proceed to production but be put on a watch list until remaining operations are logged in BAM.
+
+BAM query to check for successful calls from each operation per environment.
+TODO: define query here
+
+BAM query to check for failed calls.
+TODO: Define query here
+
+Consistent failures indicate a problem, and notify production that they will be disconnected.
 
