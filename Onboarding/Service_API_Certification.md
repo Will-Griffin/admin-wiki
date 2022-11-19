@@ -1,10 +1,10 @@
-# Expedited Certification DRAFT
+# Service API Certification DRAFT
 ## Overview
 This document defines the processes for LA County Mental Health service API testing and certification. 
 
-The following scenarios describe the Use Cases applicable to Contracted Providers undergoing certification. 
+The following scenarios describe the Use Cases applicable to Contracted Providers undergoing certification: 
 
-- ###Scenario 1 New provider with Vendor that has contracts with other providers in production
+- ###Scenario 1: New provider with Vendor that has contracts with other providers in production
   Contracted Providers integrating with LACDMH via service API which fall under scenario 1 are required to submit successful calls for the following operations and workflows (Complete the existing script to extent applicable): 
   - Search
   - Admission
@@ -18,7 +18,7 @@ The following scenarios describe the Use Cases applicable to Contracted Provider
   Once submissions are complete, the Contractor shall provide csv of call information to HEAT ticket provided by DMH certification analysts. 
 
 
-- ###Scenario 2 Both provider and vendor are in production (vendor change)
+- ###Scenario 2: Both provider and vendor are in production (vendor change)
 
   Contracted Providers integrating with LACDMH via service API which fall under scenario 2 are required to submit successful calls for the following operations: 
 
@@ -30,6 +30,17 @@ The following scenarios describe the Use Cases applicable to Contracted Provider
   - PROD
 
   Once submissions are complete, the Contractor shall provide csv of call information to HEAT ticket provided by DMH certification analysts. 
+- ###Scenario 3: Both provider and vendor are New to LA County
+
+  Contracted Providers integrating with LACDMH via service API which fall under scenario 3 are required to submit successful calls for all operations listed in the certification script: 
+
+  - Search
+  - Admission
+
+  In the following environments: 
+  - QA
+
+  Once submissions are complete, the Contractor shall provide csv of call information and the completed certification script to the HEAT ticket provided by DMH certification analysts.
 
 ##CSV Requirements
 CSV files should contain only the following: 
@@ -73,7 +84,7 @@ Consistent failures indicate a problem, and the provider will be notified to cor
       ,[IsSyncFault]
       ,[LastModified]
   FROM [BAMPrimaryImport].[dbo].[bam_CSMessageReceive_AllInstances] with (nolock)
-  where sendername not like '%ACME5%'
+  where sendername like '%Provider Name%'
   and IsSyncFault = 0
   order by startTime desc
 
@@ -99,42 +110,6 @@ Consistent failures indicate a problem, and the provider will be notified to cor
       ,[IsSyncFault]
       ,[LastModified]
   FROM [BAMPrimaryImport].[dbo].[bam_CSMessageReceive_AllInstances] with (nolock)
-  where sendername not like '%ACME5%'
-  and IsSyncFault = 1
+  where sendername like '%Provider Name%'
+  and (IsSyncFault = 1 OR MessageIDOut is Null)
   order by startTime desc
-
-- Timeouts
-
-  ```sql
-  SELECT TOP (1000) [RecordID]
-      ,[ActivityID]
-      ,[PortName]
-      ,[SenderName]
-      ,[StartTime]
-      ,[EndTime]
-      ,[MessageIDIn]
-      ,[InterchangeID]
-      ,[MessageIDOut]
-      ,[MessageActivityID]
-      ,[EndToEndTrackingID]
-      ,[RootNode]
-      ,[MessageType]
-      ,[IsRequestReply]
-      ,[MessageSubType]
-      ,[TransportLocation]
-      ,[IsSyncFault]
-      ,[LastModified]
-  FROM [BAMPrimaryImport].[dbo].[bam_CSMessageReceive_AllInstances] with (nolock)
-  where MessageIDOut  is Null
-  ```
-
-
-
-
-
-
-
-
-
-
-
