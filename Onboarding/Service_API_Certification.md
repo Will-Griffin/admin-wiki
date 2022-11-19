@@ -32,12 +32,7 @@ The following scenarios describe the Use Cases applicable to Contracted Provider
   Once submissions are complete, the Contractor shall provide csv of call information to HEAT ticket provided by DMH certification analysts. 
 - ###Scenario 3: Both provider and vendor are New to LA County
 
-  Contracted Providers integrating with LACDMH via service API which fall under scenario 3 are required to submit successful calls for all operations listed in the certification script: 
-
-  - Search
-  - Admission
-
-  In the following environments: 
+  Contracted Providers integrating with LACDMH via service API which fall under scenario 3 are required to submit successful calls for all operations listed in the certification script in the following environments: 
   - QA
 
   Once submissions are complete, the Contractor shall provide csv of call information and the completed certification script to the HEAT ticket provided by DMH certification analysts.
@@ -54,14 +49,16 @@ Files should be | delimited and first row should contain headers for the data pr
 
 ##Submission Review Process 
 
-Once DMH receives the CSV file from Contractor, Certification Analysts will review transactions in the logs from each environment and compare against csv.
 
-Provider will be activated in production environment when all required service request messages and their corresponding responses are logged without errors in QA.
+1. Once DMH receives the CSV file from Contractor, Certification Analysts will review transactions in the logs from each environment and compare against csv.
 
-In production, monitoring will continue by Certification Analysts until all remaining operations listed in the certification script are logged.
+2. Provider will be activated in production environment when all required service request messages and their corresponding responses are logged without errors in QA.
 
-Consistent failures indicate a problem, and the provider will be notified to correct or be disconnected from production.
+3. In production, monitoring will continue for providers in Scenario 1-2 by Certification Analysts until all remaining operations listed in the certification script are logged.
 
+NOTE: Consistent failures indicate a problem, and the provider will be notified to correct or be disconnected from production.
+
+###Queries Used
 - Successful messages:
 
   ```sql
