@@ -1,15 +1,25 @@
 #Integration Services
 
 ##Table of Contents
-- [Special Support](#special-support)
-  - [In Progress](#in-progress)
-- [Integration Release Schedule:](#integration-release-schedule)
-  - [LE Onboarding Status ](#le-onboarding-status)
-  - [FFS Onboarding Status](#ffs-onboarding-status)
-- [**\[On HOLD (Items in this section will remain static until re-activated)\]**](#on-hold-items-in-this-section-will-remain-static-until-re-activated)
-- [**\[Recently completed (Items in this section are removed once reviewed)\]**](#recently-completed-items-in-this-section-are-removed-once-reviewed)
+- [1. Help Desk Tickets](#1-help-desk-tickets)
+- [2. Maintenance \& Operations](#2-maintenance--operations)
+  - [2.1. Maintenance](#21-maintenance)
+  - [2.2. Operations](#22-operations)
+- [3. Currently Active Projects](#3-currently-active-projects)
+- [4. Special Support](#4-special-support)
+  - [4.1. In Progress](#41-in-progress)
+  - [4.2. In Queue\*\*](#42-in-queue)
+  - [4.3. In Analysis\*\*](#43-in-analysis)
+  - [4.4. Approved Projects - Not started\*\*](#44-approved-projects---not-started)
+- [5. Integration Release Schedule:](#5-integration-release-schedule)
+  - [5.1. LE Onboarding Status ](#51-le-onboarding-status)
+  - [5.2. FFS Onboarding Status](#52-ffs-onboarding-status)
+- [6. On HOLD (Items in this section will remain static until re-activated)](#6-on-hold-items-in-this-section-will-remain-static-until-re-activated)
+- [7. Recently completed (Items in this section are removed once reviewed)](#7-recently-completed-items-in-this-section-are-removed-once-reviewed)
 
-## Help Desk Tickets
+<div style="page-break-after: always"></div>
+
+# 1. Help Desk Tickets
 
 
 Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
@@ -17,7 +27,8 @@ Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
 **Weekly trend for Mar is approximately 28 cases per week (up 14
 compared to 2021)**
 
-![](./media/image1.png)
+![](./image1.png)
+
 Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month
 compared to 2021)
 
@@ -45,20 +56,20 @@ systems.
 
 Sharepoint link for full summary.
 
-![](./media/image2.emf)
+![](./image2.emf)
 
 Salesforce Cases: 1
 
-![](./media/image3.png)
+![](./image3.png)
 
-![](./media/image4.png)
+![](./image4.png)
 
-## Maintenance & Operations 
+# 2. Maintenance & Operations 
 
-### Maintenance
+## 2.1. Maintenance
 - No current projects/modifications needed as part of maintenance
 
-### Operations
+## 2.2. Operations
 
 **Service Request #TBD**
 
@@ -72,7 +83,7 @@ Salesforce Cases: 1
 
 -   Team currently working with DMBI to migrate data to target environments by deployment dates. See Release Schedule portion of    BOB for deployment dates.
 
-## Currently Active Projects
+# 3. Currently Active Projects
 
 **Project -- Active (LA County Healthcare Information Data Exchange --
 HIDEx) -- Priority 1**
@@ -114,7 +125,7 @@ HIDEx) -- Priority 1**
 -   ~~Held meeting with Microsoft to discussion team activities,
     scheduling, and communication plan~~
 
--   ![](./media/image5.emf)
+-   ![](./image5.emf)
 
 -   ~~Scheduling meeting with ISD to prepare Azure subscriptions~~
 
@@ -202,9 +213,9 @@ HIDEx) -- Priority 1**
 
 -   ~~ETA for test file is mid-late January~~
 
-# Special Support 
+# 4. Special Support 
 
-## In Progress
+## 4.1. In Progress
 
 **Provider Merger - Active (Prime Health Care & St. Francis) -- Priority 6**
 
@@ -224,7 +235,7 @@ HIDEx) -- Priority 1**
 
     -   Ticket 404784 details onboarding handoffs:
 
-> ![](./media/image6.png)
+> ![](./image6.png)
 
 -   Meeting held on 3/8/2022 with Welligent regarding entity merger
 
@@ -273,9 +284,9 @@ Priority 7**
 -   Working with Project Management to document the program and project
     requests
 
-##In Queue**
+## 4.2. In Queue**
 
-##In Analysis**
+## 4.3. In Analysis**
 
 -   Enterprise Service Bus -- Juan F.
 
@@ -295,26 +306,26 @@ Priority 7**
 
 -   270/271 Real Time Medical Eligibility -- Philip
 
-##Approved Projects - Not started**
+## 4.4. Approved Projects - Not started**
 
 -   BizTalk Health Check Remediation -- TBD
 
-# Integration Release Schedule: 
+# 5. Integration Release Schedule: 
 
 EPSDT: TST: February 25th, 2022 / QA: April 27th, 2022 / PROD: May 11th,
 2022
 
 Scriptlink: SBOX: February 22, 2021 / PROD: TBD
 
-## LE Onboarding Status 
+## 5.1. LE Onboarding Status 
 
 Sharepoint link here.
 
-## FFS Onboarding Status
+## 5.2. FFS Onboarding Status
 
 Sharepoint link here.
 
-# **[On HOLD (Items in this section will remain static until re-activated)]** 
+# 6. On HOLD (Items in this section will remain static until re-activated) 
 
 **Project -- Subscription consolidation (Azure Gov & Commercial) --
 Priority 4**
@@ -447,7 +458,7 @@ from stakeholders on rules.
 -   Technical documentation has not been provided as of 10/20/20,
     despite several requests.
 
-# **[Recently completed (Items in this section are removed once reviewed)]** 
+# 7. Recently completed (Items in this section are removed once reviewed) 
 
 **Service Request #746493**
 
