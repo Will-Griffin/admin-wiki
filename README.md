@@ -77,4 +77,4 @@
 
 ##HIDEx
 
-- NTST LADEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/HIDEx%20-%20Healthcare%20Information%20Data%20Exchange/_apis/build/status/ntst_fhir_proxy_smoke_test)](https://lacdmh-integrationservices.visualstudio.com/HIDEx%20-%20Healthcare%20Information%20Data%20Exchange/_build/latest?definitionId=559)
+- NTST LADEV [![Build status](https://lacdmh-integrationservices.visualstudio.com/HIDEx%20-%20Healthcare%20Information%20Data%20Exchange/_apis/build/status/ntst_fhir_proxy_smoke_tests)](https://lacdmh-integrationservices.visualstudio.com/HIDEx%20-%20Healthcare%20Information%20Data%20Exchange/_build/latest?definitionId=568)
