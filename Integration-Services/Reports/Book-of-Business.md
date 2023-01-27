@@ -27,7 +27,7 @@ Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
 **Weekly trend for Mar is approximately 28 cases per week (up 14
 compared to 2021)**
 
-![](./image1.png)
+![](./Book-of-Business/image1.png)
 
 Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month
 compared to 2021)
@@ -56,13 +56,13 @@ systems.
 
 Sharepoint link for full summary.
 
-![](./image2.emf)
+![](./Book-of-Business/image2.emf)
 
 Salesforce Cases: 1
 
-![](./image3.png)
+![](./Book-of-Business/image3.png)
 
-![](./image4.png)
+![](./Book-of-Business/image4.png)
 
 # 2. Maintenance & Operations 
 
@@ -235,7 +235,7 @@ HIDEx) -- Priority 1**
 
     -   Ticket 404784 details onboarding handoffs:
 
-> ![](./image6.png)
+> ![](./Book-of-Business/image6.png)
 
 -   Meeting held on 3/8/2022 with Welligent regarding entity merger
 
