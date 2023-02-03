@@ -1,6 +1,6 @@
 #Integration Services
 
-<div style="page-break-after: always"></div>
+
 
 # 1. Help Desk Tickets
 
@@ -45,7 +45,7 @@ Salesforce Cases: 1
 ![](./Book-of-Business/image3.png)
 
 ![](./Book-of-Business/image4.png)
-
+<div style="page-break-after: always"></div>
 # 2. Maintenance & Operations 
 
 ## 2.1. Maintenance
@@ -64,7 +64,7 @@ Salesforce Cases: 1
 **Project -- Active (EPSDT Dynamics/Service Integration)**
 
 -   Team currently working with DMBI to migrate data to target environments by deployment dates. See Release Schedule portion of    BOB for deployment dates.
-
+<div style="page-break-after: always"></div>
 # 3. Currently Active Projects
 
 **Project -- Active (LA County Healthcare Information Data Exchange --
@@ -194,7 +194,7 @@ HIDEx) -- Priority 1**
     mapped~~
 
 -   ~~ETA for test file is mid-late January~~
-
+<div style="page-break-after: always"></div>
 # 4. Special Support 
 
 ## 4.1. In Progress
@@ -291,7 +291,7 @@ Priority 7**
 ## 4.4. Approved Projects - Not started**
 
 -   BizTalk Health Check Remediation -- TBD
-
+<div style="page-break-after: always"></div>
 # 5. Integration Release Schedule: 
 
 EPSDT: TST: February 25th, 2022 / QA: April 27th, 2022 / PROD: May 11th,
@@ -306,7 +306,7 @@ Sharepoint link here.
 ## 5.2. FFS Onboarding Status
 
 Sharepoint link here.
-
+<div style="page-break-after: always"></div>
 # 6. On HOLD (Items in this section will remain static until re-activated) 
 
 **Project -- Subscription consolidation (Azure Gov & Commercial) --
@@ -439,7 +439,7 @@ from stakeholders on rules.
 
 -   Technical documentation has not been provided as of 10/20/20,
     despite several requests.
-
+<div style="page-break-after: always"></div>
 # 7. Recently completed (Items in this section are removed once reviewed) 
 
 **Service Request #746493**
