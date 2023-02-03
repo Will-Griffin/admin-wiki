@@ -1,26 +1,8 @@
 #Integration Services
 
-##Table of Contents
-- [1. Help Desk Tickets](#1-help-desk-tickets)
-- [2. Maintenance \& Operations](#2-maintenance--operations)
-  - [2.1. Maintenance](#21-maintenance)
-  - [2.2. Operations](#22-operations)
-- [3. Currently Active Projects](#3-currently-active-projects)
-- [4. Special Support](#4-special-support)
-  - [4.1. In Progress](#41-in-progress)
-  - [4.2. In Queue\*\*](#42-in-queue)
-  - [4.3. In Analysis\*\*](#43-in-analysis)
-  - [4.4. Approved Projects - Not started\*\*](#44-approved-projects---not-started)
-- [5. Integration Release Schedule:](#5-integration-release-schedule)
-  - [5.1. LE Onboarding Status ](#51-le-onboarding-status)
-  - [5.2. FFS Onboarding Status](#52-ffs-onboarding-status)
-- [6. On HOLD (Items in this section will remain static until re-activated)](#6-on-hold-items-in-this-section-will-remain-static-until-re-activated)
-- [7. Recently completed (Items in this section are removed once reviewed)](#7-recently-completed-items-in-this-section-are-removed-once-reviewed)
-
 <div style="page-break-after: always"></div>
 
 # 1. Help Desk Tickets
-
 
 Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
 
