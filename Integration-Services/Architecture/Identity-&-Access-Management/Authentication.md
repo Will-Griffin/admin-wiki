@@ -12,14 +12,14 @@ Application registrations will be required for each environment.
 
 Approach used to authenticate requests from the provider to the healthcare APIs. The provider is represented as an application registration Azure Active Directory and granted access to other applications.
 
-![cicd](/Integration%20Services/.attachments/authn-client-credential-flow.png)
+![cicd](/Integration-Services/.attachments/authn-client-credential-flow.png)
 
 ## Application Registrations
 
 - [API Registrations](#apis) - Various components will require an application registration.
 - [Provider Registrations](#providers) - Each provider will require an application registration. This is the case where the provider system is the entity authenticating against the County of Los Angeles system.
 
-![cicd](/Integration%20Services/.attachments/authn-aad-app-registrations.png)
+![cicd](/Integration-Services/.attachments/authn-aad-app-registrations.png)
 
 ### Request Flow
 

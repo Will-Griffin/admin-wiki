@@ -4,7 +4,7 @@
 
 The EDI X12 837 Patient Claim Flow is documented below.
 
-![x12overview](/Integration%20Services/.attachments/workstream-x12-overview.png)
+![x12overview](/Integration-Services/.attachments/workstream-x12-overview.png)
 
 ## Technology Stack
 
@@ -184,7 +184,7 @@ The following diagram outlines the detailed steps taken by the workflow to inges
         - TBD
 7. Archive the input files        
 
-![837flow](/Integration%20Services/.attachments/workstream-x12-837-flow.png)
+![837flow](/Integration-Services/.attachments/workstream-x12-837-flow.png)
 
 #### Retrieving 837 Files
 
@@ -339,11 +339,11 @@ The following severity levels should be used:
 
 Run History:
 
-![runHistory](/Integration%20Services/.attachments/workstream-x12-run-history.png)
+![runHistory](/Integration-Services/.attachments/workstream-x12-run-history.png)
 
 Step Output:
 
-![runError](/Integration%20Services/.attachments/workstream-x12-run-history-error.png)
+![runError](/Integration-Services/.attachments/workstream-x12-run-history-error.png)
 
 
 ### Viewing EDI Logs

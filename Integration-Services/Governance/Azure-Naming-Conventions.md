@@ -12,7 +12,7 @@ Some resources require to be globally scoped because of DNS entries that are gen
 
 > Consider using the company abbreviation for globally unique resource names.
 
-![resource-naming-scope.png](/Integration%20Services/.attachments/resource-naming-scope-88272246-5cd3-4071-a290-8fb5db5590b3.png)
+![resource-naming-scope.png](/Integration-Services/.attachments/resource-naming-scope-88272246-5cd3-4071-a290-8fb5db5590b3.png)
 
 ## Naming components
 

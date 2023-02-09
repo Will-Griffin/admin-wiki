@@ -21,4 +21,4 @@ This solution uses 9 resource groups to separate resources across lifecycles and
 | `rg-LAC-DMH-HIDEX-Keyvaults-{env}` | Contains Keyvault resources specific to DMH |
 | `rg-LAC-DMH-HIDEX-ANALYTICS-{env}` | Contains Analytic services specific to DMH |
 
-![azrg](/Integration%20Services/.attachments/az-resource-groups.png)
+![azrg](/Integration-Services/.attachments/az-resource-groups.png)

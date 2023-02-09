@@ -1,2 +1,2 @@
 
-![Environment Approvers](/Integration%20Services/.attachments/ado-environment-approvers.png)
+![Environment Approvers](/Integration-Services/.attachments/ado-environment-approvers.png)
