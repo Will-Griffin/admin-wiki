@@ -2,7 +2,7 @@
 
 ## Overview
 
-![fhir](/Integration%20Services/.attachments/workstream-apis.png)
+![fhir](/.attachments/workstream-apis.png)
 
 ## System Components
 
