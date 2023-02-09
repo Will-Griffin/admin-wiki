@@ -14,4 +14,4 @@ Azure DevOps continuous integration and continuos delivery is leveraged to manag
     - Azure Pipeline [Environments](/Integration%20Services/DevOps/Environments) - Pipeline environments are used to manage the logic deployment of the components and required security.
 
 [
-![components](/Integration%20Services/.attachments/ado-components.png)
+![components](/Integration%20Services/Integration%20Services/.attachments/ado-components.png)

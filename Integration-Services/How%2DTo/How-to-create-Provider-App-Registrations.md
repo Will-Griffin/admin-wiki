@@ -48,8 +48,8 @@ completed app registration successfully
 
 - Verify the newly create App Registraiton on the Azure Management portal - https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
 
-![image.png](/.attachments/image-e1b84520-40db-45aa-833e-f325e5ed5dc8.png)
+![image.png](/Integration%20Services/.attachments/image-e1b84520-40db-45aa-833e-f325e5ed5dc8.png)
 
 - The step to add 'API Permissions' to the newly created App Registration is not automated and needs to be done manually based on the permissions required for the provider. At a minimum the departmental (DMH vs DPH), Reader and Writer permissions will need to be set. To perform this step navigate to the 'API Permissions' -> Add Permissions -> Select an API -> APIs my organization uses -> Search Criteria (HIDEX-FHIR-{Department}-{Environment}) -> Select specific permissions 
 
-![image.png](/.attachments/image-fdebd03f-c5f1-4628-af6f-1490ebd0985c.png)
+![image.png](/Integration%20Services/.attachments/image-fdebd03f-c5f1-4628-af6f-1490ebd0985c.png)

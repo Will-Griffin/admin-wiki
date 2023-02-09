@@ -19,10 +19,10 @@ The following features are enabled one each branch:
 
 ## Enable Pull Request
 
-![policy](/.attachments/ado-branch-policies.png)
+![policy](/Integration%20Services/.attachments/ado-branch-policies.png)
 
 ## Enable Build Validation
 
 This will enable the Pull Request to run a build and validate the code.
 
-![policy-build](/.attachments/ado-branch-policies-build.png)
+![policy-build](/Integration%20Services/.attachments/ado-branch-policies-build.png)

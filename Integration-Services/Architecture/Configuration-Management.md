@@ -27,7 +27,7 @@
 
 ## Strategy
 
-![strategy](/.attachments/config-strategy.png)
+![strategy](/Integration%20Services/.attachments/config-strategy.png)
 
 ## .NET Configuration
 

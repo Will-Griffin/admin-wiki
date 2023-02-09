@@ -22,7 +22,7 @@ Azure Load Testing Service consists of the following components:
 - App Component - When you run a load test for an Azure-hosted application, you can monitor resource metrics for the different Azure application components
 - Metric Analysis - During a load test, Azure Load Testing collects metrics about the test execution
 
-![azureloadtestingarchitecture](/.attachments/azure-load-testing-architecture-b51db126-b6f7-4044-9222-cd6d391e3dd0.png)
+![azureloadtestingarchitecture](/Integration%20Services/.attachments/azure-load-testing-architecture-b51db126-b6f7-4044-9222-cd6d391e3dd0.png)
 
 ### Creating Tests
 
@@ -34,7 +34,7 @@ Quick tests are used to load test a single endpoint and can be created through t
 - Select Tests in the left pane, select + Create, and then select Create a quick test.
 - Enter the URL and load parameters.
 
-![createquicktest](/.attachments/create-quick-test-5560ab23-c0ac-41a4-bc0f-198ec3cccb7f.png)
+![createquicktest](/Integration%20Services/.attachments/create-quick-test-5560ab23-c0ac-41a4-bc0f-198ec3cccb7f.png)
 
 The second approach is to use a JMeter script. This method enables reusing JMeter scripts and allows for more advanced testing. Tests are created by uploaded a JMX file.
 
@@ -44,7 +44,7 @@ The second approach is to use a JMeter script. This method enables reusing JMete
 
 By selecting Run test after creation, the test will start automatically. You can start your test manually at any time, after creating it.
 
-![createjmetertest](/.attachments/create-jmeter-test-fa75b2de-cbc7-41b0-90c1-91460e16b0b1.png)
+![createjmetertest](/Integration%20Services/.attachments/create-jmeter-test-fa75b2de-cbc7-41b0-90c1-91460e16b0b1.png)
 
 ### Test Plans
 
@@ -52,7 +52,7 @@ The test plan contains all files that are needed for running your load test. At 
 
 To upload tests to a test plan, navigate to the Test Plan and select all local tests to upload them to Azure.
 
-![testplanuploadfiles](/.attachments/test-plan-upload-files-210b69b6-7cf4-4cac-8ee4-641fa87ff0db.png)
+![testplanuploadfiles](/Integration%20Services/.attachments/test-plan-upload-files-210b69b6-7cf4-4cac-8ee4-641fa87ff0db.png)
 
 ### Parameters
 
@@ -60,7 +60,7 @@ Parameters are used to make test plans configurable. Here you can specify key-va
 
 There are two types of parameters: environmental variables and secrets.
 
-![configureparameters](/.attachments/configure-parameters-26ce2a55-ec80-48ba-94d9-3125b4f264cf.png)
+![configureparameters](/Integration%20Services/.attachments/configure-parameters-26ce2a55-ec80-48ba-94d9-3125b4f264cf.png)
 
 For more information regarding setting up parameters for environmental variables and Key Vault secrets, see [Parameterize a load test with environment variables and secrets](https://docs.microsoft.com/en-us/azure/load-testing/how-to-parameterize-load-tests).
 
@@ -68,7 +68,7 @@ For more information regarding setting up parameters for environmental variables
 
 Under the Load section is where configuration for the number of virtual users for the JMeter script and the engines run the script in parallel.
 
-![configuretestengineinstances](/.attachments/configure-test-engine-instances-3ca6f967-88d7-4c95-8f5f-b43db4a9e7f6.png)
+![configuretestengineinstances](/Integration%20Services/.attachments/configure-test-engine-instances-3ca6f967-88d7-4c95-8f5f-b43db4a9e7f6.png)
 
 ### Test Criteria
 
@@ -76,7 +76,7 @@ Under the Test Criteria section, you may specify load test failure criteria. Thi
 
 The client metrics that can be used are Average Response Time and Error Percentage.
 
-![configuretestcriteria](/.attachments/configure-test-criteria-ce4973cb-e78d-44d0-821c-82ce51773032.png)
+![configuretestcriteria](/Integration%20Services/.attachments/configure-test-criteria-ce4973cb-e78d-44d0-821c-82ce51773032.png)
 
 ### Monitoring
 
@@ -86,4 +86,4 @@ When editing a load test, select an App component to monitor. Azure Load Testing
 
 When a load test completes, the test result dashboard displays a graph detailing the performance for every App component and resource metric.
 
-![testresultdashboard](/.attachments/test-result-dashboard-6ab4a64e-7abd-4041-aef8-44f3f8408fb2.png)
+![testresultdashboard](/Integration%20Services/.attachments/test-result-dashboard-6ab4a64e-7abd-4041-aef8-44f3f8408fb2.png)

@@ -17,13 +17,13 @@ Testing is broken out into various layers provided its difficulty and dependenci
 - L2 - This level requires dependencies to be deployed. The tests are smaller sets and more brittle compared to L3. These are automated tests run during deployment before production.
 - L3 - This level requires dependencies to be deployed. These are automated tests run during and after deployment to production.
 
-![testpyramid](/.attachments/test-pyramid.png)
+![testpyramid](/Integration%20Services/.attachments/test-pyramid.png)
 
 ### Shift-Left Testing
 
 The goal for shifting left is to move quality upstream by performing testing tasks earlier in the pipeline. A combination of test and process improvements reduces the time for tests to execute and the impact of failures later on. Most importantly, it ensures that most testing is completed even before a change is merged into the main.
 
-![testshiftleft](/.attachments/test-shift-left.png)
+![testshiftleft](/Integration%20Services/.attachments/test-shift-left.png)
 
 ### Test Frameworks
 
@@ -46,13 +46,13 @@ Azure DevOps Test Cases will be used to set up manual tests. These are tests tha
 2. API Management - Validates that the expected API endpoints are configured in Azure API Management with their respective policies.
 3. FHIR Service - Validates that the expected FHIR API is deployed to each department's resource group and appropriately named.
 
-![testmanualrun](/.attachments/test-manual-run.png)
+![testmanualrun](/Integration%20Services/.attachments/test-manual-run.png)
 
 ### Manual Test Parameters
 
 Test parameters are associated with manual tests to repeat the test for a different environment. This spreadsheet-style configuration will list the Azure configuration expected across Dev, QA, and Production.
 
-![testmanualparams](/.attachments/test-manual-params.png)
+![testmanualparams](/Integration%20Services/.attachments/test-manual-params.png)
 
 ## Automated Tests
 
@@ -68,19 +68,19 @@ Branch policy will be configured on the `main` branch requiring PR changes to bu
 - The Build must succeed in order to complete pull requests
 - The Build expires immediately when the `main` branch is updated
 
-![testbuildvalsetup](/.attachments/test-build-validationsetup.png)
+![testbuildvalsetup](/Integration%20Services/.attachments/test-build-validationsetup.png)
 
 #### Validation Results
 
 Results are displayed on each Pull request showing whether the tests passed or failed.
 
-![testbuildvalresult](/.attachments/test-build-validation-result.png)
+![testbuildvalresult](/Integration%20Services/.attachments/test-build-validation-result.png)
 
 #### Code Coverage
 
 Code coverage will be a metric tracked to help measure the percentage of the code being tested. This will help ensure that the quality of the project improves over time. Code coverage will be assessed during a pull request as part of the build validation pipeline and only pertains to changes to code. It does not track untouched code.
 
-![testcc](/.attachments/test-build-validationsetup.png)
+![testcc](/Integration%20Services/.attachments/test-build-validationsetup.png)
 
 ### Unit Tests
 

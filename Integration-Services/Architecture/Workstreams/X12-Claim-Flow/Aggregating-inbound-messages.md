@@ -4,7 +4,7 @@
 
 The initial phase of the x12 process is to aggregate and process inbound messages. A custom Azure Function is used to aggregate all new 837 messages sent by the provider to LACO via SFTP. This component reads from the same Azure Storage Account and for each file will publish an event to Azure Event Grid.
 
-![2022-07-26_11-22-43.png](/.attachments/2022-07-26_11-22-43-40fd9a0f-a0c5-4213-9e0f-e15b286abc23.png)
+![2022-07-26_11-22-43.png](/Integration%20Services/.attachments/2022-07-26_11-22-43-40fd9a0f-a0c5-4213-9e0f-e15b286abc23.png)
 
 > NOTE: Currently data lake and SFTP enabled storage accounts do not publish events to Event Grid. Once this is natively supported, then this custom component could be removed.
 

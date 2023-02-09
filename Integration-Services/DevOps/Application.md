@@ -1,2 +1,2 @@
 
-![cicd](/.attachments/ado-cicd-app.png)
+![cicd](/Integration%20Services/.attachments/ado-cicd-app.png)

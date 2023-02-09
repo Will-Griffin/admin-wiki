@@ -4,7 +4,7 @@
 
 The SOAP workstream supports existing DMH providers that integrate with the LA County Client Services. This approach abstracts the new FHIR-based architecture for those existing consumers.
 
-![soap](/Integration%20Services/.attachments/workstream-soap-dotnet.png)
+![soap](/Integration%20Services/Integration%20Services/.attachments/workstream-soap-dotnet.png)
 
 ## Design considerations
 
