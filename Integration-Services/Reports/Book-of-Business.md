@@ -9,7 +9,7 @@ Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
 **Weekly trend for Mar is approximately 28 cases per week (up 14
 compared to 2021)**
 
-![](./Book-of-Business/image1.png)
+![](/Integration-Services/.attachments/HEAT_screenshot.png)
 
 Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month
 compared to 2021)
