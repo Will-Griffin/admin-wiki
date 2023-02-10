@@ -16,6 +16,9 @@ compared to 2021)
 
 Current Open tickets: 26
 
+::: query-table 8ec14279-1ee8-41ec-a4b5-b6d17000b5cb
+:::
+
 Oldest Ticket in queue is 515065 opened 12/28/21 \|Title: Test Cert ...
 
 Tasks Assigned for Integration Team from Aug 1st to current in HEAT
