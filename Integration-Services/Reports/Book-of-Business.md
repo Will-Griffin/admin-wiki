@@ -4,18 +4,6 @@
 
 # 1. Help Desk Tickets
 
-Current Trend (Mar 1st - Current): 58 cases (Open & Closed)
-
-**Weekly trend for Mar is approximately 28 cases per week (up 14
-compared to 2021)**
-
-![](/Integration-Services/.attachments/HEAT_screenshot.png)
-
-Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month
-compared to 2021)
-
-Current Open tickets: 26
-
 ::: query-table 8ec14279-1ee8-41ec-a4b5-b6d17000b5cb
 :::
 
