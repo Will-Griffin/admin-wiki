@@ -3,35 +3,24 @@
 #Integration Services
 
 # 1. Help Desk Tickets
-
+Active Tickets:
 ::: query-table 8ec14279-1ee8-41ec-a4b5-b6d17000b5cb
 :::
 
-Oldest Ticket in queue is 515065 opened 12/28/21 \|Title: Test Cert ...
-
-Tasks Assigned for Integration Team from Aug 1st to current in HEAT
-systems.
-
+Summary of Active Tickets by Category
 | Category|                     No of Tickets |
 |  --- | --- |
-|  ACCESS                               |    2|
-|  APPLICATION ERROR                 |       1|
-|  CLAIM STATUS                     |        6|
-| CONNECTION ISSUE                 |        1|
-|  DOCUMENTATION                  |          3|
-|  ERROR                         |           5|
-|  FORM STATUS                  |            1|
-|  GENERAL QUESTIONS           |             2|
-|  INSTALLATION CERTIFICATE   |              4|
-|  MEMBER AUTHORIZATION      |               1|
-|  PRM DATA                 |                1|
-| **Grand Total** | **27** |
+| ERROR | 2 |
+|  Installation Certificate | 4 |
+| ACCESS | 3 |
+|  UPDATE REQUEST | 1 |
+| **Grand Total** | **10** |
 
-Sharepoint link for full summary.
 
-![](./Book-of-Business/image2.emf)
+Salesforce Cases: 
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
-Salesforce Cases: 1
 
 ![](./Book-of-Business/image3.png)
 
