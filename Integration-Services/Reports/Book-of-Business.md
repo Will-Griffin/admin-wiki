@@ -26,267 +26,147 @@ Salesforce Cases:
 # 2. Maintenance & Operations 
 
 ## 2.1. Maintenance
-- No current projects/modifications needed as part of maintenance
+
+### CSI
+
+Current Features In Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+
+### SRL
+
+Current Features In Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+
+### CS
+
+Current Features In Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 ## 2.2. Operations
 
-**Service Request #TBD**
-
-**NAPPA Service Modification**
-
--   Changes are required to address additional fields (DEALicenseNumber, DEAExpirationDate) requested by stakeholders.
-
--   Additional fields must be added in order to complete EDI 274 testing with state.
-
-**Project -- Active (EPSDT Dynamics/Service Integration)**
-
--   Team currently working with DMBI to migrate data to target environments by deployment dates. See Release Schedule portion of    BOB for deployment dates.
-<div style="page-break-after: always"></div>
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 # 3. Currently Active Projects
 
 **Project -- Active (LA County Healthcare Information Data Exchange --
 HIDEx) -- Priority 1**
 
--   Microsoft team currently implementing baseline infrastructure to
-    publish FHIR server and services
+Current Features In Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
--   DMH provided security roles and memberships for subscriptions and
-    RBAC access
+**Project -- Active (NACT EDI Integration)**
 
--   DMH submitted requests for 9 subscriptions needed for HIDEx
+Current Features in Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
--   Team working on publishing release via DevOps
+**Project -- CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline **
 
--   Team documented requirements and ported to LA County instance of
-    Azure DevOps
+Current Features in Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
--   Microsoft onboarded two additional resources Paul Wu, Luis Fontanez
+**Project -- CalAIM BHQIP Client & Provider Directory API’s – September deadline**
 
--   Microsoft team still missing two resources and runs risk of not
-    meeting timeline due to lack of staffing
+Current Features in Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
--   ~~Team was on hiatus due to holidays in late 2021~~
+**Project -- Modernization FHIR customization & Support**
 
--   ~~Working internally to determined isolation, data, and privacy
-    requirements~~
+Current Features in Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
--   ~~Met with new Microsoft Architect Mustafa Al-Durra~~
+**Project -- CalHHS Interoperability – January 2024 deadline**
 
--   ~~Confirmed new Architecture on 9/22/2021~~
-
--   ~~Requested diagrams from Microsoft on 9/24/2021~~
-
--   ~~Meetings planned for last week of Sept to begin planning of Sprint
-    0.~~
-
--   ~~Scheduling sprint 0 activities and identifying resources~~
-
--   ~~Held meeting with Microsoft to discussion team activities,
-    scheduling, and communication plan~~
-
--   ![](./image5.emf)
-
--   ~~Scheduling meeting with ISD to prepare Azure subscriptions~~
-
--   ~~Reference Architecture has been set and decided. Departments will
-    share logical orchestration and separate functional storage.~~
-
--   ~~Inquiring with Microsoft next steps to begin Sprint 0~~
-
-**Project -- Active (Netsmart -- FHIR Implementation) -- Priority 2**
-
--   Currently reviewing Change Notices to review, validate and include
-    applicable logic from prior changes to Avatar Services
-
--   Currently meeting with Netsmart on weekly basis to review GAP
-    analysis documents
-
--   ~~Began planning with Netsmart in late August.~~
-
--   ~~Met on 9/22/2021 for FHIR, Auth token, and demo~~
-
--   ~~Planning and scheduling the following sessions with Netsmart~~
-
-    -   ~~Architectural and Workflow Discovery Planning Sessions~~
-
-        -   ~~Four 3-4 hour sessions~~
-
-    -   ~~Architecture and Workflow Focus Planning Sessions~~
-
-        -   ~~Four 5 hour sessions~~
-
-    -   ~~Quarterly FHIR Technical Support Sessions~~
-
-        -   ~~Six 1-day (6 hours per session) per quarter~~
-
--   ~~Team is reviewing implementation guide provided by Netsmart~~
-
--   ~~ETA for feedback is week of 10/18/21~~
-
--   ~~Next session with Netsmart scheduled for Oct 27, 2021~~
-
--   ~~Working on finalizing GAP analysis for stakeholder review~~
-
--   ~~Gap analysis complete, will send to stakeholders for feedback~~
-
-**Project -- Active (NACT EDI Integration) -- Priority 3**
-
--   Team is currently working on producing a test file for submission to
-    DHCS
-
--   Access to state Sharepoint site is still pending
-
--   Requested XML validation response from State on 2/5/22. DHCS
-    provided on 2/7/22
-
--   Met with DHCS on 2/4/22
-
--   ~~Project officially began 8/30/2021~~
-
--   ~~274 TR3 was not licensed by Department~~
-
--   ~~Worked with Administration to rush payment of invoice~~
-
--   ~~Invoice had been pending payment since September of 2020~~
-
--   ~~Received licensed TR3 on 9/24/21~~
-
--   ~~Design session scheduled 10/14/21~~
-
--   ~~Currently working on mapping dynamics entities to 274~~
-
--   ~~Developing logic app to build message and map to 274 schema~~
-
--   ~~Team had issue locating schema for state 274~~
-
--   ~~Team was able to resolve and is continuing to work on building 274
-    message~~
-
--   ~~Team is currently mapping the 274 transaction~~
-
--   ~~At least 10 fields have been identified that are not captured in
-    the source~~
-
--   ~~Development continues to build out the transaction as elements are
-    mapped~~
-
--   ~~ETA for test file is mid-late January~~
-
+Current Features in Progress
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+Risks
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 <div style="page-break-after: always"></div>
 
 # 4. Special Support 
 
 ## 4.1. In Progress
 
-**Provider Merger - Active (Prime Health Care & St. Francis) -- Priority 6**
-
--   P-Auths generated on 10/18/21
-
--   Working with AppDev to on automated practitioner association solution
-
--   Team provisioned access to Prime Health & St. Francia as follows:
-
-    -   Test certificate issued 12/28/2021
-
-    -   Certification scripts completed on 2/10/2022
-
-    -   Prime Health production cert issued 3/3/2022
-
-    -   St. Francis production cert issued 10/5/2020 (expires 10/5/2022
-
-    -   Ticket 404784 details onboarding handoffs:
-
-> ![](./Book-of-Business/image6.png)
-
--   Meeting held on 3/8/2022 with Welligent regarding entity merger
-
 **Program Implementation - Active (STARS Behavioral Health/CRTP) --
 Priority 7**
-
--   Met with Ken Burnett, Jim Wallace, Daniel Navasartian and William
-    Hubbard to discuss CRTP configuration
-
--   CRTP program will leverage 24Hr admissions. Program will span
-    multiple legal entities. 24Hr admissions will be submitted under the
-    overarching legal entity
-
--   Will G. (Revenue Systems) and Giri P (Enterprise App) provided    insight on billing and program config
-
--   Two new LE's will be forming under contract -- Central Stars, Valley
--    Stars will need new certs once DUNS is established.
+Updates
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 **Private Insurance Billing Implementation -- Active -- Priority 8**
-
--   Provided ACH ACCL form detailing contacts for DMH on 2/27/22, TTC confirmed receipt on 2/17/22
-
--   TTC forwarded ACCL request to Bank of America on 3/15/22
-
--   TTC is currently working on scripts to facilitate transfer from Bank
-    of America.
+Updates
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 **ECM Data Exchange Implementation - Active -- Priority 9**
 
--   Continuing to meet and discuss ECM/ILOS service implementation with
-    LACare
-
--   Per Yvette Willock data exchanges must be established with the
-    following Health Plans:
-
-    -   L.A. Care
-
-    -   Health Net
-
-    -   Anthem
-
-    -   Blue Shield of California, Promise Health Plan
-
-    -   Molina
-
--   Working with Project Management to document the program and project
-    requests
-
 ## 4.2. In Queue**
+
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+
 
 ## 4.3. In Analysis**
 
--   Enterprise Service Bus -- Juan F.
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
-    -   Access to Care (MicroSvc) -- Moh
-
-    -   SRTS -- CSI Integration -- Zak
-
-    -   Potential Client (MicroSvc) -- Zak
-
--   Noridian (Fed 837) Automation -- Mohammed
-
--   Update Client Push (Race/Ethnicity) -- Zak
-
--   Day Treatment Authorization Service -- Philip
-
--   Appointment/Referral -- TBD
-
--   270/271 Real Time Medical Eligibility -- Philip
 
 ## 4.4. Approved Projects - Not started**
 
--   BizTalk Health Check Remediation -- TBD
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
+
 <div style="page-break-after: always"></div>
 
 # 5. Integration Release Schedule: 
 
-EPSDT: TST: February 25th, 2022 / QA: April 27th, 2022 / PROD: May 11th,
-2022
-
-Scriptlink: SBOX: February 22, 2021 / PROD: TBD
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 ## 5.1. LE Onboarding Status 
-
-Sharepoint link here.
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
 ## 5.2. FFS Onboarding Status
+::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+:::
 
-Sharepoint link here.
+
 <div style="page-break-after: always"></div>
 
 # 6. On HOLD (Items in this section will remain static until re-activated) 
