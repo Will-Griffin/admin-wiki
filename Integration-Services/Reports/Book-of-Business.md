@@ -21,11 +21,6 @@ Salesforce Cases:
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
 :::
 
-
-![](./Book-of-Business/image3.png)
-
-![](./Book-of-Business/image4.png)
-
 <div style="page-break-after: always"></div>
 
 # 2. Maintenance & Operations 
