@@ -51,7 +51,7 @@ Current Features In Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table 17d6829b-9c6f-4e3f-b92b-1ae94113c887
 :::
 
 ## 2.2. Operations
