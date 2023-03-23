@@ -68,7 +68,7 @@ Current Features In Progress
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table a6421a9f-0b14-4a25-a9b3-a681513fbd8d
 :::
 
 **Project -- Active (NACT EDI Integration)**
