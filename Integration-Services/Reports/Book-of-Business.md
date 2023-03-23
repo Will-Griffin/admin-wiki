@@ -33,7 +33,7 @@ Current Features In Progress
 ::: query-table c7faaa46-e069-4b62-a85f-e00d63419d0c
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 
 ### SRL
