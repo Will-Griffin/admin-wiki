@@ -56,7 +56,7 @@ Risks
 
 ## 2.2. Operations
 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 # 3. Currently Active Projects
@@ -77,43 +77,43 @@ Current Features in Progress
 ::: query-table 43465691-c9b7-447d-ba19-08d07a6659cc
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **Project -- CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline **
 
 Current Features in Progress
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **Project -- CalAIM BHQIP Client & Provider Directory API’s – September deadline**
 
 Current Features in Progress
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **Project -- Modernization FHIR customization & Support**
 
 Current Features in Progress
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **Project -- CalHHS Interoperability – January 2024 deadline**
 
 Current Features in Progress
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 Risks
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 <div style="page-break-after: always"></div>
 
@@ -124,46 +124,46 @@ Risks
 **Program Implementation - Active (STARS Behavioral Health/CRTP) --
 Priority 7**
 Updates
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **Private Insurance Billing Implementation -- Active -- Priority 8**
 Updates
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 **ECM Data Exchange Implementation - Active -- Priority 9**
 
 ## 4.2. In Queue**
 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 
 ## 4.3. In Analysis**
 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 
 ## 4.4. Approved Projects - Not started**
 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 <div style="page-break-after: always"></div>
 
 # 5. Integration Release Schedule: 
 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 ## 5.1. LE Onboarding Status 
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 ## 5.2. FFS Onboarding Status
-::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
+::: query-table [insert query guid here]
 :::
 
 
