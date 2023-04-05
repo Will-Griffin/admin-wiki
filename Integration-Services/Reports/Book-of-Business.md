@@ -80,10 +80,11 @@ Risks
 ::: query-table [insert query guid here]
 :::
 
+
 **Project -- CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline **
 
 Current Features in Progress
-::: query-table [insert query guid here]
+::: query-table 6acff752-f1ae-437e-97b4-f00504c6fa31
 :::
 Risks
 ::: query-table [insert query guid here]
