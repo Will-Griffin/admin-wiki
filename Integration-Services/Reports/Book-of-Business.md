@@ -93,7 +93,7 @@ Risks
 **Project -- CalAIM BHQIP Client & Provider Directory API’s – September deadline**
 
 Current Features in Progress
-::: query-table [insert query guid here]
+::: query-table 20933b9a-012f-40b6-914e-e2b01b5f0881
 :::
 Risks
 ::: query-table [insert query guid here]
