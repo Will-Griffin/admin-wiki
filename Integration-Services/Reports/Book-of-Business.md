@@ -77,7 +77,7 @@ Current Features in Progress
 ::: query-table 43465691-c9b7-447d-ba19-08d07a6659cc
 :::
 Risks
-::: query-table [insert query guid here]
+::: query-table 43465691-c9b7-447d-ba19-08d07a6659cc
 :::
 
 
