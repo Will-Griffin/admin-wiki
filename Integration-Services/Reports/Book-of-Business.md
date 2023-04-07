@@ -4,6 +4,7 @@
 
 # 1. Help Desk Tickets
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
+
 Active Tickets:
 ::: query-table 8ec14279-1ee8-41ec-a4b5-b6d17000b5cb
 :::
