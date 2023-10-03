@@ -8,8 +8,9 @@ Per Mark (3/6/2023)
 2. CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline
 4. CalAIM BHQIP Client & Provider Directory API’s – September deadline
 5. SOGI
-   - updates to FHIR
-   - updates to legacy CS
+   - updates to FHIR and soap proxy
+   - updates to legacy CS (new wsdl)
+   - updates to MDM
 6. Access Center Modernization FHIR customization & Support
    - MDM Update
    - scheduling api
@@ -19,11 +20,11 @@ Per Mark (3/6/2023)
 9. CalHHS Interoperability – January 2024 deadline
 
 Not ranked:
-- NACT EDI274 Integration (new deliverable due 12/2023)
+- NACT EDI274 Integration support (new deliverable due 12/2023)
 - ReadyAPI Transition to Postman (Ongoing)
 - MPKI Replacement
 - Service Bus
 - NOAD
 - School based exchange
-- Existing support for legacy applications
+- Existing support for legacy applications EDI, PBM and CS
 - Security SQL scan/remediation
