@@ -157,9 +157,7 @@ Updates
 <div style="page-break-after: always"></div>
 
 # 5. Integration Release Schedule: 
-
-::: query-table [insert query guid here]
-:::
+![image.png](/.attachments/image-9b5ee674-5657-461e-a85d-5182f719494f.png)
 
 ## 5.1. LE Onboarding Status 
 ::: query-table [insert query guid here]
