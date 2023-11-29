@@ -8,7 +8,9 @@ Per Mark (3/6/2023)
    - Soap Proxy (Replacement for legacy apis CS, SRL, EPSDT, etc.)
    - Fhir proxy (Custom validation and routing)
 2. CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline
-4. CalAIM BHQIP Client & Provider Directory API’s – September deadline
+4. CalAIM 
+   - BHQIP Client & Provider Directory API’s – September deadline
+   - ECM SFTP support
 5. SOGI
    - updates to FHIR and soap proxy
    - updates to legacy CS (new wsdl)
@@ -30,3 +32,6 @@ Not ranked:
 - School based exchange
 - Existing support for legacy applications EDI, PBM and CS
 - Security SQL scan/remediation
+- Imprivata
+- Health Access and Integration
+
