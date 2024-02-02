@@ -2,9 +2,10 @@ Integration Services Project prioritization
 
 1. HIDEX/FHIR - The Healthcare Information Data Exchange (HIDEX) provides a common platform for DPH and DMH to exchange Fast Healthcare Interoperability Resources (FHIR) compliant messages/services and Electronic Data Interchange (EDI) files with mutual contract providers. 
  – dependency for Modernization project (stand up baseline functionality)
-   - Netsmart FHIR Implementation
-   - GoAnywhereMFT - Replace GlobalElectronic File Transfer (EFT)
-   - Onboarding Pilot and data load
+   - Netsmart FHIR Implementation - custom mapping for service gaps and data mapping
+     - Dictionary service api updates to add additional fhir/netsmart mappings
+   - GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)
+   - Onboarding Pilot and Provider data load
    - Soap Proxy (Replacement for legacy apis CS, SRL, EPSDT, etc.)
    - Fhir proxy (Custom validation and routing)
 
@@ -16,16 +17,17 @@ Integration Services Project prioritization
 3. SOGI - Add Sexual Orientation and Gender Identity related fields to comply with Board mandate.
    - updates to FHIR and soap proxy apis
    - updates to legacy CS (new wsdl) api
-   - updates to MDM api
+   - updates to Master Data Management (MDM) web service
 4. Access Center Modernization FHIR customization & Support - Modernize business processes, workflows and technology for the 24/7 ACCESS Call Center in order to improve client care delivery, reducing time‐to‐care and streamline call agent
 experience.
-   - Master Data Management (MDM) web service - Update logic to send messages to D365
+   - MDM changes - Update logic to send messages to D365
    - Update FHIR Proxy logic to handle scheduling-related resources 
    - Sync data between IBHIS and FHIR data stores
    - PMRT case api - customize FHIR resources to allow collection of data
 5. Client Services Information (CSI) Assessment Record web service updates:
    - SR#753909_Capture initial medication evaluation data & Apply logic for business rule
    - SR#748178_Connect SRTS data with CSI Assessment webservice data elements
+   - Requires update to base library used by all apis.
 6. SRL - Service Request Log
 7. CalHHS Interoperability
 
