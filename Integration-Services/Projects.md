@@ -20,14 +20,15 @@ Integration Services Project prioritization
    - updates to Master Data Management (MDM) web service
 4. Access Center Modernization FHIR customization & Support - Modernize business processes, workflows and technology for the 24/7 ACCESS Call Center in order to improve client care delivery, reducing time‐to‐care and streamline call agent
 experience.
-   - MDM changes - Update logic to send messages to D365
+   - Azure Cloud Infrastructure changes
+   - MDM changes - Update service logic to send messages to D365
    - Update FHIR Proxy logic to handle scheduling-related resources 
    - Sync data between IBHIS and FHIR data stores
    - PMRT case api - customize FHIR resources to allow collection of data
 5. Client Services Information (CSI) Assessment Record web service updates:
    - SR#753909_Capture initial medication evaluation data & Apply logic for business rule
    - SR#748178_Connect SRTS data with CSI Assessment webservice data elements
-   - Requires update to base library used by all apis.
+   - Requires update to base library used by all apis (BizTalk Infrastructure changes).
 6. SRL - Service Request Log
 7. CalHHS Interoperability
 
@@ -39,7 +40,7 @@ Not ranked:
 
 - Support for EDI Claiming - Process EDI X12 837, 277, TA1 and 835-files to support claiming.
 - Support for Prescriber Benefits Management (PBM) services - Process prescriber data and EDI X12834-file between DMH and PBM vendor, Magellan (now Prime Therapeutics)
-- Support for Client Services (CS), EPSDT, CS
+- Support for legacy BizTalk apis: Client Services (CS), EPSDT, CS
 - Security SQL scan/remediation
 - Security ISD remediation - Address and remediate vulnerabilities found during ISD security scan.
 - Imprivata - SFTP support with vendor to send and receive Fairwarning audit log data for compliance.
