@@ -1,3 +1,13 @@
+#Recurring tasks
+- IBHIS BizTalk server maintenance
+- IBHIS BizTalk error correction
+- Monthly provider cutoff
+  - Disable LE or FFS groups in EFT
+- Provider onboarding
+- 274 submissions (manual)
+
+
+
 # Completed Work by Project in Last 30 days
 
 ![image.png](/.attachments/image-1f57278e-965f-439b-b929-dfaf930b43bd.png)
