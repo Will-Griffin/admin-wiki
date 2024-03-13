@@ -6,3 +6,13 @@
 ::: query-table ef43e73d-fc59-4d2a-b099-023ec992db10
 :::
 
+| Project|                      |
+|  --- | --- |
+| Access Center | Ethan/Tiffany |
+| BizTalk | Misikir |
+| Dictionary Service | Tiffany |
+| HCPD 274 | Deepak |
+| HIDEX FHIR Proxy | Ethan/Misikir/Tiffany |
+| HIDEX Soap Proxy | Misikir/Tiffany |
+| Patient Access | Ethan/Deepak |
+| Provider Directory | Ethan/Misikir/Deepak |
