@@ -33,3 +33,7 @@ regular tasks
 
 source
 - https://dev.azure.com/lacdmh-integrationservices/Support/_git/Support?path=/queries&version=GBadd-biztalk-support-resources
+
+360 cleanup
+- decommission app server
+- archive db
