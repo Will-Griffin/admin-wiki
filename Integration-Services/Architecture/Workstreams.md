@@ -1,6 +1,9 @@
 [[_TOC_]]
 
+[[_TOSP_]]
+
 ## Overview
+Integration Services provides solutions that connect systems together using various platforms. BizTalk Server, Azure Cloud technologies provide Department SFTP, EDI, SOAP-based Web services, and EDI, and certificates. We also provide Azure DevOps and GitHub services for automation, source code repositories and project management. Administration services also include EFT and MFT.
 
 ![fhir](/Integration-Services/.attachments/workstream-apis.png)
 
