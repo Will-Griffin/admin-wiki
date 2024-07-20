@@ -112,7 +112,6 @@ Tasks Assigned for Integration Team from Aug 1st to current in HEAT systems:
 | **Grand Total** | **10** |
 
 Salesforce Cases: 
-
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
 :::
 
