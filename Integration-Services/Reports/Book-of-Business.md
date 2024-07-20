@@ -1,15 +1,20 @@
-[[_TOC_]]
-
-#Integration Services
+#Integration Services Book of Business
 
 # 1. Help Desk Tickets
+Current Trend (Jan 1st - Current) : 101 Cases (Open & Closed)
+
+**Weekly trend for Apr is approximately 51 cases.**
+
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
+ 
+Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month compared to 2021).
 
-Active Tickets:
-::: query-table 8ec14279-1ee8-41ec-a4b5-b6d17000b5cb
-:::
+Current Open tickets: 9
 
-Summary of Active Tickets by Category
+Oldest Ticket in queue is 533524 open 10/11/23 | Title: "_OUR SYSTEM IS NOT ALLOWING US TO PUSH INPATIENT EPISODES"
+
+Tasks Assigned for Integration Team from Aug 1st to current in HEAT systems:
+
 | Category|                     No of Tickets |
 |  --- | --- |
 | ERROR | 2 |
@@ -18,8 +23,8 @@ Summary of Active Tickets by Category
 |  UPDATE REQUEST | 1 |
 | **Grand Total** | **10** |
 
-
 Salesforce Cases: 
+
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
 :::
 
@@ -29,7 +34,7 @@ Salesforce Cases:
 
 ## 2.1. Maintenance
 
-### CSI
+### CSI Web service
 
 Current Features In Progress
 ::: query-table c7faaa46-e069-4b62-a85f-e00d63419d0c
@@ -38,7 +43,7 @@ Risks
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 
-### SRL
+### SRL Web service
 
 Current Features In Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
@@ -47,7 +52,7 @@ Risks
 ::: query-table 1e3c461c-0651-4bc9-b14b-1a0b1bb7b686
 :::
 
-### CS
+### Client Web Service (CS)
 
 Current Features In Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
@@ -56,7 +61,7 @@ Issues/Risks
 ::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
 :::
 
-### MDM
+### MDM Web service
 
 Current Features In Progress
 ::: query-table 73965f26-c347-4258-a446-2c1da512122d
@@ -65,7 +70,31 @@ Issues/Risks
 ::: query-table db4f3db4-fc4b-4331-b395-2081ea045960
 :::
 
+###BizTalk Server maintenance
+
+::: query-table [insert query guid here]
+:::
+
+
+
 ## 2.2. Operations
+
+###Onboarding
+
+::: query-table [insert query guid here]
+:::
+
+###EFT/MFT Administration
+
+::: query-table [insert query guid here]
+:::
+
+###Azure Cloud Administration
+
+::: query-table [insert query guid here]
+:::
+
+###DevSecOps Services
 
 ::: query-table [insert query guid here]
 :::
@@ -74,13 +103,6 @@ Issues/Risks
 
 **Project -- Active (LA County Healthcare Information Data Exchange --
 HIDEx) -- Priority 1**
-
-Current Features In Progress
-::: query-table 43465691-c9b7-447d-ba19-08d07a6659cc
-:::
-Risks
-::: query-table a6421a9f-0b14-4a25-a9b3-a681513fbd8d
-:::
 
 **Project -- Active (NACT EDI274 Integration)**
 
@@ -94,39 +116,13 @@ Risks
 
 **Project -- CMS Patient Access (Final Rule) API’s  (Client Access to the chart, access to provider directory, payer to payer data exchange) June 2023 deadline **
 
-Current Features in Progress
-::: query-table 6acff752-f1ae-437e-97b4-f00504c6fa31
-:::
-Risks
-::: query-table [insert query guid here]
-:::
 
 **Project -- CalAIM BHQIP Client & Provider Directory API’s – September deadline**
 
-Current Features in Progress
-::: query-table 20933b9a-012f-40b6-914e-e2b01b5f0881
-:::
-Risks
-::: query-table [insert query guid here]
-:::
-
 **Project -- Modernization FHIR customization & Support**
-
-Current Features in Progress
-::: query-table [insert query guid here]
-:::
-Risks
-::: query-table [insert query guid here]
-:::
 
 **Project -- CalHHS Interoperability – January 2024 deadline**
 
-Current Features in Progress
-::: query-table [insert query guid here]
-:::
-Risks
-::: query-table [insert query guid here]
-:::
 <div style="page-break-after: always"></div>
 
 # 4. Special Support 
