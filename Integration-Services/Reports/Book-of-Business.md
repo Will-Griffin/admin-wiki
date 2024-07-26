@@ -9,6 +9,7 @@
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
 ### CSI Web service
+No risks to timeline in delivery plan above.
 
 Current Features In Progress
 ::: query-table c7faaa46-e069-4b62-a85f-e00d63419d0c
@@ -18,6 +19,8 @@ Risks
 :::
 
 ### SRL Web service
+
+Business rules still in progress, but schema changes ready for deploy.
 
 Current Features In Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
