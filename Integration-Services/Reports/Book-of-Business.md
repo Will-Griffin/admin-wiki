@@ -6,7 +6,7 @@
 
 ## Release Schedule: 
 
-![image.png](/.attachments/image-9b5ee674-5657-461e-a85d-5182f719494f.png)
+![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
 ### CSI Web service
 
