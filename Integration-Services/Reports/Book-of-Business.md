@@ -137,7 +137,8 @@ Updates
 
 ## 4.2. In Queue**
 
-::: query-table [insert query guid here]
+Issues/Risks
+::: query-table 088f9aa3-6d65-4c74-a88f-a8c7487d8e79
 :::
 
 ## 4.3. In Analysis**
