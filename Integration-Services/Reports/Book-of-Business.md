@@ -104,11 +104,19 @@ Tasks Assigned for Integration Team from July 1st to current in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| ERROR | 2 |
-|  Installation Certificate | 4 |
-| ACCESS | 3 |
-|  UPDATE REQUEST | 1 |
-| **Grand Total** | **10** |
+| 999 | 4 |
+| ACCESS | 10 |
+| Certificate Status | 2 |
+| Claim Status | 12 |
+| Connection Issue | 5 |
+| Data Issue | 1 |
+| Error| 11 |
+| Generation Questions | 16 |
+| Installation Certificate | 2 |
+| Password | 1 |
+| PRM Data | 1 |
+| Website Down | 4|
+| **Grand Total** | **69** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
