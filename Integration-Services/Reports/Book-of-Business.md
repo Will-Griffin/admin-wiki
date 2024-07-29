@@ -91,19 +91,16 @@ Risks
 <div style="page-break-after: always"></div>
 
 # 3. Help Desk Tickets
-Current Trend (Jan 1st - Current) : 101 Cases (Open & Closed)
+Current Trend (Jan 1st - Current) : 631 Cases (Open & Closed)
 
-**Weekly trend for Apr is approximately 51 cases.**
+**Weekly trend for July is approximately 18 cases.**
 
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
  
-Monthly trend for 2021: approx. 54 cases per month (down 19 cases per month compared to 2021).
+Monthly trend for 2024: approx. 90 cases per month 
 
-Current Open tickets: 9
 
-Oldest Ticket in queue is 533524 open 10/11/23 | Title: "_OUR SYSTEM IS NOT ALLOWING US TO PUSH INPATIENT EPISODES"
-
-Tasks Assigned for Integration Team from Aug 1st to current in HEAT systems:
+Tasks Assigned for Integration Team from July 1st to current in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
