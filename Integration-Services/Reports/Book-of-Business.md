@@ -70,7 +70,7 @@ Risks
 :::
 
 ## 2.2.2. FFS Onboarding Status
-::: query-table [insert query guid here]
+::: query-table 50781838-8e69-47b6-95d1-6446f82d8999
 :::
 
 ###EFT/MFT Administration
