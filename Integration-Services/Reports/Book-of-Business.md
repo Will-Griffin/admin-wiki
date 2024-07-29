@@ -66,7 +66,7 @@ Risks
 ## EDI and Web service Onboarding
 
 ## 2.2.1. LE Onboarding Status 
-::: query-table [insert query guid here]
+::: query-table 2852a12e-3db1-4eb0-aceb-53cac84ab415
 :::
 
 ## 2.2.2. FFS Onboarding Status
