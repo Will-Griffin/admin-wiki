@@ -58,7 +58,11 @@ Risks
 
 ###BizTalk Server maintenance
 
-::: query-table [insert query guid here]
+Current Features in Progress
+::: query-table 7daee816-1f8e-4b96-9efd-7780b3435224
+:::
+Risks
+::: query-table 6bed7806-4b75-4fd9-8f30-e6ec1315ba1b
 :::
 
 ## 2.2. Operations
