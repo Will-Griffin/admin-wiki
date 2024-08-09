@@ -122,7 +122,7 @@ Tasks Assigned for Integration Team from July 1st to current in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| 999 | 4 |
+| 999 | 2 |
 | ACCESS | 10 |
 | Certificate Status | 2 |
 | Claim Status | 12 |
