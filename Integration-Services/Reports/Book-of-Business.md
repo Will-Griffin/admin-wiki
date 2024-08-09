@@ -128,12 +128,10 @@ Tasks Assigned for Integration Team from July 1st to current in HEAT systems:
 | Claim Status | 1 |
 | Connection Issue | 2 |
 | Error| 5 |
-| Generation Questions | 16 |
-| Installation Certificate | 2 |
-| Password | 1 |
-| PRM Data | 1 |
-| Website Down | 4|
-| **Grand Total** | **69** |
+| Generation Questions | 3 |
+| Installation Certificate | 1 |
+| Update Request | 1 |
+| **Grand Total** | **21** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
