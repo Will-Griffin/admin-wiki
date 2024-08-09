@@ -81,7 +81,7 @@ Current Features in Progress
 ::: query-table fb0471f7-23a7-469a-ab5c-2fd11b43b486
 :::
 Risks
-::: query-table a6421a9f-0b14-4a25-a9b3-a681513fbd8d
+::: query-table a5613d1f-0048-46aa-a69a-9a9eb1abf9a2
 :::
 
 ###BizTalk Server maintenance
