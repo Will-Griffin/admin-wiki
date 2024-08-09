@@ -39,6 +39,10 @@ Risks
 :::
 
 ### Client Web Service (CS)
+### Current Status
+- Netsmart issues listed below may cause issues with delivery plan above.
+### Next Steps
+- Test netsmart fixes.
 
 Current Features in Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
@@ -61,7 +65,6 @@ Issues/Risks
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm solution works with Access Center integration.
 - Promote/schedule build deployment to upper environments.
-
 
 Current Features In Progress
 ::: query-table 73965f26-c347-4258-a446-2c1da512122d
