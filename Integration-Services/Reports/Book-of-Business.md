@@ -7,13 +7,12 @@
 ## Release Schedule: 
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
-### CSI Web service
-##Current Status
+### 2.1.1 CSI Web service
+### Current Status
 - Debugging deployment error in DEV.
 - No risks to timeline in delivery plan above.
 
-##
-Next Steps
+### Next Steps
 - Correct deployment issue
 
 Current Features In Progress
@@ -23,7 +22,7 @@ Risks
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 
-### SRL Web service
+### 2.1.2 SRL Web service
 ### Current Status
 - Business rules and bug fixes in progress.
 - schema changes ready for deploy.
@@ -38,7 +37,7 @@ Risks
 ::: query-table 1e3c461c-0651-4bc9-b14b-1a0b1bb7b686
 :::
 
-### Client Web Service (CS)
+### 2.1.3 Client Web Service (CS)
 ### Current Status
 - Netsmart issues listed below may cause issues with delivery plan above.
 ### Next Steps
@@ -47,18 +46,16 @@ Risks
 Current Features in Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
 :::
-Issues/Risks
+Risks
 ::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
 :::
 
-### MDM Web service
-
+### 2.1.4 MDM Web service
 ### Current Status:
 - Testing with Access Center dev team and ISD is in progress.
 - ISD security software is blocking authentication for Access Center update.
 - Access Center project is on pause pending SOW issues.
 - Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
-
 ### Next Steps:
 - Netsmart is still working on resolving the getClientDetails operation issue related to Avatar Cal-PM 2024 Update 54 (SF case CS2775727).
 - Resolve authentication issue with ISD.
@@ -73,7 +70,7 @@ Issues/Risks
 ::: query-table db4f3db4-fc4b-4331-b395-2081ea045960
 :::
 
-### Healthcare Provider Directory (HCPD) EDI274 Integration
+### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
 ### Current Status:
 - Development is currently on hold pending DHCS issuing SFTP acount for automation.
 - Monthly file processing as scheduled, no major issues to report.
@@ -85,15 +82,6 @@ Current Features in Progress
 :::
 Risks
 ::: query-table a5613d1f-0048-46aa-a69a-9a9eb1abf9a2
-:::
-
-###BizTalk Server maintenance
-
-Current Features in Progress
-::: query-table 7daee816-1f8e-4b96-9efd-7780b3435224
-:::
-Risks
-::: query-table 6bed7806-4b75-4fd9-8f30-e6ec1315ba1b
 :::
 
 ## 2.2. Operations
@@ -108,17 +96,23 @@ Risks
 ::: query-table 50781838-8e69-47b6-95d1-6446f82d8999
 :::
 
-###EFT/MFT Administration
+
+## 2.2.3 BizTalk Server maintenance
+
+::: query-table 7daee816-1f8e-4b96-9efd-7780b3435224
+:::
+
+## 2.2.4 EFT/MFT Administration
 
 ::: query-table [insert query guid here]
 :::
 
-###Azure Cloud Administration
+## 2.2.5 Azure Cloud Administration
 
 ::: query-table [insert query guid here]
 :::
 
-###DevSecOps Services
+## 2.2.6 DevSecOps Services
 
 ::: query-table [insert query guid here]
 :::
