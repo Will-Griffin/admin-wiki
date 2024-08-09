@@ -5,7 +5,6 @@
 ## 2.1. Maintenance
 
 ## Release Schedule: 
-
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
 ### CSI Web service
@@ -25,14 +24,14 @@ Risks
 :::
 
 ### SRL Web service
-##Current Status
+### Current Status
 - Business rules and bug fixes in progress.
 - schema changes ready for deploy.
-##Next Steps
+### Next Steps
 - Finalize testing for release 1 schema changes.
 - Finalize release 2 for validations.
 
-Current Features In Progress
+Current Features in Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
 :::
 Risks
@@ -41,7 +40,7 @@ Risks
 
 ### Client Web Service (CS)
 
-Current Features In Progress
+Current Features in Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
 :::
 Issues/Risks
@@ -72,6 +71,11 @@ Issues/Risks
 :::
 
 ### Healthcare Provider Directory (HCPD) EDI274 Integration
+### Current Status:
+- Development is currently on hold pending DHCS issuing SFTP acount for automation.
+- Monthly file processing as scheduled, no major issues to report.
+### Next Steps:
+- None.
 
 Current Features in Progress
 ::: query-table fb0471f7-23a7-469a-ab5c-2fd11b43b486
