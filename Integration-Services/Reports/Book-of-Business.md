@@ -123,12 +123,11 @@ Tasks Assigned for Integration Team from July 1st to current in HEAT systems:
 | Category|                     No of Tickets |
 |  --- | --- |
 | 999 | 2 |
-| ACCESS | 10 |
-| Certificate Status | 2 |
-| Claim Status | 12 |
-| Connection Issue | 5 |
-| Data Issue | 1 |
-| Error| 11 |
+| ACCESS | 5 |
+| Certificate Status | 1 |
+| Claim Status | 1 |
+| Connection Issue | 2 |
+| Error| 5 |
 | Generation Questions | 16 |
 | Installation Certificate | 2 |
 | Password | 1 |
