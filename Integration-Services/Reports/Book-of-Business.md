@@ -109,9 +109,9 @@ Risks
 <div style="page-break-after: always"></div>
 
 # 3. Help Desk Tickets
-Current Trend (Jan 1st - Current) : 631 Cases (Open & Closed)
+Current Trend (Jan 1st - Current) : 653 Cases (Open & Closed)
 
-**Weekly trend for July is approximately 18 cases.**
+**Weekly trend for August is approximately 21 cases.**
 
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
  
