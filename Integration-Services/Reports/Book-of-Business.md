@@ -9,7 +9,13 @@
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
 ### CSI Web service
-No risks to timeline in delivery plan above.
+##Current Status
+- Debugging deployment error in DEV.
+- No risks to timeline in delivery plan above.
+
+##
+Next Steps
+- Correct deployment issue
 
 Current Features In Progress
 ::: query-table c7faaa46-e069-4b62-a85f-e00d63419d0c
@@ -19,8 +25,12 @@ Risks
 :::
 
 ### SRL Web service
-
-Business rules still in progress, but schema changes ready for deploy.
+##Current Status
+- Business rules and bug fixes in progress.
+- schema changes ready for deploy.
+##Next Steps
+- Finalize testing for release 1 schema changes.
+- Finalize release 2 for validations.
 
 Current Features In Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
@@ -41,17 +51,17 @@ Issues/Risks
 ### MDM Web service
 
 ### Current Status:
-- *Testing with Access Center dev team and ISD is in progress.
-- *ISD security software is blocking authentication for Access Center update.
-- *Access Center project is on pause pending SOW issues.
-- *Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
+- Testing with Access Center dev team and ISD is in progress.
+- ISD security software is blocking authentication for Access Center update.
+- Access Center project is on pause pending SOW issues.
+- Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
 
 ### Next Steps:
-- *Netsmart is still working on resolving the getClientDetails operation issue related to Avatar Cal-PM 2024 Update 54 (SF case CS2775727).
-- *Resolve authentication issue with ISD.
-- *Dev and testing as needed based on Netsmart changes.
-- *Test and confirm solution works with Access Center integration.
-- *Promote/schedule build deployment to upper environments.
+- Netsmart is still working on resolving the getClientDetails operation issue related to Avatar Cal-PM 2024 Update 54 (SF case CS2775727).
+- Resolve authentication issue with ISD.
+- Dev and testing as needed based on Netsmart changes.
+- Test and confirm solution works with Access Center integration.
+- Promote/schedule build deployment to upper environments.
 
 
 Current Features In Progress
