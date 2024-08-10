@@ -155,145 +155,24 @@ Salesforce Cases:
 
 ## 4.1. In Progress
 
-**Private Insurance Billing Implementation -- Active -- Priority 8**
-Updates
-::: query-table [insert query guid here]
-:::
-
-**ECM Data Exchange Implementation - Active -- Priority 9**
-
+### ECM/MHP Onboarding:
+- LACare currently has issue with SFTP disconnect.
+- BlueShield is in process of onboarding.
+###CBO/TTC
+- automation on hold due to resource constraints.
+- files are decrypted manually when received.
+###CalHHS
 ## 4.2. In Queue**
-
-Issues/Risks
-::: query-table 088f9aa3-6d65-4c74-a88f-a8c7487d8e79
-:::
-
+###LOCUS
+- pending completion of license purchase.
 ## 4.3. In Analysis**
-
-::: query-table [insert query guid here]
-:::
-
+###CalAIM-JI
 ## 4.4. Approved Projects - Not started**
 
-::: query-table [insert query guid here]
-:::
+None at this time.
 
 <div style="page-break-after: always"></div>
 
 # 5. On HOLD (Items in this section will remain static until re-activated) 
-
-**Project -- Subscription consolidation (Azure Gov & Commercial) --
-Priority 4**
-
--   Provided list of resources to DMBI, App Dev and Int on 8/30/21
--   Began inventory of resources left on DMH's legacy subscription
--   Working with ISD to implement commercial subscription
--   Provided access to App Dev resources
-
-**Project -- Subscription Organization and Ratification (Azure Gov &
-Commercial) -- Priority 5**
-
--   Met with Mark Cheng and John Ortega 11/2/21
--   Integration to work with DMBI to produce organization proposal for
-    Mark and John's approval
-
-**Project -- BizTalk Azure Migration -- Cancelled**
-
--   This effort is no longer needed as HIDEx/IPaaS will replace the
-    BizTalk on-prem functionality
--   ~~Team has implemented Vnet, subnets, Network security groups, and
-    VMs~~
--   ~~Developed Azure Resource Management Templates for deployment of
-    resources~~
--   ~~In process of Working with Security and Shared Services teams to
-    deploy ARM template and validate access permissions~~
--   ~~ISD Security to provide feedback on ARM templates -- requested
-    update on 12/16/20~~
--   ~~Meeting scheduled for 12/17/20~~
--   ~~ISD reviewing/processing proposed changes -- Review has been
-    pending 3 weeks~~
--   ~~Update requested 1/7/2021~~
--   ~~Request for update escalated on 1/13/2021~~
--   ~~Azure ARM templates stalled due to ISD security review~~
--   ~~Team has not been able to get feedback from ISD security since Nov
-    2021~~
--   ~~Escalating to ISD Management~~
--   ~~ISD requesting that all traffic be routed to ISD data center~~
--   ~~DMH team discussed with Microsoft and neither agrees traffic
-    should be routed to ISD prior to Azure.~~
--   ~~Requires discussion with ISD and escalation with DMH.~~
--   ~~Integration team escalated with DMH Security. Working on diagram
-    and documentation for discussion.~~
--   ~~Next steps to escalate with ISD Manager Rumi Salihue~~
-
-**ITAM**
-
--   Use ITAM to track division assets and configuration
--   Melvin M to setup a meeting to demo
--   Follow up email sent to Melvin on 1/29/20
--   Demo scheduled for 2/13/20
--   Discussed necessary data for ITAM pilot
--   DevOps currently working on providing extract for load to ITAM
--   Draft extract provided to 5/14/20
--   Resuming Activity 9/9/20
--   EDI work put on hold to accommodate Client Services change deployed
-    9/18/20
--   CS deployments to TST, QA, and Prod completed
--   EDI work resumed and currently testing application
--   Team working out issues with test Trading Partners
-
-**VSee**
-
--   Telepsych solution, currently conducting discovery in partnership
-    with Project Delivery
--   Requested documentation on 7/15/20, 7/22/20
--   No Documentation received as of ~~7/29/20~~, ~~8/5/20 8/12/20~~
--   Sent updated request for documentation on ~~8/12/20~~ 8/27/20
--   Requested update ~~10/8/20~~, 10/20/20
--   Technical documentation has not been provided as of 10/20/20,
-    despite several requests.
-
-<div style="page-break-after: always"></div>
-
-# 6. Recently completed (Items in this section are removed once reviewed) 
-
-**Service Request # 746493 -- EPSDT Service Modification**
-
--   All service changes are complete.
-
-**Project -- Completed (Scriptlink Integration) -- Priority 4**
-
--   Service modifications complete -- working on deployments. See
-    Release Schedule portion of BOB for deployment dates.
--   ~~Three uses cases defined by Informatics~~
--   ~~Documented processes for use cases~~
--   ~~Defined preliminary architecture~~
--   ~~ARM templates developed and tested~~
--   ~~DevOps pipelines being developed~~
--   ~~Current issue with DCI Import service~~
-    -   ~~Service is not available outside of DMH network~~
-    -   ~~Options are to:~~
-        -   ~~Abstract DCI with BizTalk interface~~
-        -   ~~Implement necessary networking between Azure and DCI
-            Import service~~
-
-**MDM Environment Migration - Completed -- Priority 10**
-
--   Migration of Production, Test, and Dev environments completed on
-    1/18/2022.
--   Decommission of legacy servers completed in January 2022. Billing to
-    stop in Feb 2022.
-
-**Provider Merger -- Completed (Pacific Clinics & Uplift) -- Priority 7**
-
--   Team has implemented necessary profiles for new entity.
--   Production certs validated 3/16/22
--   Welligent ran scripts to create admissions for migrating clients to
-    LE00120 on 3/16/22.
--   Merger completed 3/1/22
-
-**Program Implementation - Active (STARS Behavioral Health/CRTP)**
-
--   All service changes are complete.
 
 <div style="page-break-after: always"></div>
