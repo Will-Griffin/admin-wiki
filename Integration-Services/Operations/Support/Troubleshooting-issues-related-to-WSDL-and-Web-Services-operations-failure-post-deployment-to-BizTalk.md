@@ -1,0 +1,6 @@
+- Create a detailed issue in DevOps. Gather the BAM activities including error messages, collect (Request/Response) for the message received, message canonical, message sent to Netsmart and to the Providers. 
+- Analyze the BAM activities and determine whether the cause of the problem is related to the deployment or code.
+- If problem cannot be determined, forward the issue to the DevOps Team, and provide all details including approximate call start time, operation name and relevant BAM activities.
+- DevOps Team will review the pipeline logs, event logs, dictionary, and deployment details.
+- If DevOps Team cannot determine the problem, forward the issue to the Dev Team, and provide the information above. Dev Team will debug maps, schemas, functoids, check for logical errors and review error handling. 
+- If Dev Team cannot determine the cause, escalate to manger. If manager is not available, Dev Ops Team lead will create a MSFT ticket.
