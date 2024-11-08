@@ -122,7 +122,7 @@ All non-HIDEX Security, Infrastructure, and DevOps service related operations in
 
 
 ## 2.2.7 ECM/MHP
-### ECM/MHP Onboarding:[](https://lacdmh-integrationservices.visualstudio.com/Administration/_wiki/wikis/Administration_wiki?wikiVersion=GBmain&_a=edit&pagePath=/Integration%20Services/Reports/Book%20of%20Business&pageId=158&anchor=ecm/mhp-onboarding%3A)
+### ECM/MHP Onboarding:
 
 *   LACare currently has issue with SFTP disconnect.
 *   BlueShield is in process of onboarding.
