@@ -14,9 +14,9 @@
 - No risks to timeline in delivery plan above.
 
 ### Next Steps
-- Deploy BRE to address Business Rules validation in DEV
-- Test Businessl Rules validation in DEV
-- Develop to add SRTS validation
+- Deploy BRE to address Business Rules validation in DEV.
+- Test Businessl Rules validation in DEV.
+- Develop SRTS validation in the API.
 
 Current Features In Progress
 ::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
