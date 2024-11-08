@@ -166,10 +166,10 @@ Salesforce Cases:
 ## 4.1. In Progress
 
 
-### 4.1.2 CBO/TTC
+### 4.1.1 CBO/TTC
 - automation on hold due to resource constraints.
 - files are decrypted manually when received.
-### 4.1.3 CalHHS
+### 4.1.2 CalHHS
 ## 4.2. In Queue**
 ###LOCUS
 - pending completion of license purchase.
