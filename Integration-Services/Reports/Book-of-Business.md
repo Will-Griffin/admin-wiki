@@ -165,13 +165,11 @@ Salesforce Cases:
 
 ## 4.1. In Progress
 
-### ECM/MHP Onboarding:
-- LACare currently has issue with SFTP disconnect.
-- BlueShield is in process of onboarding.
-###CBO/TTC
+
+### 4.1.2 CBO/TTC
 - automation on hold due to resource constraints.
 - files are decrypted manually when received.
-###CalHHS
+### 4.1.3 CalHHS
 ## 4.2. In Queue**
 ###LOCUS
 - pending completion of license purchase.
