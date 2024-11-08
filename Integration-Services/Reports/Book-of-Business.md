@@ -10,6 +10,7 @@
 ### 2.1.1 CSI Web service
 ### Current Status
 - Working on adding BRE to validate Business Rules applicable to 'Initial Medication Evaluation Data' in DEV.
+- Updating Functional Test project to include BRE test cases.
 - Analyzing SRTS validation with AppDev team.
 - No risks to timeline in delivery plan above.
 
