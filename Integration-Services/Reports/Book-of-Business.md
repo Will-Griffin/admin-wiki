@@ -10,11 +10,13 @@
 ### 2.1.1 CSI Web service
 ### Current Status
 - Working on adding BRE to validate Business Rules applicable to 'Initial Medication Evaluation Data' in DEV.
+- Analyzing SRTS validation with AppDev team.
 - No risks to timeline in delivery plan above.
 
 ### Next Steps
 - Deploy BRE to address Business Rules validation in DEV
 - Test Businessl Rules validation in DEV
+- Develop to add SRTS validation
 
 Current Features In Progress
 ::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
