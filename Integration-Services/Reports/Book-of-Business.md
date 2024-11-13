@@ -32,7 +32,7 @@ Risks
 
 ### Next Steps
 - Add BRE policies applicable to Screening Tool Questionnaire
-- Add school based data and related scheman changes
+- Add school based data and related schema changes
 
 Current Features in Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
