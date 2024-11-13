@@ -132,6 +132,10 @@ All non-HIDEX Security, Infrastructure, and DevOps service related operations in
 *   BlueShield is in process of onboarding.
 
 
+Current Features in Progress
+::: query-table fe575360-1d34-4ecc-9744-6c6890ddc1ad
+:::
+
 # 3. Help Desk Tickets
 Current Trend (Jan 1st - Current) : 653 Cases (Open & Closed)
 
