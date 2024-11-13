@@ -28,11 +28,11 @@ Risks
 
 ### 2.1.2 SRL Web service
 ### Current Status
-- Business rules and bug fixes in progress.
-- schema changes ready for deploy.
+- Schema Changes for Screening Tool Questionnaire along with some other minor schem edits are deployed in TEST environment
+
 ### Next Steps
-- Finalize testing for release 1 schema changes.
-- Finalize release 2 for validations.
+- Add BRE policies applicable to Screening Tool Questionnaire
+- Add school based data and related scheman changes
 
 Current Features in Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
