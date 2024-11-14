@@ -93,10 +93,16 @@ Risks
 ## EDI and Web service Onboarding
 
 ## 2.2.1. LE Onboarding Status 
+Closed = onboarding process completed and no issue reported
+
+Active = not yet onboarded. check work item comment for current status
 ::: query-table 2852a12e-3db1-4eb0-aceb-53cac84ab415
 :::
 
 ## 2.2.2. FFS Onboarding Status
+Closed = onboarding process completed and no issue reported
+
+Active = not yet onboarded. check work item comment for current status
 ::: query-table 50781838-8e69-47b6-95d1-6446f82d8999
 :::
 
