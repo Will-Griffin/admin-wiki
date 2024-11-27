@@ -24,11 +24,12 @@ Risks
 
 ### 2.1.2 SRL Web service
 ### Current Status
-- Schema Changes for Screening Tool Questionnaire along with some other minor schem edits are deployed in TEST environment
+- Schema Changes for School Based Data intake deployed to DEV
 
 ### Next Steps
-- Add BRE policies applicable to Screening Tool Questionnaire
-- Add school based data and related schema changes
+- Add School Based data into Dictionary Service
+- Edit schema to match with the work item 29584
+- Work on work item 47461 pending business confirmation
 
 Current Features in Progress
 ::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
