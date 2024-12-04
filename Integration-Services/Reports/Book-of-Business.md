@@ -104,7 +104,7 @@ Active = not yet onboarded. check work item comment for current status
 :::
 
 ## 2.2.3. EDI Related Tickets and EDI File Archiving
-::: query-table 50781838-8e69-47b6-95d1-6446f82d8999
+::: query-table d9a33d74-b6ce-4094-83b1-4df41ed635de
 :::
 
 
