@@ -24,7 +24,7 @@ Risks
 
 ### 2.1.2 SRL Web service
 ### Current Status
-- Schema Changes for School Based Data intake deployed to DEV
+- Schema Changes for School Based Data intake deployed to DEV. However business confirmed that they want to use the existing County School dictionary that is used in Client Service API. 
 
 ### Next Steps
 - Add School Based data into Dictionary Service
