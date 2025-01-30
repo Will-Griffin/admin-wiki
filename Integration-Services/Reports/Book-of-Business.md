@@ -13,7 +13,7 @@
 - SRTS validation being developed
 - GetCall date format issue is being fixed
 - BRE policy to apply business rules for Initial Med Evaluation data is being developed
-- No risks to timeline in delivery plan above.
+
 
 ### Next Steps
 - Deploy SRTS validation, fix for the issue and BRE policy validations in the API.
