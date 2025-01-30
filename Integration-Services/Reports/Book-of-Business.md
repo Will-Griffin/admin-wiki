@@ -9,11 +9,13 @@
 
 ### 2.1.1 CSI Web service
 ### Current Status
-- Analyzing SRTS validation using Postman tool. 
+- SRTS validation being developed
+- GetCall date format issue is being fixed
+- BRE policy to apply business rules for Initial Med Evaluation data is being developed
 - No risks to timeline in delivery plan above.
 
 ### Next Steps
-- Develop SRTS validation in the API.
+- Deploy SRTS validation, fix for the issue and BRE policy validations in the API.
 
 Current Features In Progress
 ::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
