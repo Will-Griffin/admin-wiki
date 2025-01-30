@@ -9,6 +9,7 @@
 
 ### 2.1.1 CSI Web service
 ### Current Status
+- SR#753909 Initial Psychiatric Data capture modification are live now in Production environment
 - SRTS validation being developed
 - GetCall date format issue is being fixed
 - BRE policy to apply business rules for Initial Med Evaluation data is being developed
