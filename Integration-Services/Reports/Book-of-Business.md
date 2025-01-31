@@ -189,8 +189,7 @@ Salesforce Cases:
 - files are decrypted manually when received.
 ### 4.1.2 CalHHS
 ## 4.2. In Queue**
-###LOCUS
-- pending completion of license purchase.
+
 ## 4.3. In Analysis**
 ###CalAIM-JI
 ## 4.4. Approved Projects - Not started**
