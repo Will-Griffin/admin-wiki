@@ -33,7 +33,7 @@ Issues
 - Complete the work item from the list below:
 
 To Be Completed:
-::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2/
+::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2
 :::
 
 
