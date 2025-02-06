@@ -27,7 +27,7 @@ Issues
 
 ### 2.1.2 SRL Web service
 ### Current Status
-- Schema Changes for School Based Data intake deployed to DEV. However business confirmed that they want to use the existing County School dictionary that is used in Client Service API. The schema deployed to Dev needs to be modified and it will require to modify the database tbl and associated mapping. 
+- Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
 
 ### Next Steps
 - Complete the work item from the list below:
