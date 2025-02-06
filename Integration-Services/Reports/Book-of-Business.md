@@ -57,8 +57,11 @@ Risks
 ### 2.1.4 MDM Web service
 ### CURRENT STATUS:
 -Testing with Access Center dev team and ISD is in progress.
+
 -ISD security software is blocking authentication for Access Center update.
+
 -Access Center project is on pause pending SOW issues.
+
 -Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
 
 ###NEXT STEPS:
