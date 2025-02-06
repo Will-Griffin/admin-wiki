@@ -30,11 +30,9 @@ Issues
 - Schema Changes for School Based Data intake deployed to DEV. However business confirmed that they want to use the existing County School dictionary that is used in Client Service API. The schema deployed to Dev needs to be modified and it will require to modify the database tbl and associated mapping. 
 
 ### Next Steps
-- Add School Based data into Dictionary Service
-- Edit schema to match with the work item 29584
-- Work on work item 47461 pending business confirmation
+- Complete the work item from the list below:
 
-Current Work Items To Be Completed:
+To Be Completed:
 ::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2/
 :::
 
