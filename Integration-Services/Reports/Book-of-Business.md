@@ -55,18 +55,22 @@ Risks
 :::
 
 ### 2.1.4 MDM Web service
-### Current Status:
-- Testing with Access Center dev team and ISD is in progress.
-- ISD security software is blocking authentication for Access Center update.
-- Access Center project is on pause pending SOW issues.
-- Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
-### Next Steps:
-- Netsmart is still working on resolving the getClientDetails operation issue related to Avatar Cal-PM 2024 Update 54 (SF case CS2775727).
-- Resolve authentication issue with ISD.
-- Dev and testing as needed based on Netsmart changes.
-- Test and confirm solution works with Access Center integration.
-- Promote/schedule build deployment to upper environments.
+### CURRENT STATUS:
+*Testing with Access Center dev team and ISD is in progress.
+*ISD security software is blocking authentication for Access Center update.
+*Access Center project is on pause pending SOW issues.
+*Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
 
+###NEXT STEPS:
+NTST resolved SF case CS3403622. We are receiving the transactions from LA DEV in MDM TEST. NTST is working on resolving the SOGI and Merge issues.
+-SOGI, Race, and Ethnicity data elements are being received now from the Create Client and Update Client transactions SF Case CS3317075. There is an issue with receiving only one Race value. We should be receving multiple values for Race. NTST is working on this issue. 
+-MDM is now receiving Client Merge transactions for post-merge clients in LA DEV. SF Case CS3317024. GetClient By ID operation in FHIR is not returning Non-Surviving ID in the Output of the Surviving ID response. 
+We have a meeting with NTST on Monday 2/3/2025 to discuss remaining issues. Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution. 
+
+*Resolve authentication issue with ISD.
+*Dev and testing as needed based on Netsmart changes.
+*Test and confirm the solution works with Access Center integration.
+*Promote/schedule build deployment to upper environments.
 Current Features In Progress
 ::: query-table 73965f26-c347-4258-a446-2c1da512122d
 :::
