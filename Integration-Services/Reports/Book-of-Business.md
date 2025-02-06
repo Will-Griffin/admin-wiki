@@ -34,12 +34,10 @@ Issues
 - Edit schema to match with the work item 29584
 - Work on work item 47461 pending business confirmation
 
-Current Features in Progress
-::: query-table 164edab6-443a-4e74-a8ca-6663d79bb93f
+Current Work Items To Be Completed:
+::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2/
 :::
-Risks
-::: query-table 1e3c461c-0651-4bc9-b14b-1a0b1bb7b686
-:::
+
 
 ### 2.1.3 Client Web Service (CS)
 ### Current Status
