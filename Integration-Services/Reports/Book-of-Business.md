@@ -39,9 +39,9 @@ To Be Completed:
 
 ### 2.1.3 Client Web Service (CS)
 ### Current Status
-- Netsmart issues listed below may cause issues with delivery plan above.
+- The Latest Client Services, release including all SOGI data elements, is in Production.
 ### Next Steps
-- Test netsmart fixes.
+- None
 
 Current Features in Progress
 ::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
