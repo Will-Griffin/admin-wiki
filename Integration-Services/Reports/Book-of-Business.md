@@ -39,7 +39,7 @@ To Be Completed:
 
 ### 2.1.3 Client Web Service (CS)
 ### Current Status
-- The Latest Client Services, release including all SOGI data elements, is in Production.
+- The Latest Client Services release, including all SOGI data elements, is in Production.
 ### Next Steps
 - None
 
