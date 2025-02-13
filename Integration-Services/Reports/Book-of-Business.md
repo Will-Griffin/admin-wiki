@@ -62,6 +62,7 @@ Risks
 - MDM is now receiving Client Merge transactions for post-merge clients in LA DEV. SF Case CS3317024. GetClient By ID operation in FHIR is not returning Non-Surviving ID in the Output of the Surviving ID response. 
 We met with NTST on Monday 2/3/2025 to discuss remaining issues. We do not have an ETA on a resolution to these issues. Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution.
 
+
 - Resolve authentication issue with ISD.
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
