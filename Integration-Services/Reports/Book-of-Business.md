@@ -83,10 +83,10 @@ Issues/Risks
 - New work items have been created for DHCS Companion Guide v3.0 changes. DMBI will modify the source data to meet the state's requirements. Integration team will work on the items that needs edits in mapping and cardinalities.
 
 ### Next Steps:
-- None.
+- Start DHCS_CG_v3_Enhancements Iteration Sprint 1 from 2/18/2025
 
 Current Work Items in Progress
-::: query-table 3f108067-2ae4-4b9c-ad63-8f90a361bb50
+::: query-table 65af615e-cbe6-4ec5-a9de-2667ae430929
 :::
 Risks
 ::: None
