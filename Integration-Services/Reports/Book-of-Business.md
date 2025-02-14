@@ -78,16 +78,18 @@ Issues/Risks
 
 ### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
 ### Current Status:
-- Development is currently on hold pending DHCS issuing SFTP acount for automation.
-- Monthly file processing as scheduled, no major issues to report.
+- Monthly file processing as scheduled, no issues to report.
+- Automation configuration work is in-progress. State DHCS is working on providing a system account and it's related rights and other criteria.
+- New work items have been created for DHCS Companion Guide v3.0 changes. DMBI will modify the source data to meet the state's requirements. Integration team will work on the items that needs edits in mapping and cardinalities.
+
 ### Next Steps:
 - None.
 
-Current Features in Progress
-::: query-table fb0471f7-23a7-469a-ab5c-2fd11b43b486
+Current Work Items in Progress
+::: query-table 3f108067-2ae4-4b9c-ad63-8f90a361bb50
 :::
 Risks
-::: query-table a5613d1f-0048-46aa-a69a-9a9eb1abf9a2
+::: None
 :::
 
 ## 2.2. Operations
