@@ -179,8 +179,8 @@ Tasks Assigned for Integration Team for August in HEAT systems:
 | Login Issues | 1 |
 | Payment | 1 |
 | Processed | 1 |
-| Update Request | 1 |
-| **Grand Total** | **86** |
+| Update Request | 2 |
+| **Grand Total** | **87** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
