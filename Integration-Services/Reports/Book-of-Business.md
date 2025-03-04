@@ -61,6 +61,10 @@ Risks
 - SF Case CS3317024  - NTST applied a DAU in order to resolve Non-Surviving ID issue but the DAU did not resolve the issue.
 - GetClient By ID operation in FHIR is still not returning Non-Surviving ID in the Output of the Surviving ID response. 
 
+- Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution.
+
+
+
 - Resolve authentication issue with ISD.
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
