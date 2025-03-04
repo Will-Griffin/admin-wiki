@@ -58,10 +58,8 @@ Risks
 - Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
 
 ###NEXT STEPS:
-- SOGI, Race, and Ethnicity data elements are being received now from the Create Client and Update Client transactions SF Case CS3317075. There is an issue with Race - We are not receiving multiple values for Race. NTST is working on this issue. 
-- MDM is now receiving Client Merge transactions for post-merge clients in LA DEV. SF Case CS3317024. GetClient By ID operation in FHIR is not returning Non-Surviving ID in the Output of the Surviving ID response. 
-We met with NTST on Monday 2/3/2025 to discuss remaining issues. We do not have an ETA on a resolution to these issues. Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution.
-
+- SF Case CS3317024  - NTST applied a DAU in order to resolve Non-Surviving ID issue but the DAU did not resolve the issue.
+- GetClient By ID operation in FHIR is still not returning Non-Surviving ID in the Output of the Surviving ID response. 
 
 - Resolve authentication issue with ISD.
 - Dev and testing as needed based on Netsmart changes.
