@@ -54,8 +54,6 @@ Risks
 ### CURRENT STATUS:
 - Testing with Access Center dev team and ISD is in progress.
 - ISD security software is blocking authentication for Access Center update.
-- Access Center project is on pause pending SOW issues.
-- Netsmart released Avatar Cal-PM 2024 Update 54 (for returning data elements in getClientDetails operation). This relates to required MDM changes.
 
 ###NEXT STEPS:
 - SF Case CS3317024  - NTST applied a DAU in order to resolve Non-Surviving ID issue but the DAU did not resolve the issue.
@@ -63,7 +61,7 @@ Risks
 
 - Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution.
 
-
+###
 
 - Resolve authentication issue with ISD.
 - Dev and testing as needed based on Netsmart changes.
