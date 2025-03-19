@@ -164,23 +164,18 @@ Tasks Assigned for Integration Team for August in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| 999 | 2 |
-| ACCESS | 18 |
-| Account Request | 1 |
-| Application Error | 2 |
-| Certificate Status | 2 |
-| Claim Status | 24 |
-| Connection Issue | 3 |
-| Documentation | 1 |
-| Error| 18 |
-| Generation Questions | 8 |
-| How To| 1 |
-| Installation Certificate | 2 |
-| Login Issues | 1 |
-| Payment | 1 |
-| Processed | 1 |
-| Update Request | 2 |
-| **Grand Total** | **87** |
+| 999 | 1 |
+| ACCESS | 17 |
+| Account Request | 3 |
+| Claim Status | 13 |
+| Connection Issue | 1 |
+| Error | 7 |
+| Generation Questions | 2 |
+| Installation Certificate | 7 |
+| Member Authorization | 1 |
+| PRM Data | 1 |
+| Update Request | 1 |
+| **Grand Total** | **53** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
