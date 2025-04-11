@@ -56,7 +56,7 @@ Risks
 - ISD security software is blocking authentication for Access Center update.
 
 ###NEXT STEPS:
-- We are working with NTST to deploy the LA DEV changes they made in to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA DEV to LA LIVE bypassing QA.
+- Working with NTST to deploy the LA DEV changes they made in to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA DEV to LA LIVE bypassing QA.
 
 ###
 
