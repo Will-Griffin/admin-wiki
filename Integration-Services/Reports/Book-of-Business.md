@@ -56,8 +56,8 @@ Risks
 - ISD security software is blocking authentication for Access Center update.
 
 ###NEXT STEPS:
-- SF Case CS3317024  - NTST resolved all remaining MDM issues. We are receiving all nine SOGI data elements, all Race data elements (max 5) and the Ethnicity data element in MDM. They have also linked the Non-Surviving Client ID to the Surviving Client in the output of the FHIR Get Patient operation post Client Merge.
-- Regarding the "An error has occurred" message BizTalk is returning to NTST, we are actively investigating the issue and working on a solution.
+- We are working with NTST to deploy the LA DEV changes they made in to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA DEV to LA LIVE bypassing QA.
+
 ###
 
 - Dev and testing as needed based on Netsmart changes.
