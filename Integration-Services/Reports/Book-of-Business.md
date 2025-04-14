@@ -149,29 +149,29 @@ Current Features in Progress
 # 3. Help Desk Tickets
 Current Trend (Jan 1st - Current) : 93 Cases (Open & Closed)
 
-**Weekly trend for February is approximately 84 cases.**
+**Weekly trend for April is approximately 60 cases.**
 
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
  
-Monthly trend for 2024: approx. 80 cases per month 
+Monthly trend for 2025: approx. 80 cases per month 
 
 
 Tasks Assigned for Integration Team for August in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| 999 | 1 |
-| ACCESS | 17 |
-| Account Request | 3 |
-| Claim Status | 13 |
+| 999 | 20 |
+| ACCESS | 10 |
+| Connection Status | 2 |
+| Claim Status | 7 |
 | Connection Issue | 1 |
-| Error | 7 |
-| Generation Questions | 2 |
-| Installation Certificate | 7 |
-| Member Authorization | 1 |
-| PRM Data | 1 |
+| Error | 6 |
+| General Questions | 1 |
+| How To | 1 |
+| Installation Certificate | 3 |
+| Login Issues | 2 |
 | Update Request | 1 |
-| **Grand Total** | **53** |
+| **Grand Total** | **60** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
