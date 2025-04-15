@@ -74,11 +74,13 @@ Issues/Risks
 ### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
 ### Current Status:
 - Monthly file processing as scheduled, no issues to report.
-- Automation configuration work is in-progress. State DHCS is working on providing a system account and it's related rights and other criteria.
-- New work items have been created for DHCS Companion Guide v3.0 changes. DMBI will modify the source data to meet the state's requirements. Integration team will work on the items that needs edits in mapping and cardinalities.
+- Automation configuration work is on hold for now. State DHCS provided system account and it's related rights and other criteria.
+- DMBI added sample data for creating a test file for testing new features introduced in DHCS Companion Guide v3.0.
+- New work items for DHCS Companion Guide v3.0 changes have been completed as of 4/15/2025. 
+- Test file is created.
 
 ### Next Steps:
-- Start DHCS_CG_v3_Enhancements Iteration Sprint 1 from 2/18/2025
+- Start DHCS_CG_v3_Enhancements testing
 
 Current Work Items in Progress
 ::: query-table 2c444e11-0513-4907-92de-2d4eea1d98e2
