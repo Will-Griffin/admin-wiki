@@ -54,13 +54,11 @@ Risks
 ### 2.1.4 MDM Web service
 ### CURRENT STATUS:
 - Testing with Access Center dev team and ISD is in progress.
-- ISD security software is blocking authentication for Access Center update.
-
-###NEXT STEPS:
 - Working with NTST to deploy the LA DEV changes they made in to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA DEV to LA LIVE bypassing QA.
 
-###
+###NEXT STEPS:
 
+###
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
 - Promote/schedule build deployment to upper environments.
