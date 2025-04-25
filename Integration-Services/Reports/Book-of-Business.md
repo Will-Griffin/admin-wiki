@@ -12,12 +12,13 @@
 
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
 - Updated Companion Guide, Release Notes, WSDL published, all LEs have been notified
-- GetCall date format issue is being fixed
-- BRE policy to apply business rules for Initial Med Evaluation data is being developed
-- SR#748178 SRTS validation being developed
+- GetCall date format issue is fixed and deployed to DEV and BTIDE3.
+- BRE policy to apply business rules for Initial Med Evaluation data is developed and deployed to DEV and BTIDE3.
+- SR#748178 SRTS validation development has been completed and deployed to DEV and BTIDE3 environment.
+- Testing started in BTIDE3 environment due to some environment related issue throwing error in DEV environment.
 
 ### Next Steps
-- Deploy SRTS validation, fix for the issue and BRE policy validations in the API.
+- Complete testing in BTIDE3 and report any issues. Then proceed to deploy to upper environments.
 
 Current Features In Progress
 ::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
