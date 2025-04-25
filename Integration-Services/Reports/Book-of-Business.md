@@ -93,6 +93,24 @@ Risks
 
 ## EDI and Web service Onboarding
 
+#Onboarding_status_04222025
+
+1. On-Boarding for LE 01806: UMMA Community Clinic
+Business configured the program ID 01806 so it can submit the CSI Admission web call. Provider tried and got the error. Nga confirmed it has been configured properly. Asked provider to try the transaction.
+
+2. Change of Vendor: LE 00201: Penny Lane Centers:
+Asked provider to send an ETA.
+
+3.On-Boarding for LE 02457: Parents Anonymous Inc:
+Provider re-submitted the completed cs script on 4/22/25. Integration is reviewing it.
+
+4. Onboarding LE 01048: Pacifica Hospital of the Valley UCC:
+Business and Integration met with them on 4/17/25. They understood the need for completing the script. Will reach out to Integration as needed.
+
+5.Change of Vendor for LE 00196: Vista Del Mar
+Provider stated it's taking longer than expected to complete their configuration. They will update us once they are ready. Asked for an update.
+
+
 ## 2.2.1. LE Onboarding Status 
 Closed = onboarding process completed and no issue reported
 
