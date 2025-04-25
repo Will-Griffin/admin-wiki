@@ -30,6 +30,7 @@ Issues
 ### 2.1.2 SRL Web service
 ### Current Status
 - Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
+- All backlogged items are marked ready for development and assigned to development team.
 
 ### Next Steps
 - Complete the work item from the list below:
