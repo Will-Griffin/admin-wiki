@@ -11,11 +11,8 @@
 ### Current Status
 
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
-- Updated Companion Guide, Release Notes, WSDL published, all LEs have been notified
-- GetCall date format issue is fixed and deployed to DEV and BTIDE3.
-- BRE policy to apply business rules for Initial Med Evaluation data is developed and deployed to DEV and BTIDE3.
-- SR#748178 SRTS validation development has been completed and deployed to DEV and BTIDE3 environment.
-- Testing started in BTIDE3 environment due to some environment related issue throwing error in DEV environment.
+- Testing in BTIDE3 environment was completed and reported back to the team.
+- Some work items related to BRE policy have been completed and a package was sent to DEV environment for deployment on 5/28/2025. Deployment to DEV has an issue and it's being worked on (Work Item # [52556](https://lacdmh-integrationservices.visualstudio.com/CSI/_workitems/edit/52556))
 
 ### Next Steps
 - Complete testing in BTIDE3 and report any issues. Then proceed to deploy to upper environments.
