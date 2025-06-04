@@ -76,10 +76,10 @@ Issues/Risks
 ### Current Status:
 - Production file generation and submission working properly. No issue.
 - Development on new enhancements based on State's Companion Guide v3.0 has been completed. DMBI loaded sample data and test file is generated.
-- Testing began.
+- Testing completed. Issues reported to State DHCCS. They opened tickets with their IT group. No resolution yet.
 
 ### Next Steps:
-- Complete testing and resolve any issues found. 
+- Generate a production file for June submission based on May data. 
 - Deploy the solution to production.
 - Continue on automation process pending tasks.
 
