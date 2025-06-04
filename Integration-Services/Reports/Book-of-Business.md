@@ -12,12 +12,14 @@
 
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
 - Testing in BTIDE3 environment was completed and reported back to the team.
-- Some work items related to BRE policy have been completed and a package was sent to DEV environment for deployment on 5/28/2025. Deployment to DEV has an issue and it's being worked on (Work Item # [52556](https://lacdmh-integrationservices.visualstudio.com/CSI/_workitems/edit/52556))
+- The query below shows the work items as work in-progress. Out of these following work items have been developed and deployed to DEV:
+26457, 46377, 48666, 49985
+- Deployment to DEV has an issue and it's being worked on (Work Item # [52556](https://lacdmh-integrationservices.visualstudio.com/CSI/_workitems/edit/52556))
 
 ### Next Steps
-- Complete testing in BTIDE3 and report any issues. Then proceed to deploy to upper environments.
+- Complete testing in DEV once the deployment issue is fixed and API is ready for testing.
 
-Current Features In Progress
+Current Work Items In Progress
 ::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
 :::
 Issues
