@@ -1,3 +1,11 @@
+- folder structure
+- paramterize these variables
+- pipeline process flow
+- pipeline yaml 
+  - designed to copy paste and change vars
+    - change filename and paths 
+
+
 CS_TEST.postman_environment.json
 CS-Smoke-Test.postman_collection.json
 
