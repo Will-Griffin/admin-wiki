@@ -1,17 +1,17 @@
-# 🚀 Team Standards for User Stories, Features, Tasks, and Pull Requests
+# Team Standards for User Stories, Features, Tasks, and Pull Requests
 
 To ensure consistency, quality, and smooth collaboration, our team follows the standards below when creating and managing User Stories, Features, Tasks, and Pull Requests (PRs).
 
 ---
 
-## 📘 User Stories
+##  User Stories
 
 User Stories define a user's goal and the value they receive from a feature or change.
 
 **Format**:  
 > As a *[type of user]*, I want *[goal]* so that *[reason]*.
 
-### ✅ Story Checklist
+### Story Checklist
 - [ ] Follows the INVEST model (Independent, Negotiable, Valuable, Estimable, Small, Testable)
 - [ ] Clear and concise user-centric goal
 - [ ] Acceptance Criteria included (Gherkin-style or bullet points)
@@ -25,7 +25,7 @@ User Stories define a user's goal and the value they receive from a feature or c
 
 Features describe broader business initiatives broken down into smaller stories.
 
-### ✅ Feature Checklist
+### Feature Checklist
 - [ ] Clearly defined business objective
 - [ ] Breaks down into 2+ user stories
 - [ ] Aligned to quarterly roadmap or sprint goal
@@ -34,11 +34,11 @@ Features describe broader business initiatives broken down into smaller stories.
 
 ---
 
-## 🔧 Tasks (or Subtasks)
+##  Tasks (or Subtasks)
 
 Tasks represent the specific engineering, testing, or documentation work required to deliver a user story.
 
-### ✅ Task Checklist
+###  Task Checklist
 - [ ] Technical and implementation-focused
 - [ ] Estimated in hours (or story points)
 - [ ] Assigned to a team member
