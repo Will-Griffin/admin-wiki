@@ -57,7 +57,7 @@ Pull Requests are used to merge code changes into the main branch, with quality 
   - What was changed
   - Why it was changed
   - How to test it
-- [ ] Linked to Jira story/feature
+- [ ] Linked to story/feature
 - [ ] Unit and/or integration tests included
 - [ ] Reviewed and approved by at least one peer
 - [ ] CI/CD pipeline passes
