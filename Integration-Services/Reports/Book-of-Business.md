@@ -55,7 +55,9 @@ Risks
 ### 2.1.4 MDM Web service
 ### CURRENT STATUS:
 - Testing with Access Center dev team and ISD is in progress.
-- Working with NTST to deploy the LA DEV changes they made in to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA DEV to LA LIVE bypassing QA.
+- SF Case CS3632319 is resolved - We are receiving transactions in MDM TEST. Current Send Ports setup to point to the Training Environment.
+- Previous Plan - Work with NTST to deploy the LA DEV changes they made to LA UAT. NTST does not have an interface from LA UAT to MDM QA. Team is discussing impact and whether we can move from LA  DEV to LA LIVE bypassing QA.
+
 
 ###NEXT STEPS:
 
