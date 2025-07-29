@@ -1,4 +1,4 @@
-Daily Acitivity log sync impacted
+Daily Acitivity log sync impacted --> 
 
 Book of business reporting
 
