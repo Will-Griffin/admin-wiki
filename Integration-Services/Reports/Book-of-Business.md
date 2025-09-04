@@ -181,7 +181,7 @@ Current Trend (June ) : 105 Cases (Open & Closed)
 Monthly trend for 2025: approx. 80 cases per month 
 
 
-Tasks Assigned for Integration Team for June in HEAT systems:
+Tasks Assigned for Integration Team for August in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
@@ -205,7 +205,7 @@ Tasks Assigned for Integration Team for June in HEAT systems:
 | PRM Data | 1 |
 | Update Request | 1 |
 | Website down| 4 |
-| **Grand Total** | **105** |
+| **Grand Total** | **92** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
