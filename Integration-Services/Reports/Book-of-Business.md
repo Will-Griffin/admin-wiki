@@ -59,7 +59,7 @@ Risks
 - CS3756977 (Multiple Create Client operations for the same Client). NTST made configuration changes and DMH is monitoring traffic.
 - CS3767096  POST Encounter operation is returning an error.
 
-- One SF Case (Priority 3)
+- One SF Case (Priority 3):
 - CS3762335 (Receiving Create transactions for old Clients) - Working with NTST to resolve this issue.
 - Integration Team Deployed MDM to Production environment on 9/17/2025.
 
