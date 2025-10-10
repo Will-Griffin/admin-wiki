@@ -54,11 +54,16 @@ Risks
 
 ### 2.1.4 MDM Web service
 ### CURRENT STATUS:
-- Two SF cases have been escalated: 
--  CS3756862 (Delay in receiving transactions in Dynamics) and SF Case 
+- Three SF cases have been escalated (Priority 2): 
+- CS3756862 (Delay in receiving transactions in Dynamics) and SF Case 
 - CS3756977 (Multiple Create Client operations for the same Client). NTST made configuration changes and DMH is monitoring traffic.
-- New SF  CS3762335 (Receiving Create transactions for old Clients) - Working with NTST to resolve this issue.
+- CS3767096  POST Encounter operation is returning an error.
+
+- One SF Case (Priority 3)
+- CS3762335 (Receiving Create transactions for old Clients) - Working with NTST to resolve this issue.
 - Integration Team Deployed MDM to Production environment on 9/17/2025.
+
+- New Project End Date: 2025-12-31
 
 
 ###NEXT STEPS:
