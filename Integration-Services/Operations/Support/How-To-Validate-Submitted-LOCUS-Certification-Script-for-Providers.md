@@ -23,3 +23,7 @@ Step # 4:
 From the list select "Logs".
 
 ![image.png](/.attachments/image-2dbe7359-8741-4c06-b2b1-000ac4626956.png)
+
+Step $ 5: Close the pop-up window. 
+
+![image.png](/.attachments/image-3c53a71d-bb71-45d3-bb9a-9d60a3bad675.png)
