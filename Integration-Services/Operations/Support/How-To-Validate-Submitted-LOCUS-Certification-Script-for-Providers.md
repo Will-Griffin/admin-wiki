@@ -18,3 +18,8 @@ Step # 3:
 After you click the link you'll be landed in the portal for Microsoft Azure. On the left menu, click "Monitoring" to expand the menu.
 
 ![image.png](/.attachments/image-05e4309b-4ef5-4c7d-abfd-2fba4328ef83.png)
+
+Step # 4:
+From the list select "Logs".
+
+![image.png](/.attachments/image-2dbe7359-8741-4c06-b2b1-000ac4626956.png)
