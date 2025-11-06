@@ -1,4 +1,88 @@
-# LACDMH Integration Services 
+# LACDMH Integration Services
+
+## 1. HIDEX Project Status
+
+## 1.1 Release Schedule
+
+![image.png](/.attachments/image-2f01a035-f6df-4e9b-aa28-6b15f3ac64ca.png)
+
+## 1.2 **Project -- LA County Healthcare Information Data Exchange -- HIDEx -- Priority 1**
+
+Current Status:
+
+-Team will start work on Sprint 59 activities, which includes 
+
+- Sync data between FHIR store and NTST webservice for DCFS, Public Guardian, and Service History
+- resolve NTST Patient Access SF cases
+- Resolve NTST HIDEX FHIR Web Services Enhancements SF Cases
+- Attach azure storage to web user
+- create script to add folders in storage account for HIDEX/MFT providers
+- add new wiki for go-anywhere
+- provision MFT azure VMs
+- automate testing after deployment
+- use application insight BAM activities for LOCUS
+- build LACDMH HIDEX PSC API test cases
+- Da vinci pDex
+- update Getquestionnaire output to include top dimension and subsequent child dimensions
+- application logs ingestion to SEIM tools
+- add required/optional field validation for PSC assessment
+- Onboard LE
+- update GetQuestionnaire response to include additional items
+- Continuously performing analysis and creating user stories and work items
+- Work on resource capacity planning in DevOps and Delivery Plans
+- Reorganize DevOps backlog for project planning
+
+Current Features In Progress
+::: query-table fbd70f88-19b2-4eac-b15d-652d99954c43
+:::
+Risks
+::: query-table 41e3ac8d-b816-45b8-bbc9-e1846dbde883
+:::
+
+## 1.3 **Project -- Patient Access API**
+ - CMS Patient Access Final Rule
+ - CalAIM BHQIP 
+ - Client Access to the chart
+
+CURRENT STATUS
+
+*Release 1 is currently in progress
+- Working with NTST to resolve errors in Patient Access operations - SF Cases CS3517022 and CS2786152. All NTST Patient Access operations are returning successful responses except for minor issues reported in the mentioned SF cases.
+- Testing Patient Access operations through DMH FHIR Services. 
+
+NEXT STEP
+
+*Complete development 
+
+*Consent feature
+
+Current Features in Progress
+
+::: query-table 76d6d41d-2502-4254-9344-78148ddfed91
+:::
+
+Risks
+::: query-table 612cd27b-b482-41de-8df1-fce47670ecfe
+:::
+
+## 1.4 **Project -- Provider Directory API**
+- CalAIM BHQIP
+
+Current Features in Progress
+::: query-table c9aedb3c-df99-4d82-8d48-0a0bcd6a2cdf
+:::
+Risks
+::: query-table 8de19b8e-609a-4750-8bea-884033b14177
+:::
+
+## 1.5 **Project -- HIDEX FHIR & Support**
+
+Current Features in Progress
+::: query-table 3aab272d-7ab3-4fbf-981a-0ce2a51c4326
+:::
+Risks
+::: query-table 7c02a075-04eb-4332-b854-df4f7e3e7de1
+:::# LACDMH Integration Services 
 
 # 2. Maintenance & Operations 
 
