@@ -40,8 +40,8 @@ Risks
 :::
 
 ## 1.3 **Project -- Patient Access API**
-# Lead Analyst: Mohammed Abdulla
-# Developer: 
+* Lead Analyst: Mohammed Abdulla
+* Developer: 
 
 
 
