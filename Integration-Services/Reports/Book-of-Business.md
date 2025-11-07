@@ -44,8 +44,6 @@ Risks
 * Developer: 
 
 ##
-##
-##
 
  - CMS Patient Access Final Rule
  - CalAIM BHQIP 
