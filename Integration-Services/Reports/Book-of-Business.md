@@ -40,6 +40,9 @@ Risks
 :::
 
 ## 1.3 **Project -- Patient Access API**
+## Lead Analyst: Mohammed Abdulla
+## Developer: 
+
  - CMS Patient Access Final Rule
  - CalAIM BHQIP 
  - Client Access to the chart
