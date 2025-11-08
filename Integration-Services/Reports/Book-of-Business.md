@@ -1,12 +1,15 @@
 # LACDMH Integration Services
 
-## 1. HIDEX Project Status
+## 1. HIDEX Project
+
 
 ## 1.1 Release Schedule
 
 ![image.png](/.attachments/image-2f01a035-f6df-4e9b-aa28-6b15f3ac64ca.png)
 
 ## 1.2 **Project -- LA County Healthcare Information Data Exchange -- HIDEx -- Priority 1**
+* Lead Analyst: Philip Yau
+* Developer:
 
 Current Status:
 
@@ -141,6 +144,7 @@ To Be Completed:
 * Developer: 
 
 ### Current Status
+- A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
 ### Next Steps
 - None
@@ -158,6 +162,7 @@ Risks
 
 
 ### CURRENT STATUS:
+- A new release being developed to prevent blank and null values from transferring to Access Center Dynamics - Release around first Week of December 2025.
 - Three SF cases have been escalated (Priority 2): 
 - CS3756862 (Delay in receiving transactions in Dynamics) and SF Case 
 - CS3756977 (Multiple Create Client operations for the same Client). NTST made configuration changes and DMH is monitoring traffic.
