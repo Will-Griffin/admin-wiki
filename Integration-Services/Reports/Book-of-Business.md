@@ -97,6 +97,10 @@ Risks
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
 ### 2.1.1 CSI Web service
+* Lead Analyst: Zak Masud
+* Developer:
+
+
 ### Current Status
 
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
@@ -116,6 +120,9 @@ Issues
 :::
 
 ### 2.1.2 SRL Web service
+* Lead Analyst: Zak Masud
+* Developer:
+
 ### Current Status
 - Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
 - All backlogged items are marked ready for development and assigned to development team.
@@ -179,6 +186,9 @@ Issues/Risks
 :::
 
 ### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
+* Lead Analyst: Zak Masud
+* Developer:
+
 ### Current Status:
 - Production file generation and submission working properly. No issue.
 - Development on new enhancements based on State's Companion Guide v3.0 has been completed. DMBI loaded sample data and test file is generated.
