@@ -130,9 +130,8 @@ To Be Completed:
 
 ### 2.1.3 Client Web Service (CS)
 
-*Lead Analyst: Mohammed Abdulla
-
-*Developer: 
+* Lead Analyst: Mohammed Abdulla
+* Developer: 
 
 ### Current Status
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
