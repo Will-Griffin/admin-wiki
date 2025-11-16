@@ -116,10 +116,10 @@ Risks
 - Complete testing in DEV once the deployment issue is fixed and API is ready for testing.
 
 Current Work Items In Progress
-::: query-table 94c595b1-c57c-4f04-aff2-7b3e87915794
+::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 Issues
-::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
+::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b/
 :::
 
 ### 2.1.2 SRL Web service
