@@ -108,24 +108,34 @@ Risks
 ## Release Schedule: 
 ![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
 
+### 2.1.2 SRL Web service
+* Lead Analyst: Zak Masud
+* Developer:
 
+### Current Status
+- Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
+- All backlogged items are marked ready for development and assigned to development team.
 
+### Next Steps
+- Complete the work item from the list below:
+
+To Be Completed:
+::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2
+:::
 
 ### 2.1.1 CSI Web service
 * Lead Analyst: Zak Masud
-* Developer:
+* Developer: Misikir Kebede
 
 
 ### Current Status
 
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
-- Testing in BTIDE3 environment was completed and reported back to the team.
-- The query below shows the work items as work in-progress. Out of these following work items have been developed and deployed to DEV:
-26457, 46377, 48666, 49985
-- Deployment to DEV has an issue and it's being worked on (Work Item # [52556](https://lacdmh-integrationservices.visualstudio.com/CSI/_workitems/edit/52556))
+- DEV Deployment issue has been resolved. Complete Functional Tests have been performed. 
+- Eight work items have failed testing. (See query below)
 
 ### Next Steps
-- Complete testing in DEV once the deployment issue is fixed and API is ready for testing.
+- Fix the issues related to the Acceptance Criteria for the Failed work items.
 
 Current Work Items In Progress
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
