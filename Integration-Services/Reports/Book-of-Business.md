@@ -137,7 +137,7 @@ Current Work Items In Progress
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 Issues
-::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
+::: None
 :::
 
 ### 2.1.2 SRL Web service
