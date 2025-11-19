@@ -133,7 +133,7 @@ To Be Completed:
 ### Next Steps
 - Fix the issues related to the Acceptance Criteria for the Failed work items.
 
-Current Work Items In Progress
+Current REQUIREMENTS In Progress
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 Issues
