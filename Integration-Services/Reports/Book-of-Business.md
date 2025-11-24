@@ -155,7 +155,6 @@ Current Work Items Work-In-Progress:
 ::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
 :::
 
-
 ### 2.1.3 Client Web Service (CS)
 
 * Lead Analyst: Mohammed Abdulla
