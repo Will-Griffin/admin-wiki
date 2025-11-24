@@ -142,17 +142,17 @@ Issues
 
 ### 2.1.2 SRL Web service
 * Lead Analyst: Zak Masud
-* Developer:
+* Developer: Misikir Kebede
 
 ### Current Status
-- Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
-- All backlogged items are marked ready for development and assigned to development team.
+- Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
+- Screening Tool Business Rules are deployed and testing completed. Some items did not meet the acceptance criteria. Developer is working on these.
 
 ### Next Steps
-- Complete the work item from the list below:
+- Resolve the issues showing below and deploy to TEST, QA and PRODUCTION.
 
-To Be Completed:
-::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2
+Current Work Items Work-In-Progress:
+::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
 :::
 
 
