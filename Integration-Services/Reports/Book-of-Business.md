@@ -102,7 +102,7 @@ Risks
 ## 2.1. Maintenance
 
 ## Release Schedule: 
-![image.png](/.attachments/image-333f5978-e1e5-4028-a12b-1cb5579c7ece.png)
+
 
 ### 2.1.2 SRL Web service
 * Lead Analyst: Zak Masud
