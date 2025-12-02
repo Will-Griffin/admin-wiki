@@ -5,4 +5,3 @@ Welcome to **Integration Services** part of the **Application Development and In
 
 This guide is written for the team and is meant to be updated continuously as we grow and evolve our practices.
 
-[[_TOSP_]]
