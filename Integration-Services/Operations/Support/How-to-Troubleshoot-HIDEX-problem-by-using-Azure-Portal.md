@@ -1,6 +1,6 @@
 How to Troubleshoot HIDEX problem by using Azure Portal:
 
-![image.png](/.attachments/image-05e4309b-4ef5-4c7d-abfd-2fba4328ef83.png)
+![image.png](/.attachments/ApplicationInsight.png)
 
 Using Application Insight to trace the message sending to NTST:
 
