@@ -14,6 +14,8 @@ Duties include:
 
 - Operational troubleshooting
 
+ -- example [How to Troubleshoot HIDEX problem by using Azure Portal - Overview](https://lacdmh-integrationservices.visualstudio.com/Administration/_wiki/wikis/Administration_wiki/419/How-to-Troubleshoot-HIDEX-problem-by-using-Azure-Portal)
+
 - HEAT ticket triage & follow‑up
 
 - Documentation updates
