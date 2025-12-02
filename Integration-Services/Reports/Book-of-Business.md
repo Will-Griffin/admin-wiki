@@ -49,7 +49,7 @@ Current Features In Progress
 
 Risks
 - Onboarding delays due to vendor(s)
-
+- MS ticket
 
 ## 2. **Maintenance & Operations**
 
