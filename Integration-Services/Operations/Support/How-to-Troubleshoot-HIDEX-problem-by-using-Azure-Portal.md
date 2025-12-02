@@ -1,6 +1,6 @@
-How to Troubleshoot HIDEX problem by using Azure Portal
+How to Troubleshoot HIDEX problem by using Azure Portal:
 
-Using Application Insight to trace the message sending to NTST
+Using Application Insight to trace the message sending to NTST:
 Example of tracing of post call to NTST QUERY:
 
 traces
