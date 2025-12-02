@@ -165,6 +165,14 @@ Risks
 ::: None
 :::
 
+### 2.1.6 Healthcare Provider Directory (HCPD) FHIR Integration
+* Lead Analyst: Zak Masud
+* Developer: Willie Lam
+
+Current Work Items in Progress
+
+Risks
+
 ## 2.2. Operations
 
 ## EDI and Web service Onboarding
