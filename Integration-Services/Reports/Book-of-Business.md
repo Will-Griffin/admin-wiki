@@ -50,7 +50,7 @@ Risks
 
 CURRENT STATUS
 
-*Release 1 is currently in progress
+* Release 1 is currently in progress
 - Working with NTST to resolve errors in Patient Access operations - SF Cases CS3517022 and CS2786152. All NTST Patient Access operations are returning successful responses except for minor issues reported in the mentioned SF cases.
 - Testing Patient Access operations through DMH FHIR Services. 
 
@@ -62,55 +62,22 @@ NEXT STEP
 
 Current Features in Progress
 
-::: query-table 76d6d41d-2502-4254-9344-78148ddfed91
-:::
 
 Risks
-::: query-table 612cd27b-b482-41de-8df1-fce47670ecfe
-:::
 
 ## 1.4 **Project -- Provider Directory API**
 - CalAIM BHQIP
 
 Current Features in Progress
-::: query-table c9aedb3c-df99-4d82-8d48-0a0bcd6a2cdf
-:::
+
 Risks
-::: query-table 8de19b8e-609a-4750-8bea-884033b14177
-:::
-
-## 1.5 **Project -- HIDEX FHIR & Support**
-
-Current Features in Progress
-::: query-table 3aab272d-7ab3-4fbf-981a-0ce2a51c4326
-:::
-Risks
-::: query-table 7c02a075-04eb-4332-b854-df4f7e3e7de1
-
-
 
 
 ## 2. Maintenance & Operations
 
 ## 2.1. Maintenance
 
-## Release Schedule: 
-
-
-### 2.1.2 SRL Web service
-* Lead Analyst: Zak Masud
-* Developer:
-
-### Current Status
-- Screening Tool Questionnaire and Shool Based Data intake deployed to PRODUCTION on 01/28/205. 
-- All backlogged items are marked ready for development and assigned to development team.
-
-### Next Steps
-- Complete the work item from the list below:
-
-To Be Completed:
-::: query-table a2a8d4b1-a285-4b8e-b137-5789bfd6c2e2
-:::
+Updates to existing applications.
 
 ### 2.1.1 CSI Web service
 * Lead Analyst: Zak Masud
@@ -151,7 +118,7 @@ Current Work Items Work-In-Progress:
 ### 2.1.3 Client Web Service (CS)
 
 * Lead Analyst: Mohammed Abdulla
-* Developer: 
+* Developer: Tiffany Gaw
 
 ### Current Status
 - A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
@@ -168,7 +135,7 @@ Risks
 
 ### 2.1.4 MDM Web service
 * Lead Analyst: Mohammed Abdulla
-* Developer:
+* Developer: Tiffany Gaw
 
 
 ### CURRENT STATUS:
@@ -202,7 +169,7 @@ Issues/Risks
 
 ### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
 * Lead Analyst: Zak Masud
-* Developer:
+* Developer: Willie Lam
 
 ### Current Status:
 - Production file generation and submission working properly. No issue.
