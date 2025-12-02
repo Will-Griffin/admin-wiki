@@ -1,0 +1,1 @@
+How to Troubleshoot HIDEX problem by using Azure Portal
