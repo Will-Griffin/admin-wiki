@@ -5,11 +5,10 @@
 
 ## 1.1 Release Schedule
 
-![image.png](/.attachments/image-2f01a035-f6df-4e9b-aa28-6b15f3ac64ca.png)
 
 ## 1.2 **Project -- LA County Healthcare Information Data Exchange -- HIDEx -- Priority 1**
 * Lead Analyst: Philip Yau
-* Developer:
+* Developer: Willie Lam
 
 Current Status:
 
@@ -36,15 +35,12 @@ Current Status:
 - Reorganize DevOps backlog for project planning
 
 Current Features In Progress
-::: query-table fbd70f88-19b2-4eac-b15d-652d99954c43
-:::
+
 Risks
-::: query-table 41e3ac8d-b816-45b8-bbc9-e1846dbde883
-:::
 
 ## 1.3 **Project -- Patient Access API**
 * Lead Analyst: Mohammed Abdulla
-* Developer: 
+* Developer: Tiffany Gaw
 
 ##
 
