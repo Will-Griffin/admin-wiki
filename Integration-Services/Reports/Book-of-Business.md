@@ -1,18 +1,16 @@
 # LACDMH Integration Services
 
-## 1. HIDEX Project
+## 1. **PROJECTS**
 
+## 1.1 Project Release Schedule
 
-## 1.1 Release Schedule
-
-
-## 1.2 **Project -- LA County Healthcare Information Data Exchange -- HIDEx -- Priority 1**
+## 1.2 **Project -- Healthcare Information Data Exchange -- HIDEx -- Priority 1**
 * Lead Analyst: Philip Yau
 * Developer: Willie Lam
 
 Current Status:
 
--Team will start work on Sprint 59 activities, which includes 
+Team will start work on Sprint 59 activities, which includes: 
 
 - Sync data between FHIR store and NTST webservice for DCFS, Public Guardian, and Service History
 - resolve NTST Patient Access SF cases
@@ -38,42 +36,12 @@ Current Features In Progress
 
 Risks
 
-## 1.3 **Project -- Patient Access API**
-* Lead Analyst: Mohammed Abdulla
-* Developer: Tiffany Gaw
-
-##
-
- - CMS Patient Access Final Rule
- - CalAIM BHQIP 
- - Client Access to the chart
-
-CURRENT STATUS
-
-* Release 1 is currently in progress
-- Working with NTST to resolve errors in Patient Access operations - SF Cases CS3517022 and CS2786152. All NTST Patient Access operations are returning successful responses except for minor issues reported in the mentioned SF cases.
-- Testing Patient Access operations through DMH FHIR Services. 
-
-NEXT STEP
-
-*Complete development 
-
-*Consent feature
-
-Current Features in Progress
+## 1.2 **Project -- Access Center Modernization Project Integration -- Priority 1**
+* Lead Analyst: Philip Yau
+* Developer: Willie Lam
 
 
-Risks
-
-## 1.4 **Project -- Provider Directory API**
-- CalAIM BHQIP
-
-Current Features in Progress
-
-Risks
-
-
-## 2. Maintenance & Operations
+## 2. **Maintenance & Operations**
 
 ## 2.1. Maintenance
 
@@ -97,8 +65,7 @@ Current REQUIREMENTS In Progress
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 Issues
-::: None
-:::
+
 
 ### 2.1.2 SRL Web service
 * Lead Analyst: Zak Masud
@@ -152,9 +119,8 @@ Risks
 - New Project End Date: 2025-12-31
 
 
-###NEXT STEPS:
+### NEXT STEPS:
 
-###
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
 - Promote/schedule build deployment to upper environments.
@@ -309,7 +275,7 @@ Salesforce Cases:
 
 <div style="page-break-after: always"></div>
 
-# 4. Special Support 
+# 4. **Special Support** 
 
 ## 4.1. In Progress
 
@@ -317,14 +283,23 @@ Salesforce Cases:
 ### 4.1.1 CBO/TTC
 - automation on hold due to resource constraints.
 - files are decrypted manually when received.
-### 4.1.2 CalHHS
-## 4.2. In Queue**
 
-## 4.3. In Analysis**
-###CalAIM-JI
+### 4.1.2 CalHHS
+
+## 4.2. **In Queue**
+
+- Payer-to-Payer FHIR endpoint
+- Pre-Authorization FHIR service
+- Vendor workflow (Disable Avatar lookup in Dev/lower environments)
+
+## 4.3. **In Analysis**
+
+- CalAIM-JI
+
 ## 4.4. Approved Projects - Not started**
 
-None at this time.
+- SRL Azure migration
+- BHSA
 
 <div style="page-break-after: always"></div>
 
