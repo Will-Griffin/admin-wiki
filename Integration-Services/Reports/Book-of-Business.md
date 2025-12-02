@@ -40,6 +40,16 @@ Risks
 * Lead Analyst: Philip Yau
 * Developer: Willie Lam
 
+## 1.3 **Project -- LOCUS API**
+* Lead Analyst: Zak Masud
+* Developer: Tiffany Gaw
+
+Current Features In Progress
+- Synapse notebook to load sql db for reporting
+
+Risks
+- Onboarding delays due to vendor(s)
+
 
 ## 2. **Maintenance & Operations**
 
