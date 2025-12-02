@@ -11,7 +11,7 @@ traces
 
 Using Log Analytics to trace the message sending to HIDEX:
 
-![image.png](/.attachments/ApplicationInsight.png)
+![image.png](/.attachments/LogAnalytic.png)
 
 Example of tracing calls for HIDEX QUERY:
 
