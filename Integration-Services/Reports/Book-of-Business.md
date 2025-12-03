@@ -252,7 +252,7 @@ Current Features in Progress
 :::
 
 # 3. Help Desk Tickets
-Current Trend (August ) : 92 Cases (Open & Closed)
+Current Trend (November ) : 59 Cases (Open & Closed)
 
 
 
