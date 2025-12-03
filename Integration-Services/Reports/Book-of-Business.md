@@ -53,6 +53,14 @@ Risks
 - Onboarding delays due to vendor(s)
 - MS ticket
 
+## 1.4  **GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
+* Lead Analyst: Joe Martinez
+* Developer: n/a
+
+Current Features In Progress
+
+Risks
+
 ## 2. **Maintenance & Operations**
 
 ## 2.1. Maintenance
@@ -320,6 +328,7 @@ Salesforce Cases:
 
 - SRL Azure migration
 - BHSA
+- COE
 
 <div style="page-break-after: always"></div>
 
