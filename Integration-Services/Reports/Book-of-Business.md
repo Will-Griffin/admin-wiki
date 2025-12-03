@@ -266,26 +266,26 @@ Tasks Assigned for Integration Team for Nov in HEAT systems:
 | Category|                     No of Tickets |
 |  --- | --- |
 | 999 | 2 |
-| ACCESS | 16 |
+| ACCESS | 11 |
 | Account Request | 1 |
 | Application Down| 2 |
-| Application Error| 4|
-| Connection Status | 2 |
-| Claim Status | 16 |
-| Connection Issue | 6 |
+| Application Error| 1|
+| Connection Status | 1 |
+| Claim Status | 8 |
+| Connection Issue | 5 |
 | Documentation| 1 |
 | Download| 1 |
 | EDI Certification| 1 |
-| Error | 25 |
+| Error | 11 |
 | General Questions | 4 |
 | How To | 4 |
-| Installation Certificate | 10 |
+| Installation Certificate | 7 |
 | Member Authorization| 1 |
 | Password| 2 |
 | PRM Data | 1 |
 | Update Request | 1 |
 | Website down| 4 |
-| **Grand Total** | **92** |
+| **Grand Total** | **59** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
