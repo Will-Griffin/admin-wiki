@@ -261,7 +261,7 @@ Current Trend (August ) : 92 Cases (Open & Closed)
 Monthly trend for 2025: approx. 80 cases per month 
 
 
-Tasks Assigned for Integration Team for August in HEAT systems:
+Tasks Assigned for Integration Team for Nov in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
