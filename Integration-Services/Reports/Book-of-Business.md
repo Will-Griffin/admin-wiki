@@ -242,23 +242,27 @@ Active = Provider is process of onboarding or actively sharing data with the Dep
 * TTC
 
 ## **2.2.2 BizTalk Server maintenance**
-On-premises Server administration and maintenance:
+On-premises Server administration and maintenance.
+* DevOps: Charlie Wang
 ::: query-table 7daee816-1f8e-4b96-9efd-7780b3435224
 :::
 
 ## **2.2.3 EFT/MFT Administration**
-All non-HIDEX administration operations: 
+All non-HIDEX administration operations.
+* DevOps: Joe Martinez
 ::: query-table 3e5ab2b5-2334-4c98-97b1-467ca65d30a7
 :::
 GoAnywhere Implementation tracked as part of HIDEX.
 
 ## **2.2.5 Azure Cloud Administration**
 All non-HIDEX administration operations:
+* DevOps: Charlie Wang
 ::: query-table 5d1c6cff-6056-4d90-bdda-f6144c36dad8
 :::
 
 ## **2.2.6 DevSecOps Services**
 All non-HIDEX Security, Infrastructure, and DevOps service related operations in progress:
+* DevOps: Joe Martinez
 ::: query-table 2996c28d-a4e6-46db-909d-728d3851e4bf
 :::
 
