@@ -4,52 +4,52 @@
 
 ## 1.1 Project Release Schedule
 
-### 1.1.1  CSI Release Schedule
 
 ![image.png](/.attachments/image-dcf7bafa-c195-49e5-a7aa-23dd98f81b80.png)
 
-## 1.2 **Project -- Healthcare Information Data Exchange -- HIDEx -- Priority 1**
+## 1.2 **Project -- Access Center Modernization (ACM) Project Integration -- Priority 1**
+All HIDEX FHIR operations and data processes required by the Access Center Modernization project. 
+* Project URL: 
+* Planview URL:
 * Analyst: Philip Yau
-* Developer: Willie Lam
-
-Current Status:
-
-Current Features In Progress
-
-Risks
-
-## 1.2 **Project -- Access Center Modernization Project Integration -- Priority 1**
-* Analyst: Philip Yau
-* Developer: Willie Lam
+* Developer: Willie Lam, Tiffany Gaw
+* DevOps: Thaer Rumaneh, Charlie Wang
+### Current Status
 
 ![Untitled.png](/Integration-Services/.attachments/ACM_Status.png)
 
 ## 1.3 **Project -- LOCUS API**
+* Project URL: 
+* Planview URL:
 * Analyst: Zak Masud
 * Developer: Tiffany Gaw
+### Current Features In Progress
+  - Synapse notebook to load sql db for reporting
+### Risks
+  - Onboarding delays due to vendor(s)
+  - MS ticket
+### Current Status
+### Next Steps
 
-Current Features In Progress
-- Synapse notebook to load sql db for reporting
-
-Risks
-- Onboarding delays due to vendor(s)
-- MS ticket
-
-## 1.5  **Provider Access API**
+## 1.4  **Project -- Provider Access API**
+* Project URL: 
+* Planview URL:
 * Analyst: Philip Yau
-* Developer: n/a
+* Developer: Willie Lam
+* DevOps: Charlie Wang
+* Current Features In Progress
+* Risks
+* Current Status
+* Next Steps
 
-Current Features In Progress
-
-Risks
-
-## 1.5  **GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
+## 1.5  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
+* Project URL: 
+* Planview URL:
 * Analyst: Joe Martinez
-* Developer: n/a
-
-Current Features In Progress
-
-Risks
+### Current Features In Progress
+### Risks
+### Current Status
+### Next Steps
 
 ## 2. **Maintenance & Operations**
 
@@ -58,29 +58,31 @@ Risks
 Updates to existing applications.
 
 ### **2.1.1 CSI Web service**
+* Project URL: 
+* Planview URL:
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 
-
+### Current Features In Progress
+::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
+:::
+### Risks
 ### Current Status
-
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
 - DEV Deployment issue has been resolved. Complete Functional Tests have been performed. 
 - Eight work items have failed testing. (See query below)
-
 ### Next Steps
 - Fix the issues related to the Acceptance Criteria for the Failed work items.
 
-Current REQUIREMENTS In Progress
-::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
-:::
-Issues
-
-
 ### **2.1.2 SRL Web service**
+* Project URL: 
+* Planview URL:
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
-
+### Current Features In Progress
+::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
+:::
+### Risks
 ### Current Status
 - Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
 - Screening Tool Business Rules are deployed and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
@@ -88,33 +90,34 @@ Issues
 ### Next Steps
 - Resolve the issues showing below and deploy to TEST, QA and PRODUCTION.
 
-Current Work Items Work-In-Progress:
-::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
-:::
-
 ### **2.1.3 Client Web Service (CS)**
-
+* Project URL: 
+* Planview URL:
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
-
+### Current Features in Progress
+::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
+:::
+### Risks
+::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
+:::
 ### Current Status
 - A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
 ### Next Steps
 - None
 
-Current Features in Progress
-::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
-:::
-Risks
-::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
-:::
-
 ### **2.1.4 MDM Web service**
+* Project URL: 
+* Planview URL:
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
-
-
+### Current Features In Progress
+::: query-table 73965f26-c347-4258-a446-2c1da512122d
+:::
+### Issues/Risks
+::: query-table db4f3db4-fc4b-4331-b395-2081ea045960
+:::
 ### CURRENT STATUS:
 - A new release being developed to prevent blank and null values from transferring to Access Center Dynamics - Release around first Week of December 2025.
 - Three SF cases have been escalated (Priority 2): 
@@ -134,15 +137,6 @@ Risks
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
 - Promote/schedule build deployment to upper environments.
-
-
-Current Features In Progress
-::: query-table 73965f26-c347-4258-a446-2c1da512122d
-:::
-Issues/Risks
-::: query-table db4f3db4-fc4b-4331-b395-2081ea045960
-:::
-
 ### **2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration**
 * Analyst: Zak Masud
 * Developer: Willie Lam
@@ -166,6 +160,8 @@ Risks
 :::
 
 ### **2.1.6 Provider Directory API**
+* Project URL: 
+* Planview URL:
 * Analyst: Zak Masud
 * Developer: Willie Lam
 
@@ -174,6 +170,8 @@ Current Work Items in Progress
 Risks
 
 ### **2.1.6 Patient Access API**
+* Project URL: 
+* Planview URL:
 * Analyst: Mohammed Abdulla
 * Developer: Willie Lam
 
