@@ -5,47 +5,23 @@
 ## 1.1 Project Release Schedule
 
 ## 1.2 **Project -- Healthcare Information Data Exchange -- HIDEx -- Priority 1**
-* Lead Analyst: Philip Yau
+* Analyst: Philip Yau
 * Developer: Willie Lam
 
 Current Status:
 
-Team will start work on Sprint 59 activities, which includes: 
-
-- Sync data between FHIR store and NTST webservice for DCFS, Public Guardian, and Service History
-- resolve NTST Patient Access SF cases
-- Resolve NTST HIDEX FHIR Web Services Enhancements SF Cases
-- Attach azure storage to web user
-- create script to add folders in storage account for HIDEX/MFT providers
-- add new wiki for go-anywhere
-- provision MFT azure VMs
-- automate testing after deployment
-- use application insight BAM activities for LOCUS
-- build LACDMH HIDEX PSC API test cases
-- Da vinci pDex
-- update Getquestionnaire output to include top dimension and subsequent child dimensions
-- application logs ingestion to SEIM tools
-- add required/optional field validation for PSC assessment
-- Onboard LE
-- update GetQuestionnaire response to include additional items
-- Continuously performing analysis and creating user stories and work items
-- Work on resource capacity planning in DevOps and Delivery Plans
-- Reorganize DevOps backlog for project planning
-
 Current Features In Progress
-
-
 
 Risks
 
 ## 1.2 **Project -- Access Center Modernization Project Integration -- Priority 1**
-* Lead Analyst: Philip Yau
+* Analyst: Philip Yau
 * Developer: Willie Lam
 
 ![Untitled.png](/Integration-Services/.attachments/ACM_Status.png)
 
 ## 1.3 **Project -- LOCUS API**
-* Lead Analyst: Zak Masud
+* Analyst: Zak Masud
 * Developer: Tiffany Gaw
 
 Current Features In Progress
@@ -55,8 +31,16 @@ Risks
 - Onboarding delays due to vendor(s)
 - MS ticket
 
-## 1.4  **GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
-* Lead Analyst: Joe Martinez
+## 1.5  **Provider Access API**
+* Analyst: Philip Yau
+* Developer: n/a
+
+Current Features In Progress
+
+Risks
+
+## 1.5  **GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
+* Analyst: Joe Martinez
 * Developer: n/a
 
 Current Features In Progress
@@ -70,7 +54,7 @@ Risks
 Updates to existing applications.
 
 ### 2.1.1 CSI Web service
-* Lead Analyst: Zak Masud
+* Analyst: Zak Masud
 * Developer: Misikir Kebede
 
 
@@ -90,7 +74,7 @@ Issues
 
 
 ### 2.1.2 SRL Web service
-* Lead Analyst: Zak Masud
+* Analyst: Zak Masud
 * Developer: Misikir Kebede
 
 ### Current Status
@@ -106,7 +90,7 @@ Current Work Items Work-In-Progress:
 
 ### 2.1.3 Client Web Service (CS)
 
-* Lead Analyst: Mohammed Abdulla
+* Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 
 ### Current Status
@@ -123,7 +107,7 @@ Risks
 :::
 
 ### 2.1.4 MDM Web service
-* Lead Analyst: Mohammed Abdulla
+* Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 
 
@@ -156,7 +140,7 @@ Issues/Risks
 :::
 
 ### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
-* Lead Analyst: Zak Masud
+* Analyst: Zak Masud
 * Developer: Willie Lam
 
 ### Current Status:
@@ -178,7 +162,7 @@ Risks
 :::
 
 ### 2.1.6 Healthcare Provider Directory (HCPD) FHIR Integration
-* Lead Analyst: Zak Masud
+* Analyst: Zak Masud
 * Developer: Willie Lam
 
 Current Work Items in Progress
