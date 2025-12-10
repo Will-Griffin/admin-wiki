@@ -53,7 +53,7 @@ Risks
 
 Updates to existing applications.
 
-### 2.1.1 CSI Web service
+### **2.1.1 CSI Web service**
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 
@@ -73,7 +73,7 @@ Current REQUIREMENTS In Progress
 Issues
 
 
-### 2.1.2 SRL Web service
+### **2.1.2 SRL Web service**
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 
@@ -88,7 +88,7 @@ Current Work Items Work-In-Progress:
 ::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
 :::
 
-### 2.1.3 Client Web Service (CS)
+### **2.1.3 Client Web Service (CS)**
 
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
@@ -106,7 +106,7 @@ Risks
 ::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
 :::
 
-### 2.1.4 MDM Web service
+### **2.1.4 MDM Web service**
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 
@@ -139,7 +139,7 @@ Issues/Risks
 ::: query-table db4f3db4-fc4b-4331-b395-2081ea045960
 :::
 
-### 2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration
+### **2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration**
 * Analyst: Zak Masud
 * Developer: Willie Lam
 
@@ -161,7 +161,7 @@ Risks
 ::: None
 :::
 
-### 2.1.6 Healthcare Provider Directory (HCPD) FHIR Integration
+### **2.1.6 Provider Directory API**
 * Analyst: Zak Masud
 * Developer: Willie Lam
 
@@ -169,6 +169,13 @@ Current Work Items in Progress
 
 Risks
 
+### **2.1.6 Patient Access API**
+* Analyst: Mohammed Abdulla
+* Developer: Willie Lam
+
+Current Work Items in Progress
+
+Risks
 ## 2.2. Operations
 
 ## EDI and Web service Onboarding
