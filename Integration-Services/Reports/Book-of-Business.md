@@ -14,9 +14,12 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 * Analyst: Philip Yau
 * Developer: Willie Lam, Tiffany Gaw
 * DevOps: Thaer Rumaneh, Charlie Wang
-### Current Status
+### Current Features in Progress
 
 ![Untitled.png](/Integration-Services/.attachments/ACM_Status.png)
+### Risks
+### Current Status
+### Next Steps
 
 ## 1.3 **Project -- LOCUS API**
 * Project URL: 
@@ -37,10 +40,10 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 * Analyst: Philip Yau
 * Developer: Willie Lam
 * DevOps: Charlie Wang
-* Current Features In Progress
-* Risks
-* Current Status
-* Next Steps
+### Current Features In Progress
+### Risks
+### Current Status
+### Next Steps
 
 ## 1.5  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
 * Project URL: 
@@ -55,14 +58,13 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 
 ## 2.1. Maintenance
 
-Updates to existing applications.
+Updates to existing applications and processes.
 
-### **2.1.1 CSI Web service**
+## **2.1.1 CSI Web service**
 * Project URL: 
 * Planview URL:
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
-
 ### Current Features In Progress
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
@@ -74,7 +76,7 @@ Updates to existing applications.
 ### Next Steps
 - Fix the issues related to the Acceptance Criteria for the Failed work items.
 
-### **2.1.2 SRL Web service**
+## **2.1.2 SRL Web service**
 * Project URL: 
 * Planview URL:
 * Analyst: Zak Masud
@@ -86,11 +88,10 @@ Updates to existing applications.
 ### Current Status
 - Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
 - Screening Tool Business Rules are deployed and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
-
 ### Next Steps
 - Resolve the issues showing below and deploy to TEST, QA and PRODUCTION.
 
-### **2.1.3 Client Web Service (CS)**
+## **2.1.3 Client Web Service (CS)**
 * Project URL: 
 * Planview URL:
 * Analyst: Mohammed Abdulla
@@ -107,7 +108,7 @@ Updates to existing applications.
 ### Next Steps
 - None
 
-### **2.1.4 MDM Web service**
+## **2.1.4 MDM Web service**
 * Project URL: 
 * Planview URL:
 * Analyst: Mohammed Abdulla
@@ -124,20 +125,18 @@ Updates to existing applications.
 - CS3756862 (Delay in receiving transactions in Dynamics) and SF Case 
 - CS3756977 (Multiple Create Client operations for the same Client). NTST made configuration changes and DMH is monitoring traffic.
 - CS3767096  POST Encounter operation is returning an error.
-
 - One SF Case (Priority 3):
 - CS3762335 (Receiving Create transactions for old Clients) - Working with NTST to resolve this issue.
 - Integration Team Deployed MDM to Production environment on 9/17/2025.
-
 - New Project End Date: 2025-12-31
-
 
 ### NEXT STEPS:
 
 - Dev and testing as needed based on Netsmart changes.
 - Test and confirm the solution works with Access Center integration.
 - Promote/schedule build deployment to upper environments.
-### **2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration**
+
+## **2.1.5 Healthcare Provider Directory (HCPD) EDI274 Integration**
 * Analyst: Zak Masud
 * Developer: Willie Lam
 
@@ -145,45 +144,55 @@ Updates to existing applications.
 - Production file generation and submission working properly. No issue.
 - Development on new enhancements based on State's Companion Guide v3.0 has been completed. DMBI loaded sample data and test file is generated.
 - Testing completed. Issues reported to State DHCCS. They opened tickets with their IT group. No resolution yet.
-
+### Risks
 ### Next Steps:
 - Generate a production file for June submission based on May data. 
 - Deploy the solution to production.
 - Continue on automation process pending tasks.
 
 
-Current Work Items in Progress
+### Current Work Items in Progress
 ::: query-table 2c444e11-0513-4907-92de-2d4eea1d98e2
 :::
-Risks
-::: None
-:::
 
-### **2.1.6 Provider Directory API**
+
+
+## **2.1.6 Provider Directory API**
 * Project URL: 
 * Planview URL:
 * Analyst: Zak Masud
 * Developer: Willie Lam
+### Current Features In Progress
+### Risks
+### Current Status
+### Next Steps
 
-Current Work Items in Progress
-
-Risks
-
-### **2.1.6 Patient Access API**
+## **2.1.6 Patient Access API**
 * Project URL: 
 * Planview URL:
 * Analyst: Mohammed Abdulla
 * Developer: Willie Lam
+### Current Features In Progress
+### Risks
+### Current Status
+### Next Steps
 
-Current Work Items in Progress
+## **2.1.7 Healthcare Information Data Exchange (HIDEX)**
+* Project URL: 
+* Planview URL:
+* Analyst: Philip Yau
+* Developer: Willie Lam
+* DevOps: Charlie Wang, Joe Martinez
+### Current Features In Progress
+### Risks
+### Current Status
+### Next Steps
 
-Risks
 ## 2.2. Operations
 
-## EDI and Web service Onboarding
+## **2.2.1 Onboarding**
 
-#onboarding_status_05132025
-
+### Current Status
 
 1. On-Boarding for LE 01806: UMMA Community Clinic
 Business configured the program ID 01806 so it can submit the CSI Admission web call. Provider tried and got the error. Nga confirmed it has been configured properly. Asked provider to try the transaction. Provider is still getting error with program id. Scheduling a session with them and their IT vendor to troubleshoot.
@@ -201,60 +210,60 @@ Business and Integration met with them on 4/17/25. They understood the need for 
 Provider is working with Netsmart to finish up various configurations. No ETA yet.
 
 
+## Legal Entities (LE)
+Closed = Provider is no longer active with the Department.
+Active = Provider is process of onboarding or actively sharing data with the Department. PROD and/or NonProd tags indicate if provider is active in the environment.
 
-## 2.2.1. LE Onboarding Status 
-Closed = onboarding process completed and no issue reported
-
-Active = not yet onboarded. check work item comment for current status
 ::: query-table 2852a12e-3db1-4eb0-aceb-53cac84ab415
 :::
 
-## 2.2.2. FFS Onboarding Status
-Closed = onboarding process completed and no issue reported
+## Fee-for-Service (FFS)
+Closed = Provider is no longer active with the Department.
+Active = Provider is process of onboarding or actively sharing data with the Department. PROD and/or NonProd tags indicate if provider is active in the environment.
 
-Active = not yet onboarded. check work item comment for current status
 ::: query-table 50781838-8e69-47b6-95d1-6446f82d8999
 :::
 
-## 2.2.3. EDI File Archiving
-::: query-table d9a33d74-b6ce-4094-83b1-4df41ed635de
+## Mental Health Plans (MHP)
+
+*   LACare currently has issue with SFTP disconnect.
+*   BlueShield is in process of onboarding.
+::: query-table b4b5b9ad-e5b6-4007-bc27-5a8ea1205510
 :::
+## Vendors
+* TODO: SFTP for NetsmartCM project
+* TODO: New PBM onboarding
 
+## Other Government Agencies/County Departments
+* CA DHCS Medical Connect integration testing
+* DPSS
+* DPH
+* DCFS
+* TTC
 
-## 2.2.3 BizTalk Server maintenance
+## **2.2.2 BizTalk Server maintenance**
 On-premises Server administration and maintenance:
 ::: query-table 7daee816-1f8e-4b96-9efd-7780b3435224
 :::
 
-## 2.2.4 EFT/MFT Administration
+## **2.2.3 EFT/MFT Administration**
 All non-HIDEX administration operations: 
 ::: query-table 3e5ab2b5-2334-4c98-97b1-467ca65d30a7
 :::
 GoAnywhere Implementation tracked as part of HIDEX.
 
-## 2.2.5 Azure Cloud Administration
+## **2.2.5 Azure Cloud Administration**
 All non-HIDEX administration operations:
 ::: query-table 5d1c6cff-6056-4d90-bdda-f6144c36dad8
 :::
 
-## 2.2.6 DevSecOps Services
+## **2.2.6 DevSecOps Services**
 All non-HIDEX Security, Infrastructure, and DevOps service related operations in progress:
 ::: query-table 2996c28d-a4e6-46db-909d-728d3851e4bf
 :::
 
 <div style="page-break-after: always"></div>
 
-
-## 2.2.7 ECM/MHP
-### ECM/MHP Onboarding:
-
-*   LACare currently has issue with SFTP disconnect.
-*   BlueShield is in process of onboarding.
-
-
-Current Features in Progress
-::: query-table b4b5b9ad-e5b6-4007-bc27-5a8ea1205510
-:::
 
 # 3. Help Desk Tickets
 Current Trend (November ) : 59 Cases (Open & Closed)
