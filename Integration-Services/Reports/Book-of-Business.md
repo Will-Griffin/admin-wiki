@@ -4,6 +4,8 @@
 
 ## 1.1 Project Release Schedule
 
+### 1.1.1  CSI Release Schedule
+
 ![image.png](/.attachments/image-dcf7bafa-c195-49e5-a7aa-23dd98f81b80.png)
 
 ## 1.2 **Project -- Healthcare Information Data Exchange -- HIDEx -- Priority 1**
