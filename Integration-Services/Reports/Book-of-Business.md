@@ -61,8 +61,8 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 Updates to existing applications and processes.
 
 ## **2.1.1 CSI Web service**
-* Project URL: 
-* Planview URL:
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/CSI
+* Planview URL: <None Found>
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 ### Current Features In Progress
@@ -71,8 +71,7 @@ Updates to existing applications and processes.
 ### Risks
 ### Current Status
 - Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
-- DEV Deployment issue has been resolved. Complete Functional Tests have been performed. 
-- Eight work items have failed testing. (See query below)
+- DEV Deployment issue has been resolved. Complete Functional Tests have been performed. Eight test cases failed and issues fixed and redeployed. Retest in DEV is 100% successful. Retest in TST and QA shows 14 testcases related to SRTSID validation failed. (See query below)
 ### Next Steps
 - Fix the issues related to the Acceptance Criteria for the Failed work items.
 
