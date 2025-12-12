@@ -70,10 +70,12 @@ Updates to existing applications and processes.
 :::
 ### Risks
 ### Current Status
-- Latest Release: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
-- DEV Deployment issue has been resolved. Complete Functional Tests have been performed. Eight test cases failed and issues fixed and redeployed. Retest in DEV is 100% successful. Retest in TST and QA shows 14 testcases related to SRTSID validation failed. (See query below)
+
+- New Development for SRTSID validation feature, Treatment Appointment First Date omit with respective closure reasons, other business rules are deployed to DEV, TST, QA environments on 12/08/2025 and 12/11/2025 respectively. Providers are notified through GovDelivery Bulletin on 12/11/2025. 
+
+- Last Release for Production: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
 ### Next Steps
-- Fix the issues related to the Acceptance Criteria for the Failed work items.
+- Promote the changes from QA to PRODUCTION environment on 12/16/2025.
 
 ## **2.1.2 SRL Web service**
 * Project URL: 
