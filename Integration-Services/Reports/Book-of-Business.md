@@ -27,7 +27,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 * Developer: Tiffany Gaw
 ### Current Features In Progress
   - Synapse notebook to load sql db for reporting
-  - [Click to check the work items in Github LOCUS project]([Issues · LACDMH-Integration/LOCUS](https://github.com/LACDMH-Integration/LOCUS/issues))
+  - [Issues · LACDMH-Integration/LOCUS](https://github.com/LACDMH-Integration/LOCUS/issues)
 ### Risks
   - Onboarding delays due to vendor(s)
   - MS ticket
