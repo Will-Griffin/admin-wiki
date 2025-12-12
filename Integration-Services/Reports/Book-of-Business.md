@@ -34,6 +34,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Completed Synapse notebook to load sql db for reporting for Business Stakeholders to review LOCUS data
 - Met with Business team to review the sql data load and took notes for new enhancements. See current features in progress.
 ### Next Steps
+- Complete the work items in GitHub.
 
 ## 1.4  **Project -- Provider Access API**
 * Project URL: 
