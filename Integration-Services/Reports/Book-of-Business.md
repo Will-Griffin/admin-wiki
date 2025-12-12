@@ -94,7 +94,7 @@ None
 - Screening Tool Business Rules are deployed to DEV and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
 ### Next Steps
 - Resolve the issues with the acceptance criteria showing above under Risks section.
-- Deploy the fix in DEV, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing.
+- Deploy the fix in DEV by 12/23/2025, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing by 12/30/2025.
 
 ## **2.1.3 Client Web Service (CS)**
 * Project URL: 
