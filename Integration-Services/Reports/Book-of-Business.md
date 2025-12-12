@@ -91,7 +91,7 @@ None
 :::
 ### Current Status
 - Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
-- Screening Tool Business Rules are deployed and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
+- Screening Tool Business Rules are deployed to DEV and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
 ### Next Steps
 - Resolve the issues with the acceptance criteria showing above under Risks section.
 - Deploy the fix in DEV, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing.
