@@ -79,8 +79,8 @@ None
 - Promote the changes from QA to PRODUCTION environment on 12/16/2025.
 
 ## **2.1.2 SRL Web service**
-* Project URL: 
-* Planview URL:
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/SRL
+* Planview URL: <None Found>
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 ### Current Features In Progress
@@ -91,7 +91,7 @@ None
 - Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
 - Screening Tool Business Rules are deployed and testing completed. For some work items all acceptance criteria did not meet. Developer is working on these.
 ### Next Steps
-- Resolve the issues showing below and deploy to TEST, QA and PRODUCTION.
+- Resolve the issues with the acceptance criteria showing below and deploy to TEST, QA and PRODUCTION.
 
 ## **2.1.3 Client Web Service (CS)**
 * Project URL: 
