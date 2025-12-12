@@ -37,7 +37,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Complete the work items in GitHub.
 
 ## 1.4  **Project -- Provider Access API**
-* Project URL: 
+* Project URL: [HIDEX/Provider Directory API](https://lacdmh-integrationservices.visualstudio.com/HIDEX/_backlogs/backlog/HIDEX%20Team/Epics?workitem=29233)
 * Planview URL:
 * Analyst: Philip Yau
 * Developer: Willie Lam
