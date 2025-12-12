@@ -69,6 +69,7 @@ Updates to existing applications and processes.
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 ### Risks
+None
 ### Current Status
 
 - New Development for SRTSID validation feature, Treatment Appointment First Date omit with respective closure reasons, other business rules are deployed to DEV, TST, QA environments on 12/08/2025 and 12/11/2025 respectively. Providers are notified through GovDelivery Bulletin on 12/11/2025. 
