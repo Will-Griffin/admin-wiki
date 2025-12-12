@@ -21,7 +21,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 ### Next Steps
 
 ## 1.3 **Project -- LOCUS API**
-* Project URL: 
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/LOCUS
 * Planview URL:
 * Analyst: Zak Masud
 * Developer: Tiffany Gaw
