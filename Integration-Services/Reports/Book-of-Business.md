@@ -37,7 +37,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Complete the work items in GitHub.
 
 ## 1.4  **Project -- Provider Access API**
-* Project URL: [HIDEX/Provider Directory API](https://lacdmh-integrationservices.visualstudio.com/HIDEX/_backlogs/backlog/HIDEX%20Team/Epics?workitem=29233)
+* Project URL: 
 * Planview URL:
 * Analyst: Philip Yau
 * Developer: Willie Lam
@@ -165,14 +165,18 @@ None
 
 
 ## **2.1.6 Provider Directory API**
-* Project URL: 
-* Planview URL:
+* Project URL: [HIDEX/Provider Directory API](https://lacdmh-integrationservices.visualstudio.com/HIDEX/_backlogs/backlog/HIDEX%20Team/Epics?workitem=29233)
+* Planview URL: None found
 * Analyst: Zak Masud
 * Developer: Willie Lam
 ### Current Features In Progress
+None
 ### Risks
+None
 ### Current Status
+-Monthly data load is done by DMBI to comply with State DHCS mandate.
 ### Next Steps
+-None
 
 ## **2.1.6 Patient Access API**
 * Project URL: 
