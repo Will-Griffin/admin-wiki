@@ -49,15 +49,22 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 * Developer: Willie Lam
 * DevOps: Charlie Wang
 ### Current Features In Progress
+- Infrastructure update for new workflow
+- Analysis
 ### Risks
+- BHIN due on 01/30/2027
 ### Current Status
+- In development
 ### Next Steps
+- Further analysis needed
 
 ## 1.5  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
 * Project URL: 
 * Planview URL:
 * Analyst: Joe Martinez
 ### Current Features In Progress
+- Infrastructure update for new workflow
+- Analysis
 ### Risks
 ### Current Status
 ### Next Steps
