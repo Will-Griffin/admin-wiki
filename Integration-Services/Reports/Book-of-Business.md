@@ -15,7 +15,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 * DevOps: Thaer Rumaneh, Charlie Wang
 ### Current Features in Progress
 
-![Untitled.png](/Integration-Services/.attachments/ACM_Status.png)
+![image.png](/.attachments/image-d010c3f3-5f9f-49da-8302-c9a1d14ecb8c.png)
 ### Risks
 ### Current Status
 ### Next Steps
