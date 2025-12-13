@@ -98,7 +98,7 @@ Updates to existing applications and processes.
 
 ## **2.1.2 SRL Web service**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/SRL
-* Planview URL: <None Found>
+* Planview URL: https://lacdmh.ppmpro.com/home.pa#%5B%5DE%2Fentity%2Fportfolio%2F1851258161
 * Analyst: Zak Masud
 * Developer: Misikir Kebede
 ### Current Features In Progress
@@ -114,9 +114,9 @@ Updates to existing applications and processes.
 - Resolve the issues with the acceptance criteria showing above under Risks section.
 - Deploy the fix in DEV by 12/23/2025, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing by 12/30/2025.
 
-## **2.1.3 Client Web Service (CS)**
+## **2.1.3 Client Services (CS) SOAP Interface**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/CS
-* Planview URL: None found
+* Planview URL: https://lacdmh.ppmpro.com/home.pa?entityType=project&id=2705775448
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 ### Current Features in Progress
