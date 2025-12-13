@@ -35,7 +35,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 
 ![image.png](/.attachments/image-3525bb73-273a-46c1-a54d-9a415555d5d7.png)
 ### Risks
-  - None
+  - Not all vendors have completed development on building LOCUS API
 ### Current Status
 - Completed Synapse notebook to load sql db for reporting for Business Stakeholders to review LOCUS data
 - Met with Business team to review the sql data load and took notes for new enhancements. See current features in progress.
