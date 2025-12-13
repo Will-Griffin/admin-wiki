@@ -351,7 +351,6 @@ Salesforce Cases:
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
 :::
 
-<div style="page-break-after: always"></div>
 
 # 4. **Special Support** 
 
@@ -380,7 +379,6 @@ Salesforce Cases:
 - BHSA
 - COE
 
-<div style="page-break-after: always"></div>
 
 # 5. On HOLD (Items in this section will remain static until re-activated) 
 
