@@ -17,8 +17,12 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 
 ![image.png](/.attachments/image-d010c3f3-5f9f-49da-8302-c9a1d14ecb8c.png)
 ### Risks
+- Booking issues with the UI
+- Data synchronizing issues
 ### Current Status
+- ETA for update 12/23/2025
 ### Next Steps
+- Resolve outstanding issues, coordinate with AppDev and Microsoft team.
 
 ## 1.3 **Project -- LOCUS API**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/LOCUS
