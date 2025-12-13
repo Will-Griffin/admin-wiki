@@ -99,15 +99,15 @@ None
 - Deploy the fix in DEV by 12/23/2025, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing by 12/30/2025.
 
 ## **2.1.3 Client Web Service (CS)**
-* Project URL: 
-* Planview URL:
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/CS
+* Planview URL: None found
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 ### Current Features in Progress
-::: query-table 507ae795-fde1-42e9-9412-bbb419bb5c57
+::: query-table 7b4991cb-2690-4139-a459-ef483164c1a5
 :::
 ### Risks
-::: query-table 4cf3a176-7e5d-4a3f-ba64-3ada202c8389
+::: None
 :::
 ### Current Status
 - A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
