@@ -66,8 +66,11 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Infrastructure update for new workflow
 - Analysis
 ### Risks
+- EFT product needs to be replaced
 ### Current Status
+- Infrastructure and onboarding updates in progress
 ### Next Steps
+- Testing
 
 ## 2. **Maintenance & Operations**
 
