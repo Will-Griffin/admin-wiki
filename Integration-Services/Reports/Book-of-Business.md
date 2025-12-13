@@ -195,34 +195,40 @@ None
 -None
 
 ## **2.1.6 Patient Access API**
-* Project URL: 
+* Project URL: https://github.com/orgs/LACDMH-Integration/projects/32
 * Planview URL:
 * Analyst: Mohammed Abdulla
 * Developer: Willie Lam
 ### Current Features In Progress
+- Analysis 
 ### Risks
+- BHIN due 1/30/2027
 ### Current Status
+- Infrastructure update and analysis in progress
 ### Next Steps
+- Development
 
 ## **2.1.7 Healthcare Information Data Exchange (HIDEX)**
-* Project URL: 
+* Project URL: https://dev.azure.com/LACDMH-DPH-Integration/HIDEX
 * Planview URL:
 * Analyst: Philip Yau
 * Developer: Willie Lam
 * DevOps: Charlie Wang, Joe Martinez
 ### Current Features In Progress
+- Project closeout, reporting, moving infrastructure projects
 ### Risks
+- Some reporting overhead when collaborating with DPH on same DHCS issues
 ### Current Status
+- Project ending, moving to maintenance mode.
 ### Next Steps
+- infrastructure and reporting updates to remove DPH access to shared resources.
 
 ## 2.2. Operations
 
 ## **2.2.1 Onboarding**
 
-### Current Status
-
-BizTalk - Client Web Services API 
-onboarding_status_1209_2025
+### Current Status 
+Meeting discussion: onboarding_status_1209_2025
 
 - Change of Vendor for LE 00196: Vista Del Mar:
 Provider asked for test clients. Explained to them they need to create clients for testing in QA environment. Referred them to cs script and provided a copy.
@@ -266,8 +272,8 @@ Active = Provider is process of onboarding or actively sharing data with the Dep
 ::: query-table b4b5b9ad-e5b6-4007-bc27-5a8ea1205510
 :::
 ## Vendors
-* TODO: SFTP for NetsmartCM project
-* TODO: New PBM onboarding
+* SFTP for NetsmartCM project
+* New PBM onboarding
 
 ## Other Government Agencies/County Departments
 * CA DHCS Medical Connect integration testing
