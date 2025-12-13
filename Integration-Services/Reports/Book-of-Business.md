@@ -25,15 +25,17 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Resolve outstanding issues, coordinate with AppDev and Microsoft team.
 
 ## 1.3 **Project -- LOCUS API**
-* Project URL: https://lacdmh-integrationservices.visualstudio.com/LOCUS
+* Project URL(s): 
+   - https://lacdmh-integrationservices.visualstudio.com/LOCUS
+   - https://github.com/LACDMH-Integration/LOCUS/issues
 * Planview URL: https://lacdmh.ppmpro.com/home.pa#%5BT5%5DT%2Fdyn%2Fproject%2FprojectInfo.pa%3Fx%3D1765581299525%26projectid%3D16584500245
 * Analyst: Zak Masud
 * Developer: Tiffany Gaw
 ### Current Features In Progress
+![image.png](/.attachments/image-3525bb73-273a-46c1-a54d-9a415555d5d7.png)
 
   - [Issues · LACDMH-Integration/LOCUS](https://github.com/LACDMH-Integration/LOCUS/issues)
 
-![image.png](/.attachments/image-3525bb73-273a-46c1-a54d-9a415555d5d7.png)
 ### Risks
   - Not all vendors have completed development on building LOCUS API
 ### Current Status
@@ -43,7 +45,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Complete the work items in GitHub.
 
 ## 1.4  **Project -- Provider Access API**
-* Project URL: 
+* Project URL: https://github.com/orgs/LACDMH-Integration/projects/32/views/1
 * Planview URL:
 * Analyst: Philip Yau
 * Developer: Willie Lam
@@ -123,8 +125,7 @@ Updates to existing applications and processes.
 ::: query-table 7b4991cb-2690-4139-a459-ef483164c1a5
 :::
 ### Risks
-::: None
-:::
+- Current GetClientSrvHistory operation mapped incorrect, showing unexpected results for some users.
 ### Current Status
 - A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
@@ -132,8 +133,8 @@ Updates to existing applications and processes.
 - Roll out Service History mapping change to DEV, TST, QA and PRODUCTION according to release schedule.
 
 ## **2.1.4 MDM Web service**
-* Project URL: 
-* Planview URL:
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/MDM
+* Planview URL: https://lacdmh.ppmpro.com/home.pa?entityType=project&id=2105739741
 * Analyst: Mohammed Abdulla
 * Developer: Tiffany Gaw
 ### Current Features In Progress
@@ -190,9 +191,9 @@ None
 ### Risks
 None
 ### Current Status
--Monthly data load is done by DMBI to comply with State DHCS mandate.
+- Monthly data load is done manually by DMBI and Integration to comply with State DHCS mandate.
 ### Next Steps
--None
+- None
 
 ## **2.1.6 Patient Access API**
 * Project URL: https://github.com/orgs/LACDMH-Integration/projects/32
