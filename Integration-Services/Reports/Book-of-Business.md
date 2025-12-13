@@ -113,7 +113,7 @@ None
 - A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
 ### Next Steps
-- None
+- Roll out Service History mapping change to DEV, TST, QA and PRODUCTION according to release schedule.
 
 ## **2.1.4 MDM Web service**
 * Project URL: 
