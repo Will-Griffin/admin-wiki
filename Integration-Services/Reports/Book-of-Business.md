@@ -8,8 +8,8 @@
 
 ## 1.2 **Project -- Access Center Modernization (ACM) Project Integration -- Priority 1**
 All HIDEX FHIR operations and data processes required by the Access Center Modernization project. 
-* Project URL: 
-* Planview URL:
+* Project URL: https://dev.azure.com/LACDMH/Access%20Center%20Modernization
+* Planview URL: https://lacdmh.ppmpro.com/home.pa#%5B%5DE%2Fentity%2Fproject%2F2105739741
 * Analyst: Philip Yau
 * Developer: Willie Lam, Tiffany Gaw
 * DevOps: Thaer Rumaneh, Charlie Wang
@@ -26,7 +26,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 
 ## 1.3 **Project -- LOCUS API**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/LOCUS
-* Planview URL: [Click here](https://lacdmh.ppmpro.com/home.pa#%5BT5%5DT%2Fdyn%2Fproject%2FprojectInfo.pa%3Fx%3D1765581299525%26projectid%3D16584500245)
+* Planview URL: https://lacdmh.ppmpro.com/home.pa#%5BT5%5DT%2Fdyn%2Fproject%2FprojectInfo.pa%3Fx%3D1765581299525%26projectid%3D16584500245
 * Analyst: Zak Masud
 * Developer: Tiffany Gaw
 ### Current Features In Progress
@@ -59,7 +59,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 - Further analysis needed
 
 ## 1.5  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
-* Project URL: 
+* Project URL: https://lacdmh-integrationservices.visualstudio.com/GoAnywhere-MFT
 * Planview URL:
 * Analyst: Joe Martinez
 ### Current Features In Progress
