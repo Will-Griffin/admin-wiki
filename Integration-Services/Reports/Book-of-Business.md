@@ -32,6 +32,8 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 ### Current Features In Progress
 
   - [Issues · LACDMH-Integration/LOCUS](https://github.com/LACDMH-Integration/LOCUS/issues)
+
+![image.png](/.attachments/image-3525bb73-273a-46c1-a54d-9a415555d5d7.png)
 ### Risks
   - None
 ### Current Status
