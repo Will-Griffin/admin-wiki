@@ -114,8 +114,9 @@ Updates to existing applications and processes.
 - Screening Tool Business Rules Policy update to version 18 is deployed to DEV on 12/31/2025.
 - Testing shows all pending issues have been addressed except one issue with GET call output (see Risks above).
 ### Next Steps
-- Resolve the issues with the acceptance criteria showing above under Risks section.
-- Deploy the fix in DEV by 12/26/2025, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing by 12/30/2025.
+- Resolve the GET call issue.
+- Deploy the fix in DEV by 1/5/2026.
+- Upon successful test deploy the update to TEST and QA by 1/5/2026 and PRODUCTION by 1/8/2025.
 
 ## **2.1.3 Client Services (CS) SOAP Interface**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/CS
