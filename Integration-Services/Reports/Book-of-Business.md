@@ -111,7 +111,8 @@ Updates to existing applications and processes.
 :::
 ### Current Status
 - Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
-- Screening Tool Business Rules are deployed to DEV and testing completed. For some work items all acceptance criteria did not meet. Developer worked on these and redeployed to DEV on 12/22/2025. Retest shows few issues. Developer fixed these issues and redeployed to DEV on 12/23/2025. Retest done on 12/24/2025 and shows some issues (see Risks).
+- Screening Tool Business Rules Policy update to version 18 is deployed to DEV on 12/31/2025.
+- Testing shows all pending issues have been addressed except one issue with GET call output (see Risks above).
 ### Next Steps
 - Resolve the issues with the acceptance criteria showing above under Risks section.
 - Deploy the fix in DEV by 12/26/2025, test and eventually deploy to TEST, QA and PRODUCTION upon successful testing by 12/30/2025.
