@@ -4,7 +4,7 @@
 
 ## 1.1 Project Release Schedule
 
-![image.png](/.attachments/image-4e2a4fb4-8e65-4368-9b9a-01993d82c098.png)
+![image.png](/.attachments/image-f5afee05-1a1a-447a-892f-5b17996d2d8f.png)
 
 ## 1.2 **Project -- Access Center Modernization (ACM) Project Integration -- Priority 1**
 All HIDEX FHIR operations and data processes required by the Access Center Modernization project. 
