@@ -30,8 +30,8 @@
 ## Full Provider Adoption Timeline
 
 - Based on current integration progress and EMR vendor timelines:
-  - **Expected full adoption:** Q3 2026
-  - *Note:* Timeline is dependent on both EMR release schedules and provider onboarding capacity. This is we can provide a general expectation but we cannot set a fixed timeline for vendors, since each vendor’s staffing, priorities, and development approach vary.
+  - **Estimated full adoption:** Q3 2026
+  - *Note:* Timeline is dependent on both EMR release schedules and provider onboarding capacity. This is we can provide a general expectation, but we cannot set a fixed timeline for vendors, since each vendor’s staffing, priorities, and development approach vary.
 
 ---
 
