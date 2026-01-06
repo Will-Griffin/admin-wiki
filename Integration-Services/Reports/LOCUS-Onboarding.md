@@ -5,7 +5,7 @@
 ## A. General Information
 
 - **Project Title:** LOCUS Provider Integration & API Enablement  
-- **Reporting Period:** _(Current reporting period)_  
+- **Reporting Period:** Q4 2025  
 - **Prepared By:** CIOB App Dev & Integration Services Division  
 - **Date Prepared:** 1/6/2026 
 
