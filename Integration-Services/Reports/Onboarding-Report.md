@@ -1,8 +1,4 @@
-#LACDMH CIOB App Dev and Integration Services
-# LOCUS Status
-
-**Date:** [Insert Date]  
-**Prepared by:** [Your Name]  
+#LACDMH CIOB App Dev and Integration Services Division
 
 ---
 
