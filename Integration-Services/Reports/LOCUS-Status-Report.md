@@ -3,9 +3,8 @@
 ---
 
 ## Provider Integration Status
-
 - **Number of Providers Integrated:** 2
-  - *Note:* One vendor represents approximately one-third of the total provider base.
+  - [list providers]
 - **Are providers sharing data via LOCUS?**  
   Yes, integrated providers are actively sharing data.
 
