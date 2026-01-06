@@ -37,8 +37,9 @@
 - Issued **62 non-production API keys** to support vendor development and provider testing.
 - Issued **37 production API keys** to support provider integration.
 - Successfully onboarded **3 providers** into production:
-  - Enki  
-  - _(Additional provider onboarding in progress)_
+  - 00188: ENKI Health and Research Systems Inc.  
+  - 00778: D'Veal Corporation dba D'Veal Family and Youth Services  
+  - 00207; Child and Family Guidance Center
 - Confirmed active LOCUS data exchange from integrated providers.
 
 EHR Vendor Engagement & API Development
