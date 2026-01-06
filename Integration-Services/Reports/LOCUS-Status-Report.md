@@ -9,12 +9,12 @@
 - **Project Title:** LOCUS Provider Integration & API Enablement  
 - **Reporting Period:** _(Current reporting period)_  
 - **Prepared By:** CIOB App Dev & Integration Services Division  
-- **Date Prepared:** _(Insert date)_  
+- **Date Prepared:** 1/6/2026 
 
 **Project Status:** ☑ On Schedule ☐ Ahead of Schedule ☐ Behind Schedule  
 
 > **Status Rationale:**  
-> The project is currently on schedule based on known EHR vendor commitments and active provider onboarding. While downstream dependencies (vendor UI releases and provider capacity) exist, no confirmed delays have materially impacted the overall projected adoption window at this time.
+> DMH development is complete and all companion guide materials were released.  The project is currently on schedule based on known EHR vendor commitments and active provider onboarding. 
 
 ---
 
@@ -36,14 +36,33 @@
 
 ## D. Significant Accomplishments for Current Period
 
+- Issued **62 non-production API keys** to support vendor development and provider testing.
 - Issued **37 production API keys** to support provider integration.
-- Successfully onboarded **2 providers** into production:
+- Successfully onboarded **3 providers** into production:
   - Enki  
   - _(Additional provider onboarding in progress)_
 - Confirmed active LOCUS data exchange from integrated providers.
-- Completed API development with **Exym**; provider onboarding underway.
-- Received formal integration commitment and delivery timeline from **Netsmart**.
 
+EHR Vendor Engagement & API Development
+
+- **Exym**
+  - API development complete.
+  - Providers currently onboarding.
+
+- **Netsmart**
+  - Integration commitment received.
+  - **Planned Release:** April 2026.
+
+- **Welligent**
+  - Development timeline being finalized.
+  - **Estimated Release:** Q1 2026.
+
+- **Other Vendors**
+  - Timelines not yet released.
+
+- **Collaboration**
+  - All engaged EHR vendors are actively collaborating with LOCUS on API development.
+  - Some providers have elected to pursue in-house integration approaches.
 ---
 
 ## E. Planned Activities for Next Period
@@ -71,64 +90,6 @@
 - **Dependency Management:**  
   Adoption timelines remain dependent on external vendor staffing, prioritization, and development approaches.
 
----
 
-## Provider Integration Status (Snapshot)
 
-- **Number of Production API Keys Issued:** 37  
-- **Number of Providers Integrated:** 2  
-  - Enki  
-  - _(Additional provider onboarding in progress)_  
-- **Are providers sharing data via LOCUS?**  
-  Yes. Integrated providers are actively sharing data.
 
----
-
-## EHR Vendor Engagement & API Development
-
-- **Exym**
-  - API development complete.
-  - Providers currently onboarding.
-
-- **Netsmart**
-  - Integration commitment received.
-  - **Planned Release:** April 2026.
-
-- **Welligent**
-  - Development timeline being finalized.
-  - **Estimated Release:** Q1 2026.
-
-- **Other Vendors**
-  - Timelines not yet released.
-
-- **Collaboration**
-  - All engaged EHR vendors are actively collaborating with LOCUS on API development.
-  - Some providers have elected to pursue in-house integration approaches.
-
----
-
-## Full Provider Adoption Outlook
-
-- **Estimated Full Adoption:** Q3 2026  
-
-> *Note:* This estimate is based on current integration progress and known EHR vendor timelines. Adoption timing is influenced by vendor release schedules and individual provider onboarding capacity. As vendors operate independently with varying resources and priorities, a fixed adoption deadline cannot be established.
-
----
-
-## Summary / Key Risks
-
-- **Integration Progress:**  
-  2 providers live in production; additional providers expected as vendor releases occur.
-- **Vendor Participation:**  
-  Strong engagement from the three largest EHR vendors, with timelines either published or nearing finalization.
-- **Key Risks:**  
-  - Vendor delivery delays.
-  - Provider onboarding capacity constraints.
-
----
-
-## Next Steps
-
-- Continue provider onboarding support as integrations become available.
-- Maintain coordination with EHR vendors on release readiness.
-- Update leadership with revised adoption projections as timelines mature.
