@@ -5,7 +5,8 @@
 ## Provider Integration Status
 - **Number of Production API keys issued:** 37
 - **Number of Providers Integrated:** 2
-  - [list providers]
+  - Enki
+  - []
 - **Are providers sharing data via LOCUS?**  
   Yes, integrated providers are actively sharing data.
 
@@ -22,9 +23,9 @@
   - Finalizing development timeline.
   - **Estimated Release:** Q1 2026
 - **Other Vendors:**  
-  - [List other vendors and current engagement status, if applicable]
+  - Other vendors have not released their timelines yet.
 - **Collaboration:**  
-  All engaged EHR vendors are actively working with LOCUS on API development.
+  All engaged EHR vendors are actively working with LOCUS on API development. Some providers have opted to use their own in-house development.
 
 ---
 
@@ -50,7 +51,3 @@
 
 - Support providers in onboarding as soon as EHR integrations are finalized.
 - Update adoption projections following vendor releases.
-
----
-
-*Please update data in brackets [] as appropriate before sharing or submitting this report.*
