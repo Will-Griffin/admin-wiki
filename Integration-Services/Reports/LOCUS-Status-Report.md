@@ -1,6 +1,6 @@
-# COUNTY OF LOS ANGELES – DEPARTMENT OF MENTAL HEALTH  
+# <div align="center">COUNTY OF LOS ANGELES – DEPARTMENT OF MENTAL HEALTH  
 ## CIOB – Application Development & Integration Services Division  
-## PROJECT STATUS REPORT
+## PROJECT STATUS REPORT</div>
 
 ---
 
