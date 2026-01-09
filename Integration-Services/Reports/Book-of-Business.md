@@ -320,33 +320,25 @@ Current Trend (December ) : 53 Cases (Open & Closed)
 
 ![Untitled.png](/Integration-Services/.attachments/HEATReport.png)
  
-Monthly trend for 2025: approx. 80 cases per month 
+Monthly trend for 2026: approx. 90 cases per month 
 
 
 Tasks Assigned for Integration Team for Nov in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| 999 | 3 |
-| ACCESS | 9 |
-| Account Request | 2 |
-| Application Down| 2 |
+| 999 | 5 |
 | Application Error| 1|
 | Connection Status | 1 |
-| Claim Status | 8 |
-| Connection Issue | 5 |
-| Documentation| 1 |
-| Download| 1 |
-| EDI Certification| 1 |
-| Error | 10 |
+| Claim Status | 6 |
+| Connection Issue | 1 |
+| EDI Certification| 3 |
 | General Questions | 4 |
 | How To | 4 |
-| Installation Certificate | 8 |
-| Member Authorization| 1 |
-| Password| 2 |
+| Installation Certificate | 1 |
 | Update Request | 1 |
 | Website down| 2 |
-| **Grand Total** | **59** |
+| **Grand Total** | **29** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
