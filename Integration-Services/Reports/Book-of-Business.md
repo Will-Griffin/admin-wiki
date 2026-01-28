@@ -124,7 +124,7 @@ Updates to existing applications and processes.
 ### Risks
 - Current GetClientSrvHistory operation mapped incorrect, showing unexpected results for some users.
 ### Current Status
-- A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first Week of December 2025.
+- A new release being developed to map GetClientSrvHistory operation to NTST's getServiceDetails operation - Release around first week of February 2026 to DEV environment.
 - The Latest Client Services release, including all SOGI data elements, is in Production as of  2024-12-17.
 ### Next Steps
 - Roll out Service History mapping change to DEV, TST, QA and PRODUCTION according to release schedule.
