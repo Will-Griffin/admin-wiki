@@ -105,16 +105,13 @@ Updates to existing applications and processes.
 ::: query-table acd79995-55fd-49fc-8ce3-f9e0a20619bf
 :::
 ### Risks
-::: query-table 278b2b2a-01ae-4d9e-9b82-ce28b89715b8
+::: None
 :::
 ### Current Status
-- Screening Tool Questionnaire and School Based Data intake deployed to PRODUCTION on 01/28/2025. 
-- Screening Tool Business Rules Policy update to version 18 is deployed to DEV on 12/31/2025.
-- Testing shows all pending issues have been addressed except one issue with GET call output (see Risks above).
+- Applied BRE policy enhancements to validate Business Defined Rules for Screening Tool Questionnaire and some other validations to PRODUCTION on 01/06/2026.
+
 ### Next Steps
-- Resolve the GET call issue.
-- Deploy the fix in DEV by 1/5/2026.
-- Upon successful test deploy the update to TEST and QA by 1/5/2026 and PRODUCTION by 1/8/2025.
+- Continue M&O.
 
 ## **2.1.3 Client Services (CS) SOAP Interface**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/CS
