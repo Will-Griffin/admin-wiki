@@ -89,14 +89,12 @@ Updates to existing applications and processes.
 ::: query-table 486cf8fc-eb51-4d3c-9bf0-1eb1983bbb7b
 :::
 ### Risks
-- Outstanding HEAT tickets
+- None
 ### Current Status
 
-- New Development for SRTSID validation feature, Treatment Appointment First Date omit with respective closure reasons, other business rules are deployed to DEV, TST, QA environments on 12/08/2025 and 12/11/2025 respectively. Providers are notified through GovDelivery Bulletin on 12/11/2025. 
-
-- Last Release for Production: SR#753909 Initial Psychiatric Data capture modification is live now in Production environment as of 2024-12-17, current version: 202001 R2
+- New Development for SRTSID validation feature, Treatment Appointment First Date omit with respective closure reasons, other business rules are deployed to PRODUCTION environments on 12/17/2025.
 ### Next Steps
-- Promote the changes from QA to PRODUCTION environment on 12/16/2025.
+- Continue M&O.
 
 ## **2.1.2 SRL Web service**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/SRL
