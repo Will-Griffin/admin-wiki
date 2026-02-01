@@ -341,7 +341,7 @@ All non-HIDEX Security, Infrastructure, and DevOps service related operations in
 
 
 # 3. Help Desk Tickets
-Current Trend (December ) : 53 Cases (Open & Closed)
+Current Trend (December ) : 8 Cases (Open & Closed)
 
 
 
@@ -354,18 +354,18 @@ Tasks Assigned for Integration Team for Nov in HEAT systems:
 
 | Category|                     No of Tickets |
 |  --- | --- |
-| 999 | 5 |
+| 999 | 35 |
 | Application Error| 1|
 | Connection Status | 1 |
 | Claim Status | 6 |
 | Connection Issue | 1 |
-| EDI Certification| 3 |
-| General Questions | 4 |
-| How To | 4 |
-| Installation Certificate | 1 |
-| Update Request | 1 |
+| EDI Certification| 13 |
+| General Questions | 14 |
+| How To | 8 |
+| Installation Certificate | 11 |
+| Update Request | 11 |
 | Website down| 2 |
-| **Grand Total** | **29** |
+| **Grand Total** | **89** |
 
 Salesforce Cases: 
 ::: query-table f565c801-1c1e-4d4c-afdf-880b63429b27
