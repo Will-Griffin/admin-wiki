@@ -44,7 +44,7 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 ### Next Steps
 - Complete the work items in GitHub.
 
-## 1.4  **Project -- Provider Access API**
+## 1.4  **Project -- Payer to Payer**
 * Project URL: https://github.com/orgs/LACDMH-Integration/projects/32/views/1
 * Planview URL:
 * Analyst: Philip Yau
@@ -60,7 +60,39 @@ All HIDEX FHIR operations and data processes required by the Access Center Moder
 ### Next Steps
 - Further analysis needed
 
-## 1.5  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
+## 1.5  **Project -- Provider Access API**
+* Project URL: https://github.com/orgs/LACDMH-Integration/projects/32/views/1
+* Planview URL:
+* Analyst: 
+* Developer: 
+* DevOps: Charlie Wang
+### Current Features In Progress
+- Infrastructure update for new workflow
+- Analysis
+### Risks
+- BHIN due on 01/30/2027
+### Current Status
+- In development
+### Next Steps
+- Further analysis needed
+
+## 1.6  **Project -- Pre Authorization**
+* Project URL: https://github.com/orgs/LACDMH-Integration/projects/32/views/1
+* Planview URL:
+* Analyst: 
+* Developer: 
+* DevOps: 
+### Current Features In Progress
+- Infrastructure update for new workflow
+- Analysis
+### Risks
+- BHIN due on 01/30/2027
+### Current Status
+- In development
+### Next Steps
+- Further analysis needed
+
+## 1.7  **Project -- GoAnywhereMFT - Replace Globalscape Electronic File Transfer (EFT)**
 * Project URL: https://lacdmh-integrationservices.visualstudio.com/GoAnywhere-MFT
 * Planview URL:
 * Analyst: Joe Martinez
