@@ -7,7 +7,7 @@
 - **Project Title:** LOCUS Provider Integration & API Enablement  
 - **Reporting Period:** Q4 2025  
 - **Prepared By:** CIOB App Dev & Integration Services Division  
-- **Date Prepared:** 1/6/2026 
+- **Date Prepared:** 2/2/2026 
 
 **Project Status:** ☑ On Schedule ☐ Ahead of Schedule ☐ Behind Schedule  
 
@@ -37,9 +37,16 @@
 - Issued **62 non-production API keys** to support vendor development and provider testing.
 - Issued **37 production API keys** to support provider integration.
 - Successfully onboarded **10 providers** into production:
-  - 00188: ENKI Health and Research Systems Inc.  
-  - 00778: D'Veal Corporation dba D'Veal Family and Youth Services  
-  - 00207; Child and Family Guidance Center
+  - 00188: ENKI Health and Research Systems Inc.    
+  - 00778: D'Veal Corporation dba D'Veal Family and Youth Services    
+  - 00207: Child and Family Guidance Center  
+  - 01209: Center for Integrated Family and Health Services    
+  - 00181: Community Family Guidance Center   
+  - 00208: San Fernando Valley Community Mental Health Center Inc  
+  - 00214: Special Service for Groups  
+  - 00201: Penny Lane Centers  
+  - 00965: Heritage Clinic and The Community Assistance Program for Seniors  
+  - 00558: SHIELDS for Families
 - Confirmed active LOCUS data exchange from integrated providers.
 
 EHR Vendor Engagement & API Development
