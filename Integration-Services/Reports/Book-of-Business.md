@@ -262,6 +262,7 @@ None
 ![image.png](/.attachments/Providerstatus.png)
 
 ![image.png](/.attachments/Otherstatus.png)
+
 Meeting discussion: onboarding_status_1209_2025
 
 - Change of Vendor for LE 00196: Vista Del Mar:
