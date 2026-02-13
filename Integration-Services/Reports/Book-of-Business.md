@@ -263,25 +263,6 @@ None
 
 ![image.png](/.attachments/Otherstatus.png)
 
-Meeting discussion: onboarding_status_1209_2025
-
-- Change of Vendor for LE 00196: Vista Del Mar:
-Provider asked for test clients. Explained to them they need to create clients for testing in QA environment. Referred them to cs script and provided a copy.
-
-- On-Boarding for LE 01806: UMMA Community Clinic:
-As of 12/5/2025 Friday - provider did not provide an update. Sent email asking for an update. Previously they reported on 11/18/25 their connection issue is resolved. 
-
-- On-Boarding for LE 02470: GHC of MLK:
-As of 10/14/25, provider was still working on test claims. Asked them to provide an update once cs development is completed.
-
-- On-Boarding for LE 02394: MLK Jr-BHC DBA Alpine Special Treatment:
-Provider is having Program of Admission error. Asked business to confirm what Program of Admission code is tied to provider's LE 02394. 
-
-- Onboarding LE 01048: Pacifica Hospital of the Valley UCC:
-Business had two values for LE number. Nga cleared it out. After confirmation - Integration added 19JUX as the Program Of Service code and 19JU as the Provider Number for LE 01048. Dictionary Service script is getting updated. Pull Requests are created in shared site. It is supposed to be applied to DEV environment thru TEST/QA/PROD on 12/8/2025. Once completed - provider/vendor will be notified.
-
-- On-Boarding for LE 02471: Abounding Rivers:
-Provider reported an issue with their admit call throwing guarantor error. Integration investigated and found no issue with the data. Asked DMH Revenue Systems team to verify if LE02471 needs any guarantor setup. Notified provided that we are working on the issue.
 
 
 
